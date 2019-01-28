@@ -3,6 +3,7 @@
 # --
 
 ## Designing for Humans
+01/28/2019
 
    Anthropomorphism is defined as the attribution of human characteristics or behavior to a god, animal, or object. As industrial designers, we often let anthropomorphism dictate the form of our products and the process we go through when designing them. We want people to buy our products and people like things that are familiar to them. We are taught to design with our user in mind, but it is rare that we ever have to design something that does not have a human attached to at least one side of a product. Although, it is beneficial to take into account how humans may interact with a product or system we must also look at designing through a wider lens by taking into account that not everything behaves like a human and not every user is human.  
   
