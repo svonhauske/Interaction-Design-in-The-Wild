@@ -1,4 +1,7 @@
-# Design in Safaris # ### by Sofia von Hauske Valtierra ###
+# Design in Safaris 
+### by Sofia von Hauske Valtierra
+
+
 
 ## Designing for Humans
 
