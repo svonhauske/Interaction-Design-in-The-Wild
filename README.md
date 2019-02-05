@@ -18,5 +18,6 @@
 ## First Try at Ethograms
 02/03/2019
 
+![elephants - san diego zoo](https://user-images.githubusercontent.com/43420227/52256429-a953b280-28e4-11e9-8945-7a63fdacc721.jpg)
 
 
