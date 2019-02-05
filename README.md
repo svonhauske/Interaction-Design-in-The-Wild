@@ -28,6 +28,9 @@
    
    
 ### Elephants - Live Cam at San Diego Zoo
+
+![baby elephants](https://user-images.githubusercontent.com/43420227/52290513-31b27180-293e-11e9-97f0-c78c8d60b52b.jpg)
+
 ![elephants - san diego zoo](https://user-images.githubusercontent.com/43420227/52256429-a953b280-28e4-11e9-8945-7a63fdacc721.jpg)
 
 ### Elephant experts:
