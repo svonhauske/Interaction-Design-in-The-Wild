@@ -18,6 +18,9 @@
 ## First Try at Ethograms
 02/03/2019
 
+### Elephants - Live Cam at San Diego Zoo
 ![elephants - san diego zoo](https://user-images.githubusercontent.com/43420227/52256429-a953b280-28e4-11e9-8945-7a63fdacc721.jpg)
 
+### Polar Bears - Live Cam at San Diego Zoo
+![polar bear - san diego zoo](https://user-images.githubusercontent.com/43420227/52256472-ca1c0800-28e4-11e9-8826-496653442817.jpg)
 
