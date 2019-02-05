@@ -40,6 +40,9 @@
 - Dr. Cynthia Moss: Focuses on distribution, demography, population dynamics, social organization and behavior of the Amboseli elephants.
 
 ### Polar Bears - Live Cam at San Diego Zoo
+
+<img width="1440" alt="screen shot 2019-02-05 at 11 56 17 am" src="https://user-images.githubusercontent.com/43420227/52289972-185cf580-293d-11e9-9f8b-66c9b165b61b.png">
+
 ![polar bear - san diego zoo](https://user-images.githubusercontent.com/43420227/52256472-ca1c0800-28e4-11e9-8826-496653442817.jpg)
 
 ### Polar Bear experts:
