@@ -66,8 +66,8 @@
 First I started by researching animals; I started looking into Interesting behaviors that they had, or exciting ways in which they sensed things. One of the things that I found really interesting and that I went a little more deeply into was Firefly communication. Fireflies have different flying and lighting patterns that lets them communicate with their species and attract females. I had a couple of ideas of physical and digital games that had to do with this, but I wasn't really convinced. Starting out with research was not really getting me to where I wanted.
 
 ![firefly](https://user-images.githubusercontent.com/43420227/52544532-6039ad80-2d7f-11e9-9998-c70df796e1ec.jpg)
-[Science Friday](https://www.sciencefriday.com/educational-resources/talk-like-a-firefly/)
-[NPS](https://www.nps.gov/grsm/learn/nature/firefly-flash-patterns.htm)
+- [Science Friday](https://www.sciencefriday.com/educational-resources/talk-like-a-firefly/)
+- [NPS](https://www.nps.gov/grsm/learn/nature/firefly-flash-patterns.htm)
 
  So I decided to start by thinking about empathy. 
 
@@ -112,10 +112,10 @@ Noise Pollution Effects:
   - Different specied have suffered behavioural changes when communicating.
   - Cephalopods suffer damage to their statocyst, the organ responsible for their maintaining balance in the water.
 
-[NPS](https://www.nps.gov/subjects/sound/effects_wildlife.htm)
-[Everything Connects](http://www.everythingconnects.org/noise-pollution.html)
-[IFL Science] (https://www.iflscience.com/environment/how-noise-pollution-changing-animal-behaviour/)
-[Australian Academy of Science](https://www.science.org.au/curious/earth-environment/noise-pollution-and-environment)
+- [NPS](https://www.nps.gov/subjects/sound/effects_wildlife.htm)
+- [Everything Connects](http://www.everythingconnects.org/noise-pollution.html)
+- [IFL Science](https://www.iflscience.com/environment/how-noise-pollution-changing-animal-behaviour/)
+- [Australian Academy of Science](https://www.science.org.au/curious/earth-environment/noise-pollution-and-environment)
 
 ### Animal Pinnae
 
