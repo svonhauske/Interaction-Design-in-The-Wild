@@ -48,7 +48,7 @@
 
 ![polar bear - san diego zoo](https://user-images.githubusercontent.com/43420227/52256472-ca1c0800-28e4-11e9-8826-496653442817.jpg)
 
-### Polar Bear experts:
+### Polar Bear Experts:
 
 - Nikita Ovsyanikov: Has studied the dynamics of the polar bear population and their behaviour on Wrangel Island for decades. He talks about the threats to polar bears and people's responsibilities to protect them. He has a methodology for preventing and managing conflict between polar bears and humans.
 
@@ -65,7 +65,7 @@
 ![firefly](https://user-images.githubusercontent.com/43420227/52544532-6039ad80-2d7f-11e9-9998-c70df796e1ec.jpg)
 
 
-### Starting Out with Empathy
+### Thinking About Empathy
 
 ![news](https://user-images.githubusercontent.com/43420227/52544535-63349e00-2d7f-11e9-8c6a-55159160191b.jpg)
 
