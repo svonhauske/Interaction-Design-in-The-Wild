@@ -105,10 +105,11 @@ Noise Pollution Effects:
   - It can their established behaviours like vigilance, foraging, resting and social interactions.
 
 *Marine Species:
-
-
-
-Read more: Noise Pollution - Everything Connects 
+  - Damage a cetacean’s hearin and interfere with their sonar navigation system, leaving them stranded.
+  - Physical trauma like bleeding around the ears, brain and other tissues, and air bubbles in their organs.
+  - Some species have started avoiding areas that were used for breeding and/or feeding.
+  - Different specied have suffered behavioural changes when communicating.
+  - Cephalopods suffer damage to their statocyst, the organ responsible for their maintaining balance in the water.
 
 [NPS](https://www.nps.gov/subjects/sound/effects_wildlife.htm)
 [Everything Connects](http://www.everythingconnects.org/noise-pollution.html)
