@@ -86,6 +86,9 @@ As I started searching for more information on this, I kept coming accross thing
 
 News reports are mostly about marine life and the effect of noise pollution on them, but they aren't the only ones getting affected.
 
+### Noise Pollution
+
+What is noise pollution? A noise is an unwanted or inappropriate sound. Noise pollution is is noise that interferes with normal activities, and disrupts or diminishes our quality of life. [PBS News Hour](https://www.pbs.org/newshour/nation/noise-pollution-humans-wreaking-havoc-u-s-wildlife)
 
 ![animals](https://user-images.githubusercontent.com/43420227/52544539-66c82500-2d7f-11e9-8a3a-cbe71294bc40.jpg)
 
