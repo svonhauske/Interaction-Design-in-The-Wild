@@ -71,7 +71,7 @@
 
 ### Hearing in Animals
 
-![news](https://user-images.githubusercontent.com/43420227/52544535-63349e00-2d7f-11e9-8c6a-55159160191b.jpg)
+![news](https://user-images.githubusercontent.com/43420227/52544882-9f68fe00-2d81-11e9-8205-5e219b9a1b24.jpg)
 
 ![animals](https://user-images.githubusercontent.com/43420227/52544539-66c82500-2d7f-11e9-8a3a-cbe71294bc40.jpg)
 
