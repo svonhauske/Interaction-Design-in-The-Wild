@@ -95,21 +95,21 @@ What is noise pollution? A noise is an unwanted or inappropriate sound. Noise po
 Noise Pollution Effects:
 
 * Flying Species:
-  - Changes the distribution of birds, which are important pollinators and seed dispersers. 
+  - Changes the distribution of birds, affecting trees and plants.
   - Some bird species have demonstrated adjustments to their vocal behaviour in an attempt to adapt. 
-  - Some birds species have began to sing at night, which could begin to alter behavioural patterns in urban species. 
+  - Some birds species have begun to sing at night.
   
 * Land Species: 
-  - Female frogs exposed to traffic noise have more difficulty locating the male's signal.
+  - Female frogs have more difficulty locating the male's signal.
   - Reduces in the size of an area in which predators can hear their prey, and the ability of animals to avoid predators.
   - High intensity sound induces fear, sometimes forcing species to abandon their habitat.
-  - It can their established behaviours like vigilance, foraging, resting and social interactions.
+  - It can alter their established behaviours like vigilance, foraging, resting and their social interactions.
 
 * Marine Species:
-  - Damage a cetacean’s hearin and interfere with their sonar navigation system, leaving them stranded.
-  - Physical trauma like bleeding around the ears, brain and other tissues, and air bubbles in their organs.
-  - Some species have started avoiding areas that were used for breeding and/or feeding.
-  - Different specied have suffered behavioural changes when communicating.
+  - Damage a cetacean’s hearing and interfere with their sonar navigation system, leaving them stranded.
+  - Physical trauma like bleeding around the ears, brain and other tissues, and air bubbles in their organs. ("The Bends")
+  - Some species have started avoiding areas that were previously breeding or feeding grounds.
+  - Different species have suffered behavioural changes when communicating.
   - Cephalopods suffer damage to their statocyst, the organ responsible for their maintaining balance in the water.
 
 - [NPS](https://www.nps.gov/subjects/sound/effects_wildlife.htm)
