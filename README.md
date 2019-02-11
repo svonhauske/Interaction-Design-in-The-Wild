@@ -57,3 +57,11 @@
 - Dr. Nicholas J. Lunn: Studies dynamics and general ecology of polar bears,and the effects of climatic change on the ecology of polar bears in western Hudson Bay.
 
 # --
+  
+## First Try at Ethograms
+02/10/2019
+
+### First Attempt: Researching Animals
+
+
+# --  
