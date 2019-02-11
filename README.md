@@ -58,7 +58,7 @@
 
 # --
   
-## First Try at Ethograms
+## Empathy Machines
 02/10/2019
 
 ### First Attempt: Researching Animals
