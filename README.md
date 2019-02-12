@@ -217,8 +217,8 @@ Fourth Step: Testing
 
 
 [Empathy Machine Video](https://vimeo.com/316803913)
-
-[!["screen shot 2019-02-12 at 9 55 46 am" src="https://user-images.githubusercontent.com/43420227/52644314-94f75300-2eac-11e9-87b3-b52ed9e94ac9.png"](http://img.youtube.com/vi/3LiqIV5-rsY/0.jpg)](http://www.youtube.com/watch?v=3LiqIV5-rsY "Empathy Machine")
+ 
+[!["screen shot 2019-02-12 at 9 55 46 am" src="https://user-images.githubusercontent.com/43420227/52644314-94f75300-2eac-11e9-87b3-b52ed9e94ac9.png"](http://img.youtube.com/vi/BB0bYADjauI/0.jpg)](http://www.youtube.com/watch?v=BB0bYADjauI "Empathy Machine")
 
 Results:
 
