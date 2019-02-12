@@ -119,9 +119,9 @@ Noise Pollution Effects:
 
 ### Animal Pinnae
 
-What is Pinnae? Pinnae are the external part of the ears in humans and other mammals.
+What is Pinnae? Pinnae are the external part of the ears in humans and other mammals. I decided to focus on the pinnae because I think it is something we often overlook or take for granted when we are thinking about hearing.
 
-Some animals can swivel or rotate their Pinnae in order to pinpoint where sounds are coming from.
+Some animals can swivel or rotate their pinnae in order to pinpoint where sounds are coming from. For predators, it is helpful while hunting, to find their prey, and for the animals being hunted, it helps them avoid predators.  
 
 Examples:
 * Foxes: Foxes can rotate pinnae up to 150 degrees.
