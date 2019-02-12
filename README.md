@@ -133,7 +133,58 @@ Examples:
 * Rodents
 
 [Signia](https://www.signiausa.com/blog/fun-facts-hearing-animal-insect-edition/)
- 
+
 ![animals](https://user-images.githubusercontent.com/43420227/52544539-66c82500-2d7f-11e9-8a3a-cbe71294bc40.jpg)
+
+### How can I design something that let's humans experience an animal's ability to rotate their pinna and focus on a sound?
+
+I started out by building out the mechanism I would need. I was going to use a servo motor to make the pinna rotate and since I wanted to somehow tie it back to muscle control, I decided to use a flex sensor. Bending the sensor with your finger would control the degrees of rotation of the servo.
+
+This is what my circuit looks like:
+
+<img width="794" alt="screen shot 2019-02-11 at 10 38 04 pm" src="https://user-images.githubusercontent.com/43420227/52610149-e6242a00-2e4d-11e9-9b9f-3170496d15e3.png">
+
+<img width="788" alt="screen shot 2019-02-11 at 10 38 43 pm" src="https://user-images.githubusercontent.com/43420227/52610150-e8868400-2e4d-11e9-8438-842531810af3.png">
+
+Code:
+
+```C++
+// Servo library
+
+#include <Servo.h> 
+
+Servo servo1;
+
+const int flexpin = 0; 
+
+void setup() 
+{ 
+
+  Serial.begin(9600);
+
+  servo1.attach(7);
+} 
+
+void loop() 
+{ 
+  int flexposition;  
+  int servoposition;   
+
+  flexposition = analogRead(flexpin);
+
+  servoposition = map(flexposition, 100, 300, 0, 180);
+  servoposition = constrain(servoposition, 0, 180);
+
+
+  servo1.write(servoposition);
+
+  //Serial.print("sensor: ");
+  //Serial.print(flexposition);
+  //Serial.print("  servo: ");
+  //Serial.println(servoposition);
+
+  delay(20); 
+}
+```
 
 # --  
