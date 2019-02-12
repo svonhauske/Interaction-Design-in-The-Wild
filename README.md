@@ -205,7 +205,7 @@ Sketches:
 
 Technical Drawings:
 
-
+![ear_techd](https://user-images.githubusercontent.com/43420227/52611405-75800c00-2e53-11e9-8b79-36b108cd4285.jpg)
 
 
 # --  
