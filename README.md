@@ -216,7 +216,7 @@ Fourth Step: Testing
 <img width="1440" alt="screen shot 2019-02-11 at 11 57 32 pm" src="https://user-images.githubusercontent.com/43420227/52612715-e118a800-2e58-11e9-8c8b-fbd90628cf78.png">
 
 
-[Empathy Machine Video](https://vimeo.com/316703662)
+[Empathy Machine Video](https://vimeo.com/316803913)
 
 Results:
 
