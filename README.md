@@ -209,5 +209,12 @@ Technical Drawings:
 
 Testing:
 
+<img width="1440" alt="screen shot 2019-02-11 at 11 56 25 pm" src="https://user-images.githubusercontent.com/43420227/52612712-e118a800-2e58-11e9-9c96-f67348bf6a76.png">
+
+<img width="1440" alt="screen shot 2019-02-11 at 11 56 58 pm" src="https://user-images.githubusercontent.com/43420227/52612713-e118a800-2e58-11e9-90fc-0d0424864f61.png">
+
+<img width="1440" alt="screen shot 2019-02-11 at 11 57 32 pm" src="https://user-images.githubusercontent.com/43420227/52612715-e118a800-2e58-11e9-8c8b-fbd90628cf78.png">
+
+
 [Empathy Machine Video](https://vimeo.com/316703662)
 # --  
