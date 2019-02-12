@@ -191,4 +191,10 @@ void loop()
 
 Third Step: Exterior
 
+Sketches:
+
+![untitled_artwork 2](https://user-images.githubusercontent.com/43420227/52610671-14a30480-2e50-11e9-8f90-c3706c6ce121.jpg)
+
+![untitled_artwork](https://user-images.githubusercontent.com/43420227/52610678-17055e80-2e50-11e9-8cab-8cba97c61849.jpg)
+
 # --  
