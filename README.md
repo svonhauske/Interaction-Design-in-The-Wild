@@ -119,6 +119,19 @@ Noise Pollution Effects:
 
 ### Animal Pinnae
 
+What is Pinnae? Pinnae are the external part of the ears in humans and other mammals.
+
+Some animals can swivel or rotate their Pinnae in order to pinpoint where sounds are coming from.
+
+Examples:
+* Foxes: Foxes can rotate pinnae up to 150 degrees.
+* Canines
+* Felines: Cats can rotate pinnae up to 180 degrees.
+* Equines: Horses can rotate pinnae up to 180 degrees.
+* Porcines
+* Ungulates
+* Rodents. Pachyderms have movable ear flaps that aid in spatial discrimination
+
 ![animals](https://user-images.githubusercontent.com/43420227/52544539-66c82500-2d7f-11e9-8a3a-cbe71294bc40.jpg)
 
 # --  
