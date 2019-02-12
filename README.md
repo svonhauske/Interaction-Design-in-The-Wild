@@ -138,6 +138,8 @@ Examples:
 
 ### How can I design something that let's humans experience an animal's ability to rotate their pinna and focus on a sound?
 
+First Step: Interior Mechanism
+
 I started out by building out the mechanism I would need. I was going to use a servo motor to make the pinna rotate and since I wanted to somehow tie it back to muscle control, I decided to use a flex sensor. Bending the sensor with your finger would control the degrees of rotation of the servo.
 
 This is what my circuit looks like:
@@ -146,7 +148,7 @@ This is what my circuit looks like:
 
 <img width="788" alt="screen shot 2019-02-11 at 10 38 43 pm" src="https://user-images.githubusercontent.com/43420227/52610150-e8868400-2e4d-11e9-8438-842531810af3.png">
 
-Code:
+Second Step: Code
 
 ```C++
 // Servo library
@@ -186,5 +188,7 @@ void loop()
   delay(20); 
 }
 ```
+
+Third Step: Exterior
 
 # --  
