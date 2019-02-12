@@ -83,14 +83,14 @@ From here I decided to do more research on hearing, and the effect that loud noi
 
 ### Hearing in Animals
 
-As I started searching for more information on this, I kept coming accross things like this:
+As I started searching for more information on this, I kept coming across things like this:
 ![news](https://user-images.githubusercontent.com/43420227/52544882-9f68fe00-2d81-11e9-8205-5e219b9a1b24.jpg)
 
 News reports are mostly about marine life and the effect of noise pollution on them, but they aren't the only ones getting affected.
 
 ### Noise Pollution
 
-What is noise pollution? A noise is an unwanted or inappropriate sound. Noise pollution is is noise that interferes with normal activities, and disrupts or diminishes our quality of life. [PBS News Hour](https://www.pbs.org/newshour/nation/noise-pollution-humans-wreaking-havoc-u-s-wildlife)
+What is noise pollution? A noise is an unwanted or inappropriate sound. Noise pollution is noise that interferes with normal activities, and disrupts or diminishes our quality of life. [PBS News Hour](https://www.pbs.org/newshour/nation/noise-pollution-humans-wreaking-havoc-u-s-wildlife)
 
 Noise Pollution Effects:
 
@@ -102,7 +102,7 @@ Noise Pollution Effects:
 * Land Species: 
   - Female frogs have more difficulty locating the male's signal.
   - Reduces in the size of an area in which predators can hear their prey, and the ability of animals to avoid predators.
-  - High intensity sound induces fear, sometimes forcing species to abandon their habitat.
+  - High-intensity sound induces fear, sometimes forcing species to abandon their habitat.
   - It can alter their established behaviours like vigilance, foraging, resting and their social interactions.
 
 * Marine Species:
@@ -220,9 +220,9 @@ Fourth Step: Testing
 
 Results:
 
-People found it fun and interesting. They reallly liked being able to control it with their finger. They could hear a slight change in volume when rotating the ear towards a sound but the motor and friction produced too much noise.
+People found it fun and interesting. They really liked being able to control it with their finger. They could hear a slight change in volume when rotating the ear towards a sound, but the motor and friction produced too much noise.
 
-Ideally this would be made out of nylon or with bearings to reduce friction and noise. The ear pinna is modeled after a small sized red fox ear, but maybe testing out larger sizes would make the effect greater.
+Ideally, this would be made out of nylon or with bearings to reduce friction and noise. The ear pinna is modeled after a small sized red fox ear, but maybe testing out larger sizes would make the effect greater.
 
 
 # --  
