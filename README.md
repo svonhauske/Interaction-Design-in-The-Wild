@@ -209,5 +209,5 @@ Technical Drawings:
 
 Testing:
 
-!video[Empathy Machine]( https://vimeo.com/316703662 ){ size=10 }
+[Empathy Machine Video](https://vimeo.com/316703662)
 # --  
