@@ -130,8 +130,10 @@ Examples:
 * Equines: Horses can rotate pinnae up to 180 degrees.
 * Porcines
 * Ungulates
-* Rodents. Pachyderms have movable ear flaps that aid in spatial discrimination
+* Rodents
 
+[Signia](https://www.signiausa.com/blog/fun-facts-hearing-animal-insect-edition/)
+ 
 ![animals](https://user-images.githubusercontent.com/43420227/52544539-66c82500-2d7f-11e9-8a3a-cbe71294bc40.jpg)
 
 # --  
