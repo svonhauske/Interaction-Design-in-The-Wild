@@ -209,7 +209,6 @@ Technical Drawings:
 
 Testing:
 
-<iframe width="640" height="564" src="https://player.vimeo.com/video/316703662" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
-
+[video] (https://vimeo.com/316703662)
 
 # --  
