@@ -199,6 +199,13 @@ Sketches:
 
 3D Model:
 
+![ear1](https://user-images.githubusercontent.com/43420227/52611345-381b7e80-2e53-11e9-9f50-0bd5ce787e3e.JPG)
+
+![ear2](https://user-images.githubusercontent.com/43420227/52611346-381b7e80-2e53-11e9-8069-de30ddbe957f.JPG)
+
+Technical Drawings:
+
+
 
 
 # --  
