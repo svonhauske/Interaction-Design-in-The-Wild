@@ -207,7 +207,7 @@ Technical Drawings:
 
 ![ear_techd](https://user-images.githubusercontent.com/43420227/52611405-75800c00-2e53-11e9-8b79-36b108cd4285.jpg)
 
-Testing:
+Fourth Step: Testing
 
 <img width="1440" alt="screen shot 2019-02-11 at 11 56 25 pm" src="https://user-images.githubusercontent.com/43420227/52612712-e118a800-2e58-11e9-9c96-f67348bf6a76.png">
 
