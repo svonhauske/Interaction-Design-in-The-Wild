@@ -217,4 +217,12 @@ Testing:
 
 
 [Empathy Machine Video](https://vimeo.com/316703662)
+
+Results:
+
+People found it fun and interesting. They reallly liked being able to control it with their finger. They could hear a slight change in volume when rotating the ear towards a sound but the motor and friction produced too much noise.
+
+Ideally this would be made out of nylon or with bearings to reduce friction and noise. The ear pinna is modeled after a small sized red fox ear, but maybe testing out larger sizes would make the effect greater.
+
+
 # --  
