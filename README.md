@@ -218,6 +218,8 @@ Fourth Step: Testing
 
 [Empathy Machine Video](https://vimeo.com/316803913)
 
+[!["screen shot 2019-02-12 at 9 55 46 am" src="https://user-images.githubusercontent.com/43420227/52644314-94f75300-2eac-11e9-87b3-b52ed9e94ac9.png"](http://img.youtube.com/vi/3LiqIV5-rsY/0.jpg)](http://www.youtube.com/watch?v=3LiqIV5-rsY "Empathy Machine")
+
 Results:
 
 People found it fun and interesting. They really liked being able to control it with their finger. They could hear a slight change in volume when rotating the ear towards a sound, but the motor and friction produced too much noise.
