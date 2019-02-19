@@ -272,20 +272,20 @@ When hunting birds or tree squirrels, foxes rarely lunge. They more commonly sta
 
 Previous enrichment testing:
 
-*[Feeding enrichment in an opportunistic carnivore: The red fox](https://www.researchgate.net/publication/228488070_Feeding_enrichment_in_an_opportunistic_carnivore_The_red_fox)
-- Claudia Kistler,  Daniel Hegglin, Hanno Würbel, Barbara König
+### [Feeding enrichment in an opportunistic carnivore: The red fox](https://www.researchgate.net/publication/228488070_Feeding_enrichment_in_an_opportunistic_carnivore_The_red_fox)
+Claudia Kistler,  Daniel Hegglin, Hanno Würbel, Barbara König
 
 They compared four different methods of feeding enrichment that were based on natural foraging strategies of opportunistic carnivores, red foxes. The feeding enrichments consisted of electronic feeders delivering food unpredictable in time which were successively combined with one of the three additional treatments: a self-service food box, manually scattering food (unpredictable in space), and an electronic dispenser delivering food unpredictably both in space and time.
 
 All four feeding enrichments significantly enhanced individual behavioural diversity and activity compared to a conventional feeding treatment. The proportion of food related, behaviour such as food searching or food acquiring increased the most during the feeding treatment with the highest spatial und temporal unpredictability. There was also an increase in exploratory behaviour such as locomotion and monitoring behaviour. The findings show that any kind of temporal and/or spatial unpredictability in the presentation of food has a stimulating effect on the foxes’ behavior.
 
 
-## Enrichment Proposal I:
+### Enrichment Proposal I:
 This first proposal is inspired by the way in which foxes hunt small burrowing animals. The main parts of this hunting technique are the pinpointing of the sound, the stalking, the lunge, and the possibility of the animal escaping down a burrow if a sound is made. To engage a fox in this type of behavior, I thought about creating a small motorized container with a speaker and a sound detector. This container will enter the fox's habitat, play gnawing sounds pertaining to small animals to attract the fox. Ideally, the fox becomes engaged and start stalking it. The moment the fox makes a sound, the sound sensor will detect it, and turn on the motors to make it run away from the fox as a small animal would. For the fox to get to the container, he will have to be completely silent. The sound sensor would have to be configured to detect very low frequencies, so only something like the sound of a breaking twig would set the container running.  In this type of hunting, foxes try to pin down their prey before biting, so ideally the fox would not bite down on the container, and it could be reused.
 
 ![proposali](https://user-images.githubusercontent.com/43420227/53016879-aa283080-341c-11e9-8ffc-a08d80480980.jpg)
 
-## Enrichment Proposal II:
+### Enrichment Proposal II:
 This second proposal comes from the hunting of arboreal prey. Foxes are usually very unsuccessful with this type of prey, but it is an interesting one because they rely on hiding and the element of surprise. This type of hunting rellies more on visual cues than on sound signals. The fox has to see this type of prey on the ground, in a vulnerable position to try to hunt them, and he has to avoid being seen or else, the prey will flee. For this second proposal, I had in mind a hanging motorized food tray with some type of movement sensor, either ultrasonic or infrared and fishing wire. This would ideally hang from the top of the cage. The motor would unwind the wire, lowering the tray to the ground, trying to get the fox to engage with it visually and through smell. The fox would have to approach the tray very stealthily and quickly try to catch it. Otherwise, the motion detector would see it and immediately activate the motor that would send the tray back up, imitating a bird or squirrel fleeing up. This could be repeated several times until the fox is able to catch it, or it could be done once throughout the day, whether successful or not, just like it would happen in nature.
 
 
