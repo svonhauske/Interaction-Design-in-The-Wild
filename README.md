@@ -92,20 +92,20 @@ News reports are mostly about marine life and the effect of noise pollution on t
 
 What is noise pollution? A noise is an unwanted or inappropriate sound. Noise pollution is noise that interferes with normal activities, and disrupts or diminishes our quality of life. [PBS News Hour](https://www.pbs.org/newshour/nation/noise-pollution-humans-wreaking-havoc-u-s-wildlife)
 
-Noise Pollution Effects:
+**Noise Pollution Effects:**
 
-* Flying Species:
+* **Flying Species:**
   - Changes the distribution of birds, affecting trees and plants.
   - Some bird species have demonstrated adjustments to their vocal behaviour in an attempt to adapt. 
   - Some birds species have begun to sing at night.
   
-* Land Species: 
+* **Land Species:**
   - Female frogs have more difficulty locating the male's signal.
   - Reduces in the size of an area in which predators can hear their prey, and the ability of animals to avoid predators.
   - High-intensity sound induces fear, sometimes forcing species to abandon their habitat.
   - It can alter their established behaviours like vigilance, foraging, resting and their social interactions.
 
-* Marine Species:
+* **Marine Species:**
   - Damage a cetacean’s hearing and interfere with their sonar navigation system, leaving them stranded.
   - Physical trauma like bleeding around the ears, brain and other tissues, and air bubbles in their organs. ("The Bends")
   - Some species have started avoiding areas that were previously breeding or feeding grounds.
@@ -123,7 +123,7 @@ What is Pinnae? Pinnae are the external part of the ears in humans and other mam
 
 Some animals can swivel or rotate their pinnae in order to pinpoint where sounds are coming from. For predators, it is helpful while hunting, to find their prey, and for the animals being hunted, it helps them avoid predators.  
 
-Examples:
+**Examples:**
 * Foxes: Foxes can rotate pinnae up to 150 degrees.
 * Canines
 * Felines: Cats can rotate pinnae up to 180 degrees.
@@ -138,7 +138,7 @@ Examples:
 
 ### How can I design something that let's humans experience an animal's ability to rotate their pinna and focus on a sound?
 
-First Step: Interior Mechanism
+**First Step: Interior Mechanism**
 
 I started out by building out the mechanism I would need. I was going to use a servo motor to make the pinna rotate and since I wanted to somehow tie it back to muscle control, I decided to use a flex sensor. Bending the sensor with your finger would control the degrees of rotation of the servo.
 
@@ -148,7 +148,7 @@ This is what my circuit looks like:
 
 <img width="788" alt="screen shot 2019-02-11 at 10 38 43 pm" src="https://user-images.githubusercontent.com/43420227/52610150-e8868400-2e4d-11e9-8438-842531810af3.png">
 
-Second Step: Code
+**Second Step: Code**
 
 ```C++
 // Servo library
@@ -189,7 +189,7 @@ void loop()
 }
 ```
 
-Third Step: Exterior
+**Third Step: Exterior**
 
 Sketches:
 
@@ -207,7 +207,7 @@ Technical Drawings:
 
 ![ear_techd](https://user-images.githubusercontent.com/43420227/52611405-75800c00-2e53-11e9-8b79-36b108cd4285.jpg)
 
-Fourth Step: Testing
+**Fourth Step: Testing**
 
 <img width="1440" alt="screen shot 2019-02-11 at 11 56 25 pm" src="https://user-images.githubusercontent.com/43420227/52612712-e118a800-2e58-11e9-9c96-f67348bf6a76.png">
 
@@ -220,7 +220,7 @@ Fourth Step: Testing
  
 [!["screen shot 2019-02-12 at 9 55 46 am" src="https://user-images.githubusercontent.com/43420227/52644314-94f75300-2eac-11e9-87b3-b52ed9e94ac9.png"](http://img.youtube.com/vi/BB0bYADjauI/0.jpg)](http://www.youtube.com/watch?v=BB0bYADjauI "Empathy Machine")
 
-Results:
+**Results:**
 
 People found this fun and interesting. They really liked being able to control it with their finger. It did make them realize how hard it is to focus and pinpoint a sound in general, but even more when several things were happening around them.In terms of the volume, they could hear a slight change when rotating the ear towards a sound, but the motor and friction produced too much noise.
 
