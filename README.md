@@ -238,7 +238,7 @@ Vulpes vulpes, more commonly known as Red Foxes, are members of the Canidae fami
 
 Red Foxes are predators of small pray, these animals are high-strung and have quick reactions, which means that foxes have to stalk their prey quietly to be able to catch them. A fox's hearing is very sensitive to lower noises, frequencies that correspond to rustling and gnawing sounds of small animals. They are capable of locating sounds within inches of their exact location.
 
-Types of prey:
+**Types of prey:**
 
 J. David Henry groups the types of animals Red Foxes eat, into 4 main groups:
 
@@ -250,27 +250,27 @@ J. David Henry groups the types of animals Red Foxes eat, into 4 main groups:
 The techniques that foxes use to hunts these types of prey is also different, each one unique to the circumstances. 
 
 
-* Insects:
+* **Insects:**
 Hunting insects is something that foxes do more casually. Insects have weak escape behaviors, and they only provide the fox with a small amount of food. Usually, foxes are doing something else, and they hear an insect, and they simply walk over and bite down. When insects hop or fly away, they use their muzzle to poke around, or they do something called foot stamping. The foot stomping causes insects to move, and then the fox is able to locate them by the sound of rustling or movement.
 
 ![20180205_jennylynngolding_2216-2](https://user-images.githubusercontent.com/43420227/53015346-d93ca300-3418-11e9-8dc0-aadd084a8e3a.jpg)
 
-* Lagomorphs:
+* **Lagomorphs:**
 These hunts start out with stalking and end up in pursuit. Usually, hares and rabbits bolt and flee as soon as they detect the fox, who then follows them galloping behind. The fox tries to get close and bit down on the leg or rump, which causes the prey to start zigzagging to create more distance between them. This can go on for a while, and two things can happen; either the hare escapes into a briar patch too dense for the fox, or the fox is able to catch the leg, pulling the hare off of its feet and they both fall to the ground. The fox then quickly stands up, pins it to the ground and bites its neck or head. 
 
 ![4ecd4cba-c26c-4b6a-b6a6-3008cfc80382_1 27207d037261c64657c4660e21a8cb1a](https://user-images.githubusercontent.com/43420227/53015658-916a4b80-3419-11e9-807c-00d96d9d975c.jpg)
 
-* Small Burrowing Animals:
+* **Small Burrowing Animals:**
 A fox must approach these animals without making a sound. A cracking twig will cause the prey to stand completely still, making it hard for foxes to find them, or they will flee down a burrow. The hunt for these prey begins when a fox hears them and goes into mousing position. Mousing position is when a fox lifts its head and neck high and stares intently. They can try to locate the prey by scent, but more commonly, they tilt their heads trying to pinpoint their location by sound. If this doesn't work, they'll stalk their prey. They lower their head, crouch down slightly. To avoid making sounds, they place their forefoot down lightly and bring it back up to choose again, and then they place their back feet exactly where the front feet were. Once the prey was located, they go into mousing position to accurately pinpoint the location, they crouch deeply and lunges, arching through the air. At the end of the lunge, the fox tries to pin down its prey. 
 
 ![1048613_fox-jump-hunt-snow-winter-field-forest-tree-hd-wallpapers_1920x1280_h](https://user-images.githubusercontent.com/43420227/53015347-d93ca300-3418-11e9-9550-b149b3693650.jpg)
 
-* Arboreal Prey:
+* **Arboreal Prey:**
 When hunting birds or tree squirrels, foxes rarely lunge. They more commonly stalk their prey and charge them in a crouched dashing run. This is not their most successful hunting technique, so they do not really search for this type of prey, they hunt them if they encounter them in a vulnerable position. As soon as they see one on the ground, the fox crouches so low, that their belly is touching the ground, and remains completely still with its ears alert. The talking pace then turns into a trot, then into a gallop, and they finally they charge, trying to catch the prey with their bite instead of a stab like it does with small burrowing animals. When hunting these type of prey, foxes try to synchronize their movement with the prey's movement to mask the sound, but the most crucial part of this hunting technique is minimizing visual cues. 
 
 ![c401794d018d42337e963edf961193c3](https://user-images.githubusercontent.com/43420227/53015657-8fa08800-3419-11e9-87d3-22ad1a5bb9d3.jpg)
 
-Previous enrichment testing:
+**Previous enrichment testing:**
 
 ### [Feeding enrichment in an opportunistic carnivore: The red fox](https://www.researchgate.net/publication/228488070_Feeding_enrichment_in_an_opportunistic_carnivore_The_red_fox)
 Claudia Kistler,  Daniel Hegglin, Hanno Würbel, Barbara König
