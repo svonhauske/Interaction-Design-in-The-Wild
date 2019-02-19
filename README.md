@@ -58,7 +58,7 @@
 
 ---
   
-## Empathy Machines
+## Empathy Machine
 02/10/2019
 
 ### First Attempt: Researching Animals
