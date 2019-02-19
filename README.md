@@ -249,6 +249,10 @@ J. David Henry groups the types of animals Red Foxes eat, into 4 main groups:
 
 The techniques that foxes use to hunts these types of prey is also different, each one unique to the circumstances. 
 
+![20180205_jennylynngolding_2216-2](https://user-images.githubusercontent.com/43420227/53015346-d93ca300-3418-11e9-8dc0-aadd084a8e3a.jpg)
+
+![1048613_fox-jump-hunt-snow-winter-field-forest-tree-hd-wallpapers_1920x1280_h](https://user-images.githubusercontent.com/43420227/53015347-d93ca300-3418-11e9-9550-b149b3693650.jpg)
+
 * Insects:
 Hunting insects is something that foxes do more casually. Insects have weak escape behaviors, and they only provide the fox with a small amount of food. Usually, foxes are doing something else, and they hear an insect, and they simply walk over and bite down. When insects hop or fly away, they use their muzzle to poke around, or they do something called foot stamping. The foot stomping causes insects to move, and then the fox is able to locate them by the sound of rustling or movement.
 
