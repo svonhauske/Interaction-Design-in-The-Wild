@@ -272,6 +272,8 @@ When hunting birds or tree squirrels, foxes rarely lunge. They more commonly sta
 
 Source: 
 **[Red fox: The Catlike Canine]** (https://www.amazon.com/Red-fox-Catlike-Canine-Smithsonian/dp/1560986352)
+![51jijjc4ufl _sx328_bo1 204 203 200_](https://user-images.githubusercontent.com/43420227/53024537-3b9f9e80-342d-11e9-8a64-f32f2a9a98ae.jpg)
+
 
 **Previous enrichment testing:**
 
