@@ -242,13 +242,17 @@ Red Foxes are predators of small pray, these animals are high-strung and have qu
 
 J. David Henry groups the types of animals Red Foxes eat, into 4 main groups:
 
-* Insects: Crickets, grasshoppers, and beetles. Sometimes flies and moths. 
-* Lagomorphs: Includes rabbits and hares, who flee by running.
-* Small Burrowing Animals: They flee down a burrow or dash under objects like rocks or fallen trees.
-* Arboreal Prey: Birds and tree squirrels. These animals have high visual acuity, they flee upwards, and they keep a watch for predators from high perches.
+* **Insects:** Crickets, grasshoppers, and beetles. Sometimes flies and moths. 
+
+* **Lagomorphs:** Includes rabbits and hares, who flee by running.
+
+* **Small Burrowing Animals:** They flee down a burrow or dash under objects like rocks or fallen trees.
+
+* **Arboreal Prey:** Birds and tree squirrels. These animals have high visual acuity, they flee upwards, and they keep a watch for predators from high perches.
 
 The techniques that foxes use to hunts these types of prey is also different, each one unique to the circumstances. 
 
+**Hunting Techniques:**
 
 * **Insects:**
 Hunting insects is something that foxes do more casually. Insects have weak escape behaviors, and they only provide the fox with a small amount of food. Usually, foxes are doing something else, and they hear an insect, and they simply walk over and bite down. When insects hop or fly away, they use their muzzle to poke around, or they do something called foot stamping. The foot stomping causes insects to move, and then the fox is able to locate them by the sound of rustling or movement.
