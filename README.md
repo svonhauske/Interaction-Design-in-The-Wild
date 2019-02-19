@@ -272,7 +272,7 @@ When hunting birds or tree squirrels, foxes rarely lunge. They more commonly sta
 
 **Previous enrichment testing:**
 
-### [Feeding enrichment in an opportunistic carnivore: The red fox](https://www.researchgate.net/publication/228488070_Feeding_enrichment_in_an_opportunistic_carnivore_The_red_fox)
+**[Feeding enrichment in an opportunistic carnivore: The red fox]**(https://www.researchgate.net/publication/228488070_Feeding_enrichment_in_an_opportunistic_carnivore_The_red_fox)
 Claudia Kistler,  Daniel Hegglin, Hanno Würbel, Barbara König
 
 They compared four different methods of feeding enrichment that were based on natural foraging strategies of opportunistic carnivores, red foxes. The feeding enrichments consisted of electronic feeders delivering food unpredictable in time which were successively combined with one of the three additional treatments: a self-service food box, manually scattering food (unpredictable in space), and an electronic dispenser delivering food unpredictably both in space and time.
