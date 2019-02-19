@@ -270,6 +270,10 @@ When hunting birds or tree squirrels, foxes rarely lunge. They more commonly sta
 
 ![c401794d018d42337e963edf961193c3](https://user-images.githubusercontent.com/43420227/53015657-8fa08800-3419-11e9-87d3-22ad1a5bb9d3.jpg)
 
+Previous enrichment testing:
+[Feeding enrichment in an opportunistic carnivore: The red fox](https://www.researchgate.net/publication/228488070_Feeding_enrichment_in_an_opportunistic_carnivore_The_red_fox)
+
+
 ## Enrichment Proposal I:
 This first proposal is inspired by the way in which foxes hunt small burrowing animals. The main parts of this hunting technique are the pinpointing of the sound, the stalking, the lunge, and the possibility of the animal escaping down a burrow if a sound is made. To engage a fox in this type of behavior, I thought about creating a small motorized container with a speaker and a sound detector. This container will enter the fox's habitat, play gnawing sounds pertaining to small animals to attract the fox. Ideally, the fox becomes engaged and start stalking it. The moment the fox makes a sound, the sound sensor will detect it, and turn on the motors to make it run away from the fox as a small animal would. For the fox to get to the container, he will have to be completely silent. The sound sensor would have to be configured to detect very low frequencies, so only something like the sound of a breaking twig would set the container running.  In this type of hunting, foxes try to pin down their prey before biting, so ideally the fox would not bite down on the container, and it could be reused.
 
