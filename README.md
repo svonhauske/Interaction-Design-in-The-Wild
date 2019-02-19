@@ -242,19 +242,21 @@ Red Foxes are predators of small pray, these animals are high-strung and have qu
 
 J. David Henry groups the types of animals Red Foxes eat, into 4 main groups:
 
-* Small Burrowing Animals: They flee down a burrow or dash under objects like rocks or fallen trees.
-* Lagomorphs: Includes rabbits and hares, who flee by running.
-* Arboreal Prey: Birds and tree squirrels. These animals have high visual acuity, they flee upwards, and they keep a watch for predators from high perches.
 * Insects: Crickets, grasshoppers, and beetles. Sometimes flies and moths. 
+* Lagomorphs: Includes rabbits and hares, who flee by running.
+* Small Burrowing Animals: They flee down a burrow or dash under objects like rocks or fallen trees.
+* Arboreal Prey: Birds and tree squirrels. These animals have high visual acuity, they flee upwards, and they keep a watch for predators from high perches.
 
 The techniques that foxes use to hunts these types of prey is also different, each one unique to the circumstances. 
 
 ### Insects:
 Hunting insects is something that foxes do more casually. Insects have weak escape behaviors, and they only provide the fox with a small amount of food. Usually, foxes are doing something else, and they hear an insect, and they simply walk over and bite down. When insects hop or fly away, they use their muzzle to poke around, or they do something called foot stamping. The foot stomping causes insects to move, and then the fox is able to locate them by the sound of rustling or movement.
 
+### Lagomorphs:
+
 ### Small Burrowing Animals:
 A fox must approach these animals without making a sound. A cracking twig will cause the prey to stand completely still, making it hard for foxes to find them, or they will flee down a burrow. The hunt for these prey begins when a fox hears them and goes into mousing position. Mousing position is when a fox lifts its head and neck high and stares intently. They can try to locate the prey by scent, but more commonly, they tilt their heads trying to pinpoint their location by sound. If this doesn't work, they'll stalk their prey. They lower their head, crouch down slightly. To avoid making sounds, they place their forefoot down lightly and bring it back up to choose again, and then they place their back feet exactly where the front feet were. Once the prey was located, they go into mousing position to accurately pinpoint the location, they crouch deeply and lunges, arching through the air. At the end of the lunge, the fox tries to pin down its prey. 
 
 ### Arboreal Prey:
+When hunting birds or tree squirrels, foxes rarely lunge. They more commonly stalk their prey and charge them in a crouched dashing run. This is not their most successful hunting technique, so they do not really search for this type of prey, they hunt them if they encounter them in a vulnerable position. As soon as they see one on the ground, the fox crouches so low, that their belly is touching the ground, and remains completely still with its ears alert. The talking pace then turns into a trot, then into a gallop, and they finally they charge, trying to catch the prey with their bite instead of a stab like it does with small burrowing animals. When hunting these type of prey, foxes try to synchronize their movement with the prey's movement to mask the sound, but the most crucial part of this hunting technique is minimizing visual cues. 
 
-### Lagomorphs:
