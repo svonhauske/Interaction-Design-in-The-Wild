@@ -228,3 +228,8 @@ Ideally, this would be made out of nylon or with bearings to reduce friction and
 
 
 # --  
+
+## Enrichment: Vulpes vulpes
+02/18/2019
+
+Vulpes vulpes, more commonly known as Red Foxes, are members of the Canidae family. They eat a variety of food, sometimes changing their diet from season to season. They are considered opportunistic feeders who will feed based on availability. Their diets usually include small rodents, rabbits, hare, insects, wild fruits and berries. Foxes are great at scavenging, hunting and caching. They carefully hide food for future us by burying it underground and disguising the spot with leaves and twigs. They will sometimes relocate their provisions.
