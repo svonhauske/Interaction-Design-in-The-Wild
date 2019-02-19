@@ -270,6 +270,9 @@ When hunting birds or tree squirrels, foxes rarely lunge. They more commonly sta
 
 ![c401794d018d42337e963edf961193c3](https://user-images.githubusercontent.com/43420227/53015657-8fa08800-3419-11e9-87d3-22ad1a5bb9d3.jpg)
 
+Source: 
+**[Red fox: The Catlike Canine]** (https://www.amazon.com/Red-fox-Catlike-Canine-Smithsonian/dp/1560986352)
+
 **Previous enrichment testing:**
 
 **[Feeding enrichment in an opportunistic carnivore: The red fox]**(https://www.researchgate.net/publication/228488070_Feeding_enrichment_in_an_opportunistic_carnivore_The_red_fox)
