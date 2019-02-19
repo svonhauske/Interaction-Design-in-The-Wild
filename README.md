@@ -271,7 +271,13 @@ When hunting birds or tree squirrels, foxes rarely lunge. They more commonly sta
 ![c401794d018d42337e963edf961193c3](https://user-images.githubusercontent.com/43420227/53015657-8fa08800-3419-11e9-87d3-22ad1a5bb9d3.jpg)
 
 Previous enrichment testing:
-[Feeding enrichment in an opportunistic carnivore: The red fox](https://www.researchgate.net/publication/228488070_Feeding_enrichment_in_an_opportunistic_carnivore_The_red_fox)
+
+*[Feeding enrichment in an opportunistic carnivore: The red fox](https://www.researchgate.net/publication/228488070_Feeding_enrichment_in_an_opportunistic_carnivore_The_red_fox)
+- Claudia Kistler,  Daniel Hegglin, Hanno Würbel, Barbara König
+
+They compared four different methods of feeding enrichment that were based on natural foraging strategies of opportunistic carnivores, red foxes. The feeding enrichments consisted of electronic feeders delivering food unpredictable in time which were successively combined with one of the three additional treatments: a self-service food box, manually scattering food (unpredictable in space), and an electronic dispenser delivering food unpredictably both in space and time.
+
+All four feeding enrichments significantly enhanced individual behavioural diversity and activity compared to a conventional feeding treatment. The proportion of food related, behaviour such as food searching or food acquiring increased the most during the feeding treatment with the highest spatial und temporal unpredictability. There was also an increase in exploratory behaviour such as locomotion and monitoring behaviour. The findings show that any kind of temporal and/or spatial unpredictability in the presentation of food has a stimulating effect on the foxes’ behavior.
 
 
 ## Enrichment Proposal I:
