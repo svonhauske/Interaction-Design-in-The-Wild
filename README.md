@@ -239,7 +239,8 @@ Ideally, this would be made out of nylon or with bearings to reduce friction and
 
 ---  
 
-## Enrichment I: Vulpes vulpes
+## Enrichment I
+## Vulpes vulpes: Hunting
 02/18/2019
 
 ![red-fox](https://user-images.githubusercontent.com/43420227/52987581-b20ab500-33c9-11e9-87a6-63c6d9e4936c.png)
@@ -313,7 +314,8 @@ This second proposal comes from the hunting of arboreal prey. Foxes are usually 
 
 --- 
 
-## Enrichment II: Play - Vulpes vulpes
+## Enrichment II
+## Play
 02/21/2019
 
 After last week’s research, where I focused on researching hunting behaviors in foxes, I decided to dive into their playing habits. I watched several videos of foxes playing in a pet/domesticated setting, a rescue/zoo setting, an urban/wild setting, and a natural/wild setting. In the videos, foxes interact with a variety of toys, including squeaky toys, dog chew toys, plush toys, balls, and even trampolines. Whether they were given the toys or they found them, the toys immediately made them curious. There were two behaviors that I saw repeated in all of these videos that were reminiscent of hunting behaviors I had read about. 
