@@ -1,15 +1,15 @@
 # Design in Safaris 
 ### by Sofia von Hauske Valtierra
 ---
-[Designing for Humans](#designing-for-humans)
+1. [Designing for Humans](#designing-for-humans)
 
-[Ethograms](#ethograms)
+1. [Ethograms](#ethograms)
 
-[Empathy Machine](#empathy-machine)
+1. [Empathy Machine](#empathy-machine)
 
-[Enrichment I](#enrichment-i)
+1. [Enrichment I](#enrichment-i)
 
-[Enrichment II](#enrichment-ii)
+1. [Enrichment II](#enrichment-ii)
 
 
 ## Designing for Humans
