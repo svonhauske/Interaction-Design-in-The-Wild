@@ -9,6 +9,8 @@
 
 1. [Enrichment I](#enrichment-i)
 
+1. [Enrichment II](#enrichment-ii)
+
 
 ## Designing for Humans
 01/28/2019
@@ -284,7 +286,7 @@ A fox must approach these animals without making a sound. A cracking twig will c
 ![1048613_fox-jump-hunt-snow-winter-field-forest-tree-hd-wallpapers_1920x1280_h](https://user-images.githubusercontent.com/43420227/53015347-d93ca300-3418-11e9-9550-b149b3693650.jpg)
 
 * **Arboreal Prey:**
-When hunting birds or tree squirrels, foxes rarely lunge. They more commonly stalk their prey and charge them in a crouched dashing run. This is not their most successful hunting technique, so they do not really search for this type of prey, they hunt them if they encounter them in a vulnerable position. As soon as they see one on the ground, the fox crouches so low, that their belly is touching the ground, and remains completely still with its ears alert. The talking pace then turns into a trot, then into a gallop, and they finally they charge, trying to catch the prey with their bite instead of a stab like it does with small burrowing animals. When hunting these type of prey, foxes try to synchronize their movement with the prey's movement to mask the sound, but the most crucial part of this hunting technique is minimizing visual cues. 
+When hunting birds or tree squirrels, foxes rarely lunge. They more commonly stalk their prey and charge them in a crouched dashing run. This is not their most successful hunting technique, so they do not really search for this type of prey, they hunt them if they encounter them in a vulnerable position. As soon as they see one on the ground, the fox crouches so low, that their belly is touching the ground, and remains completely still with its ears alert. The stalking pace then turns into a trot, then into a gallop, and then finally they charge, trying to catch the prey with their bite instead of a stab like it does with small burrowing animals. When hunting these type of prey, foxes try to synchronize their movement with the prey's movement to mask the sound, but the most crucial part of this hunting technique is minimizing visual cues. 
 
 ![c401794d018d42337e963edf961193c3](https://user-images.githubusercontent.com/43420227/53015657-8fa08800-3419-11e9-87d3-22ad1a5bb9d3.jpg)
 
@@ -318,3 +320,14 @@ This second proposal comes from the hunting of arboreal prey. Foxes are usually 
 [Go to top.](#design-in-safaris)
 
 --- 
+
+## Enrichment II
+02/21/2019
+
+Based on the feedback, I have decided to move forward with my second enrichment proposal, which is inspired by the way foxes hunt arboreal prey. This enrichment machine will hang from the top mesh of the fox's habitat. It will lower food close enough to the ground that it will catch the fox's eye and seem attainable. A motion sensor will be located right above the food, pointing towards the ground, so if the fox is detected while trying to grab the food, the food will be pulled up. I have decided an ultrasonic sensor makes more sense in this situation, because infrared sensors need light to work well, and since foxes don't only hunt during the day, it makes sense that the sensor operates at all times. The spool of fishing wire, Arduino, DC motor, H-bridge, and the battery will be contained in a box that hangs from the mesh. Different sizes of spools will allow me to retract the food faster or slower. Since this has to mimic birds and squirrels escaping from a fox, I am going to go with a wide spool that will allow me to reel the wire quickly. Initially, I had thought about having a tray hanging at the bottom, below the motion sensor, but because of the way in which foxes try to catch these animals, I do not believe that is the right direction. They go from stalking to a trot, then a gallop, and then finally they charge, trying to catch the prey with a bite. Instead of the trey, I think the food should dangle from below, so if the fox does manage to bite it, it won't buy a plastic tray, it'll bite into the food directly. Another thing I had to considered was the fact that because of how this is designed, it'll move around like a pendulum, moving the sensor around all the time. I thought about creating a more rigid structure so the movement would be more controlled, but a fox's prey is not fixed, and neither is their eyes, so I thought the pendulum might actually be adequate and create more of a challenge. Lastly, I wanted to create a hanging mechanism that wasn't designed for one specific place, so a hook wasn't going to work. I want to create two small arms that you can slide onto square wooden dowels or metal extrusions, so the machine can hang from any type of mesh. 
+
+
+[Go to top.](#design-in-safaris)
+
+--- 
+ 
