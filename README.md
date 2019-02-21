@@ -9,8 +9,6 @@
 
 1. [Enrichment I](#enrichment-i)
 
-1. [Enrichment II](#enrichment-ii)
-
 
 ## Designing for Humans
 01/28/2019
