@@ -25,7 +25,8 @@
   
    We tend to think that everything else in the world functions like a human, so we are ultimately making incorrect assumptions when we are designing a product. We are not the only living beings in our environment, we are surrounded by others, that whether they like it or not, have to interact with what we design. We have birds flying through are buildings, rats running through our sewers, trees spreading their roots under our concrete, pets cohabitating in our homes. It is our duty as designers to create an optimum experience for our end user whether that is human or non-human, so we need to gain a new perspective. To be able to achieve this we must step out of this anthropomorphic approach, leave all of our assumptions at the door, observe with an open mind, and learn from those who have more experience than us in the field.
    
-[Top](#design-in-safaris)  
+[Go to top.](#design-in-safaris) 
+
 --- 
   
 ## Ethograms
@@ -67,7 +68,8 @@
 
 - Dr. Nicholas J. Lunn: Studies dynamics and general ecology of polar bears,and the effects of climatic change on the ecology of polar bears in western Hudson Bay.
 
-[Top](#design-in-safaris)
+[Go to top.](#design-in-safaris)
+
 ---
   
 ## Empathy Machine
@@ -238,7 +240,8 @@ People found this fun and interesting. They really liked being able to control i
 
 Ideally, this would be made out of nylon or with bearings to reduce friction and noise. The ear pinna is modeled after a small sized red fox ear, but maybe testing out larger sizes would make the effect greater.
 
-[Top](#design-in-safaris)
+[Go to top.](#design-in-safaris)
+
 ---  
 
 ## Enrichment I
@@ -314,7 +317,8 @@ This second proposal comes from the hunting of arboreal prey. Foxes are usually 
 
 ![proposalii](https://user-images.githubusercontent.com/43420227/53026314-aacac200-3430-11e9-8fc6-1488cf07c57d.jpg)
 
-[Top](#design-in-safaris)
+[Go to top.](#design-in-safaris)
+
 --- 
 
 ## Enrichment II
@@ -337,5 +341,6 @@ Here is a link to a youtube video where I have collected clips of what I observe
 
 Detailed proposal coming soon...
 
-[Top](#design-in-safaris)
+[Go to top.](#design-in-safaris)
+
 --- 
