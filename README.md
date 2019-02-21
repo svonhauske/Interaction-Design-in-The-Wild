@@ -1,6 +1,7 @@
 # Design in Safaris 
 ### by Sofia von Hauske Valtierra
 ---
+[Designing for Humans](#designing-for-humans)
 [Ethograms](#Ethograms)
 
 
