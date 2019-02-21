@@ -1,7 +1,7 @@
 # Design in Safaris 
 ### by Sofia von Hauske Valtierra
 ---
-[Ethograms](Ethograms)
+[Ethograms](#Ethograms)
 
 
 ## Designing for Humans
@@ -19,7 +19,7 @@
   
 --- 
   
-## <a name="Ethograms"></a>Ethograms
+## <a name="ethograms"></a>Ethograms
 02/03/2019
 
    My first go at ethograms was challenging. A lot of my time was spent watching different types of felines sleep; I hadn't realized that they slept so much, even during the day. Using live cams also made it difficult, because sometimes animals would walk out of range or the camera would focus on another animal, interrupting the observations I was writing down. I discovered that it is a lot easier when the live cam is recording few individuals, so for my ethograms, I chose two live feeds from the San Diego Zoo; Polar Bears and Elephants. 
