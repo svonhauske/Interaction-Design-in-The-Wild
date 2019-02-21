@@ -331,7 +331,7 @@ After last week’s research, where I focused on researching hunting behaviors i
 
 - Playing with their prey: Foxes kept shaking the toys around and moving them around with either their front paws or their snout. This is something they do when they’ve caught their prey. Some people describe it as them playing with their prey/food, which is something that cats do as well, but the reason they do it is to make sure the animal they’ve caught is no longer able to harm them. 
 
-Both of these behaviors are performed with the expectation of receiving some response or reaction. It is my assumption, based on these observations that while playing, they are also looking for some form of response from the toy and that is why they use these hunting behaviors while playing.  
+Both of these behaviors are performed with the expectation of receiving some response or reaction. It is my assumption, based on these observations, that while playing, they are also looking for some form of response from the toy and that is why they use these hunting behaviors while interacting with toys.  
 
 While watching these videos, I also ran into a couple of articles that talked about foxes finding balls very appealing. They like them so much that they have been caught sneaking into golf clubs to steal golf balls. They seem to really like the bouncing and the rolling that happens when playing with a ball. 
 
