@@ -335,11 +335,12 @@ Both of these behaviors are performed with the expectation of receiving some res
 
 While watching these videos, I also ran into a couple of articles that talked about foxes finding balls very appealing. They like them so much that they have been caught sneaking into golf clubs to steal golf balls. They seem to really like the bouncing and the rolling that happens when playing with a ball. 
 
-With all of this in mind, I have decided to focus on play for my second enrichment proposal. I want to explore these observations by creating a toy that gives the fox audiovisual feedback since they very often rely on those two senses while hunting. 
-
 Here is a link to a youtube video where I have collected clips of what I observed [Play Behavior in Red Foxes](https://www.youtube.com/watch?v=8tkRj3WjeAM&feature=youtu.be) 
 
-Detailed proposal coming soon...
+With all of this in mind, I have decided to explore play for my second enrichment proposal. I want to test out these observations by creating a toy that gives the fox audiovisual feedback since they very often rely on those two senses while hunting. How will the fox react when the toy moves or makes a sound in response to his behavior?
+
+I noticed that they like to be able to bite on their toys, which means in terms of material something soft would be nice. They like the bouncing of balls when they throw them with their mouths, so an elastic material like rubber or silicone could work. They like that it can move around easily, for example, they like to push balls and have them roll, so a round shape would be ideal. I am thinking of creating an egg-shaped toy that has a weighted bottom, a sound sensor, a gyroscope, a buzzer, and a piezo. The idea with the base being weighted is that it always responds with movement when pushed around, giving the fox a visual response that is not dependent on electronics. The sound sensor would (hopefully) be capable of picking up the sound of the foxes when they are foot stamping and respond with a buzz or vibration, giving them a sound cue. Lastly, the gyroscope would be able to detect when it is picked up or moved around, and it would also respond with a type of vibration or buzzing.
+
 
 [Go to top.](#design-in-safaris)
 
