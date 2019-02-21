@@ -313,7 +313,7 @@ After last week’s research, where I focused on researching hunting behaviors i
 
 Both of these behaviors are performed with the expectation of receiving some response or reaction. It is my assumption, based on these observations that while playing, they are also looking for some form of response from the toy and that is why they use these hunting behaviors while playing.  
 
-While watching these videos, I also ran into a couple of articles that talked about foxes finding balls very appealing. They like them so much that they have been caught sneaking into golf clubs to steal golf balls. 
+While watching these videos, I also ran into a couple of articles that talked about foxes finding balls very appealing. They like them so much that they have been caught sneaking into golf clubs to steal golf balls. They seem to really like the bouncing and the rolling that happens when playing with a ball. 
 
 With all of this in mind, I have decided to focus on play for my second enrichment proposal. I want to explore these observations by creating a toy that gives the fox audiovisual feedback since they very often rely on those two senses while hunting. 
 
