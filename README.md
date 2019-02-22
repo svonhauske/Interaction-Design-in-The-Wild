@@ -322,14 +322,14 @@ This second proposal comes from the hunting of arboreal prey. Foxes are usually 
 --- 
 
 ## Enrichment II
-## Preybot
+### Preybot
 02/21/2019
 
 Based on the feedback, I have decided to move forward with my second enrichment proposal. My proposal is a preybot that mimics the behavior of a fox's arboreal prey, which consists of birds and tree squirrels. These animals have high visual acuity, and they flee upwards, which makes it really hard for foxes to catch them. They have a specific technique for hunting this type of prey: They see one on the ground, they crouch until their belly is touching the ground, and remain completely still with its ears alert. They start stalking the prey, they get closet and go into a trot, then into a gallop, and then finally they charge, trying to bite the animal. The most crucial part of this hunting technique is minimizing visual cues.
 
 I want to build a device that hangs from the top mesh of the fox's habitat. Using a motor and fishing wire, the device can move food up and down. The idea is to lower food to the ground, catching the foxes eye by making it seem attainable. At the bottom of the wire, right above the food, a motion sensor will be "standing guard," if it senses the fox, it sends a signal to the Arduino and the motor gets activated, reeling the food back up. The fox has to apply his arboreal prey hunting technique to be able to get past the sensor and bite the food.
 
-Things to consider:
+**Things to consider:**
 
 - Size of the spool: Apart from taking into consideration the speed and amount of torque that I need in the motor, the size of the spool also plays a significant role when it comes to the speed of the reeling. The wider the spool, the faster the food can move up and down. 
 
