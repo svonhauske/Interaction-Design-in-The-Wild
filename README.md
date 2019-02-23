@@ -322,7 +322,7 @@ This second proposal comes from the hunting of arboreal prey. Foxes are usually 
 --- 
 
 ## Enrichment II
-### Preybot
+## Preybot
 02/21/2019
 
 Based on the feedback, I have decided to move forward with my second enrichment proposal. My proposal is a preybot that mimics the behavior of a fox's arboreal prey, which consists of birds and tree squirrels. These animals have high visual acuity, and they flee upwards, which makes it really hard for foxes to catch them. They have a specific technique for hunting this type of prey: They see one on the ground, they crouch until their belly is touching the ground, and remain completely still with its ears alert. They start stalking the prey, they get closet and go into a trot, then into a gallop, and then finally they charge, trying to bite the animal. The most crucial part of this hunting technique is minimizing visual cues.
