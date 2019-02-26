@@ -356,12 +356,8 @@ This machine is a preybot that tries to mimic the fleeing upward behavior of a f
 
 ![img_1484](https://user-images.githubusercontent.com/43420227/53420046-07862980-39a9-11e9-80ad-2e301a555372.jpg)
 
-![img_1483](https://user-images.githubusercontent.com/43420227/53420047-07862980-39a9-11e9-9ba0-e4aefb7b6fde.jpg)
-
-![img_1482](https://user-images.githubusercontent.com/43420227/53420048-07862980-39a9-11e9-9779-441c68062398.jpg)
+[![](http://img.youtube.com/vi/WYKcjypKHa4/0.jpg)](http://www.youtube.com/watch?v=WYKcjypKHa4 "Bodystorming")
 
 [Bodystorming Video](https://vimeo.com/319504079)
-
-[![](http://img.youtube.com/vi/WYKcjypKHa4/0.jpg)](http://www.youtube.com/watch?v=WYKcjypKHa4 "Bodystorming")
 
 
