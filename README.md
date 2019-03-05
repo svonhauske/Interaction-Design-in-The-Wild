@@ -381,4 +381,14 @@ I had a hard time trying to observe these lemurs because they are incredibly fas
 
 ![lemur - sheet1](https://user-images.githubusercontent.com/43420227/53781282-33883a00-3ed6-11e9-8988-ff7a6c7a190b.jpg)
 
-I was not a fan of the instantaneous sampling because I observed so many interesting behaviors that I wanted to put down, but they would happen in between my intervals. I think even though continuous is hard to do, it is my favorite technique so far. 
+I was not a fan of the instantaneous sampling because I observed so many interesting behaviors that I wanted to put down, but they would happen in between my intervals. I think even though continuous is hard to do, it is my favorite technique so far.
+
+### Homonculus
+
+--- 
+
+## Pet Store Visit
+## Boris & Horton Cafe
+03/04/2019
+
+--- 
