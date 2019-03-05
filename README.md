@@ -434,6 +434,8 @@ Overall it is a nice place, people seem to enjoy having their pets around and be
 
 ### Add resting areas for dogs
 
+![resting](https://user-images.githubusercontent.com/43420227/53811358-365f4b00-3f27-11e9-9421-2cd429b1cbd9.jpg)
+
 ### Add pet relief area
 
 ![petrelief](https://user-images.githubusercontent.com/43420227/53810412-debfe000-3f24-11e9-92cc-31259b10b974.jpg)
