@@ -432,13 +432,13 @@ Overall it is a nice place, people seem to enjoy having their pets around and be
 
 ### Redesign:
 
-1. Add resting areas for dogs
+### Add resting areas for dogs
 
-1. Add pet relief area
+### Add pet relief area
 
 ![petrelief](https://user-images.githubusercontent.com/43420227/53810412-debfe000-3f24-11e9-92cc-31259b10b974.jpg)
 
-1. Educate people about play behavior
+### Educate people about play behavior
 
 ![posters](https://user-images.githubusercontent.com/43420227/53809293-6526f280-3f22-11e9-9f51-7927336cace1.jpg)
 
