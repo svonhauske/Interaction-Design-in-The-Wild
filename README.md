@@ -379,5 +379,6 @@ During my visit to the Central Park Zoo, I decided to observe lemurs, because th
 
 I had a hard time trying to observe these lemurs because they are incredibly fast and they move all over the place. I went from trying to do my ethogram right there to try to record them, but that wasn't completely successful either. I kept losing the lemur I had chosen to follow because they either jumped behind a tree and I no longer was sure I was following the same one when it came from behind it, or sometimes I couldn't move around because people were watching the lemurs. I have several short clips of different lemurs, but I did successfully follow the same one for 12 minutes and 35 seconds. For this round of ethograms, I decided to do instantaneous sampling with my time interval being 30 seconds. 
 
+![lemur - sheet1](https://user-images.githubusercontent.com/43420227/53781282-33883a00-3ed6-11e9-8988-ff7a6c7a190b.jpg)
 
 I was not a fan of the instantaneous sampling because I observed so many interesting behaviors that I wanted to put down, but they would happen in between my intervals. I think even though continuous is hard to do, it is my favorite technique so far. 
