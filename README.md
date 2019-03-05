@@ -442,7 +442,8 @@ Overall it is a nice place, people seem to enjoy having their pets around and be
 
 ### Educate people about play behavior
 
-![posters](https://user-images.githubusercontent.com/43420227/53809293-6526f280-3f22-11e9-9f51-7927336cace1.jpg)
+![posters](https://user-images.githubusercontent.com/43420227/53811699-f5b40180-3f27-11e9-9007-50339c482fed.jpg)
+
 
 
 --- 
