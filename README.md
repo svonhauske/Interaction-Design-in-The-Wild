@@ -368,12 +368,16 @@ This machine is a preybot that tries to mimic the fleeing upward behavior of a f
 ## Central Park Zoo
 03/04/2019
 
-While visiting the zoo, I decided to observe lemurs, because there were no foxes I could observe. The type of lemurs they have is Ruffed Lemurs, and they can be found in the [Tropic Zone: The Rainforest Exhibit](https://centralparkzoo.com/exhibits/tropic-zone-the-rainforest). 
+During my visit to the Central Park Zoo, I decided to observe lemurs, because there were no foxes I could observe. The type of lemurs they have is Ruffed Lemurs, and they can be found in the [Tropic Zone: The Rainforest Exhibit](https://centralparkzoo.com/exhibits/tropic-zone-the-rainforest). 
 
 
 ![blackandwhiteruffedlemur_za_4722-b](https://user-images.githubusercontent.com/43420227/53779365-d4bec280-3ecd-11e9-90ab-d3d0615150eb.jpg)
 
 ![black-and-white ruffed lemur image4 - alex cearns](https://user-images.githubusercontent.com/43420227/53779367-d5575900-3ecd-11e9-813e-50b25beb9af5.jpg)
 
+### Ethogram
+
+I had a hard time trying to observe these lemurs because they are incredibly fast and they move all over the place. I went from trying to do my ethogram right there to try to record them, but that wasn't completely successful either. I kept losing the lemur I had chosen to follow because they either jumped behind a tree and I no longer was sure I was following the same one when it came from behind it, or sometimes I couldn't move around because people were watching the lemurs. I have several short clips of different lemurs, but I did successfully follow the same one for 12 minutes and 35 seconds. For this round of ethograms, I decided to do instantaneous sampling with my time interval being 30 seconds. 
 
 
+I was not a fan of the instantaneous sampling because I observed so many interesting behaviors that I wanted to put down, but they would happen in between my intervals. I think even though continuous is hard to do, it is my favorite technique so far. 
