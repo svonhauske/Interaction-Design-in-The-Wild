@@ -387,6 +387,10 @@ I was not a fan of the instantaneous sampling because I observed so many interes
 
 ### Homonculus
 
+While I was obeserving the lemurs, the part of the body that I saw them use the most to interact with the world was their hands. They used them to hold their food, to hang from branches, to hold on to branches, and to scratch themselves. They also use their feet to do a lot of things, but not as much as their hands. The third thing I saw them use the most was their mouth and nose. Their tail mostly just hung, sometimtes they would grab it and groom it, but I did not observe the tail being used for anything. 
+
+![lemurhomunculus](https://user-images.githubusercontent.com/43420227/53808306-e2049d00-3f1f-11e9-9344-7d1a44fa8e16.jpg)
+
 --- 
 
 ## Pet Store Visit
