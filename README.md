@@ -436,6 +436,8 @@ Overall it is a nice place, people seem to enjoy having their pets around and be
 
 1. Add pet relief area
 
+![petrelief](https://user-images.githubusercontent.com/43420227/53810225-7b35b280-3f24-11e9-9047-7b6ed18591d5.jpg)
+
 1. Educate people about play behavior
 
 ![posters](https://user-images.githubusercontent.com/43420227/53809293-6526f280-3f22-11e9-9f51-7927336cace1.jpg)
