@@ -411,11 +411,11 @@ When you walk in, you see one of the few dog-centric objects in the cafe, the en
 
 ![img_5843](https://user-images.githubusercontent.com/43420227/53782338-d80c7b00-3eda-11e9-96bc-ae18d06a90c3.jpg)
 
-![img_5325](https://user-images.githubusercontent.com/43420227/53782341-d80c7b00-3eda-11e9-84e2-49b06eb37d16.jpg)
+![img_5235](https://user-images.githubusercontent.com/43420227/53782335-d80c7b00-3eda-11e9-9f06-289ee6fe7da1.jpg)
 
 Past the store, there are a lot of tables and chairs for people to sit down and drink their coffee or work. Dogs are allowed to jump on the seats and rest there, but the seats are completely designed for humans. There are not dog-friendly resting areas or items. In between the tables, there is a photo booth where people take pictures with their dogs, and there are two trunks next to it full of dog costumes for people to dress up their dogs. I have never seen a dog excited about getting one of these on. Next, to the trunks, they also have a kissing booth that can be set up in front of the camera, so the “pooch” is behind it. 
 
-![img_5235](https://user-images.githubusercontent.com/43420227/53782335-d80c7b00-3eda-11e9-9f06-289ee6fe7da1.jpg)
+![img_5325](https://user-images.githubusercontent.com/43420227/53782341-d80c7b00-3eda-11e9-84e2-49b06eb37d16.jpg)
 
 ![img_9024](https://user-images.githubusercontent.com/43420227/53782342-d8a51180-3eda-11e9-9015-c13367bbe86a.jpg)
 
