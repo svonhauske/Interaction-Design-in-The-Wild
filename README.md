@@ -397,6 +397,11 @@ I was not a fan of the instantaneous sampling because I observed so many interes
 
 Boris & Horton opened its doors for the first time in the summer of 2018. The idea was to have a place where you could have great coffee, eat, have wine and beer, hang out, but most importantly, bring your dog inside. For this to happen, the space had to be formally divided into two distinct spaces: a café side, with food and drink sales, and a dog side, featuring tables and dog-centric store. There is an outdoor window where you can order your drink or food and then walk into the dog side. 
 
+![bh_colorlogo_transparent_800x800_5b98fe56-24d9-4d12-88fd-9885685d293f_280x 2x](https://user-images.githubusercontent.com/43420227/53781624-8d3d3400-3ed7-11e9-9be3-23225172f05c.png)
+
+![mg_3326_2_1200x](https://user-images.githubusercontent.com/43420227/53781668-b6f65b00-3ed7-11e9-96a8-deaf583a6628.jpg)
+
+![boris_and_horton_cover](https://user-images.githubusercontent.com/43420227/53781625-8dd5ca80-3ed7-11e9-96fe-16c7dea1ce28.jpg)
 ...
 
 ---
