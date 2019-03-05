@@ -13,6 +13,8 @@
 
 1. [Enrichment Prototype](#enrichment-prototype)
 
+1. [Central Park Zoo](#zoo-visit)
+
 
 ## Designing for Humans
 01/28/2019
@@ -359,5 +361,13 @@ This machine is a preybot that tries to mimic the fleeing upward behavior of a f
 [![](http://img.youtube.com/vi/WYKcjypKHa4/0.jpg)](http://www.youtube.com/watch?v=WYKcjypKHa4 "Bodystorming")
 
 [Bodystorming Video](https://vimeo.com/319504079)
+
+--- 
+
+## Zoo Visit
+## Central Park Zoo
+03/04/2019
+
+While visiting the zoo, I decided to observe lemurs, because there were no foxes I could observe. The type of lemurs they have is Ruffed Lemurs, and they can be found in the [Tropic Zone: The Rainforest Exhibit](https://centralparkzoo.com/exhibits/tropic-zone-the-rainforest). 
 
 
