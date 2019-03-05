@@ -393,8 +393,6 @@ I was not a fan of the instantaneous sampling because I observed so many interes
 ## Boris & Horton Cafe
 03/04/2019
 
-“We’re a dog-friendly cafe, but not a dog cafe.” - Logan Mikhly (Co-owner)
-
 Boris & Horton opened its doors for the first time in the summer of 2018. The idea was to have a place where you could have great coffee, eat, have wine and beer, hang out, but most importantly, bring your dog inside. For this to happen, the space had to be formally divided into two distinct spaces: a café side, with food and drink sales, and a dog side, featuring tables and dog-centric store. There is an outdoor window where you can order your drink or food and then walk into the dog side. 
 
 ![bh_colorlogo_transparent_800x800_5b98fe56-24d9-4d12-88fd-9885685d293f_280x 2x](https://user-images.githubusercontent.com/43420227/53781624-8d3d3400-3ed7-11e9-9be3-23225172f05c.png)
@@ -402,7 +400,25 @@ Boris & Horton opened its doors for the first time in the summer of 2018. The id
 ![mg_3326_2_1200x](https://user-images.githubusercontent.com/43420227/53781668-b6f65b00-3ed7-11e9-96a8-deaf583a6628.jpg)
 
 ![boris_and_horton_cover](https://user-images.githubusercontent.com/43420227/53781625-8dd5ca80-3ed7-11e9-96fe-16c7dea1ce28.jpg)
-...
 
----
+### Observations:
+
+From the very beginning, this "puppy cafe" was completely anthropocentric. Even one of the owners, Logan Mikhly says: “We’re a dog-friendly cafe, but not a dog cafe.” He also added: “We’re a solution for people who have dogs or are interested in coming to an adoption event." The cafe opened up so people could go out and get coffee, wine or beer, without feeling bad about leaving their dogs alone in their homes. 
+
+When you walk in, you see one of the few dog-centric objects in the cafe, the entrance doors. The cafe has two doors; as soon as you approach the first one, you can see a sign that reminds you to make sure only one door is open time because there are unleashed dogs that could run out into the streets if both doors are open at the same time. Once inside, there is a pet store, with items that the dogs cannot interact with, but that is also completely anthropomorphized like toys that look like champagne bottles or sushi. They have different types of treats, some of them promise to freshen up your dog's breath, which is something I do not believe dogs care about. They have coats and jackets that although seem “stylish” do not seem very functional when it comes to keeping a dog warm, and within this same idea, they also sell bandanas for dogs. 
+
+Past the store, there are a lot of tables and chairs for people to sit down and drink their coffee or work. Dogs are allowed to jump on the seats and rest there, but the seats are completely designed for humans. There are not dog-friendly resting areas or items. In between the tables, there is a photo booth where people take pictures with their dogs, and there are two trunks next to it full of dog costumes for people to dress up their dogs. I have never seen a dog excited about getting one of these on. Next, to the trunks, they also have a kissing booth that can be set up in front of the camera, so the “pooch” is behind it. 
+
+Behind the photo booth, there is a big sign with the rules of the place, which make a lot of sense, but at the same time, they limit certain behaviors that are natural in dogs. We saw a couple of dogs playing around, sometimes it seemed like it was getting a little too rough and people would get their dogs to split them up, but they ended up doing it again. It is hard to know when they are being playful and when they are being aggressive. 
+
+Overall it is a nice place, people seem to enjoy having their pets around and being able to play with other people’s dogs, but it doesn’t seem that great for dogs. Something very interesting is that several people sat on the floor to interact with the dogs, which I think is very dog-centric. 
+
+### Redesign:
+
+1. Add resting areas for dogs
+
+1. Add pet relief area
+
+1. Educate people about play behavior
+
 --- 
