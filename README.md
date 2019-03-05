@@ -15,6 +15,8 @@
 
 1. [Central Park Zoo](#zoo-visit)
 
+1. [Boris & Horton Cafe](#pet-store-visit)
+
 
 ## Designing for Humans
 01/28/2019
@@ -391,4 +393,11 @@ I was not a fan of the instantaneous sampling because I observed so many interes
 ## Boris & Horton Cafe
 03/04/2019
 
+“We’re a dog-friendly cafe, but not a dog cafe.” - Logan Mikhly (Co-owner)
+
+Boris & Horton opened its doors for the first time in the summer of 2018. The idea was to have a place where you could have great coffee, eat, have wine and beer, hang out, but most importantly, bring your dog inside. For this to happen, the space had to be formally divided into two distinct spaces: a café side, with food and drink sales, and a dog side, featuring tables and dog-centric store. There is an outdoor window where you can order your drink or food and then walk into the dog side. 
+
+...
+
+---
 --- 
