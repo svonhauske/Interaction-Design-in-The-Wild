@@ -456,6 +456,10 @@ While I was obeserving the lemurs, the part of the body that I saw them use the 
 
 ![aeiou](https://user-images.githubusercontent.com/43420227/54008651-94617d80-4135-11e9-9ad4-ec98fd4bcdd8.jpg)
 
+### Behavioral Mapping 
+
+![lemurs](https://user-images.githubusercontent.com/43420227/54009977-eeb10d00-413a-11e9-81ba-db16fcf95508.jpg)
+
 --- 
 
 ## Group Enrichment Proposal
@@ -464,7 +468,9 @@ While I was obeserving the lemurs, the part of the body that I saw them use the 
 
 ### Brainstorming
 
+![8431bc3b-7b78-4b14-8de0-8a9f8f4a22e3 copy](https://user-images.githubusercontent.com/43420227/54010008-11dbbc80-413b-11e9-8ecd-d24620610cb7.jpg)
 
+![8431bc3b-7b78-4b14-8de0-8a9f8f4a22e3](https://user-images.githubusercontent.com/43420227/54010014-1607da00-413b-11e9-85bc-1ba56a8a45e5.png)
 
 **Resources:**
 
