@@ -454,7 +454,7 @@ While I was obeserving the lemurs, the part of the body that I saw them use the 
 
 ### AEIOU
 
-![aeiou](https://user-images.githubusercontent.com/43420227/54008579-2b7a0580-4135-11e9-9f38-4e138f19dc79.jpg)
+![aeiou](https://user-images.githubusercontent.com/43420227/54008651-94617d80-4135-11e9-9ad4-ec98fd4bcdd8.jpg)
 
 --- 
 
