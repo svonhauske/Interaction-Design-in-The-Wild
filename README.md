@@ -503,3 +503,7 @@ Although this device is meant to create cooperation among hyena clans, based on 
 ![hyena 127](https://user-images.githubusercontent.com/43420227/54006335-df29c800-412a-11e9-9b68-3ba4c998e281.jpg)
 
 ![box](https://user-images.githubusercontent.com/43420227/54007228-bacfea80-412e-11e9-9e08-9eb33da21366.jpg)
+
+[Go to top.](#design-in-safaris) 
+
+--- 
