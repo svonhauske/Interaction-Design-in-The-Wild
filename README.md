@@ -470,3 +470,8 @@ The device targets hyenas hunting and collaboration behavior. Hyenas are known f
 ### Problems:
 Although this device is meant to create cooperation among hyena clans, based on previous research we found that it is not uncommon that zoos only have one solitary hyena. Although the device can function as feeding enrichment for one individual, it cannot encourage cooperation if there aren’t at least two participants involved.
 
+![untitled 123](https://user-images.githubusercontent.com/43420227/54005685-66297100-4128-11e9-90bb-3c353341a7d4.jpg)
+
+![untitled 124](https://user-images.githubusercontent.com/43420227/54005684-66297100-4128-11e9-89f1-4dd5eccbe45d.jpg)
+
+![untitled 125](https://user-images.githubusercontent.com/43420227/54005683-66297100-4128-11e9-83c0-8c8a855498f2.jpg)
