@@ -478,16 +478,20 @@ Overall it is a nice place, people seem to enjoy having their pets around and be
 
 ### Proposal
 
-**Environment Location**
+**Environment Location:**
+
 Meant for spotted hyenas in captivity, zoo environments or rehabilitation centers.
    
-**Form**
+**Form:**
+
 We want to build a box that contains a smaller box inside where the food is housed. Each side of the outer box has horizontal slits, and the inner box has ropes are attached to each side that slide through these slits. The bottom of the outer container slides in and out, allowing for different bottoms to be used, each one with a different hole pattern.
 
-**Targeted Animal Behavior/Action**
+**Targeted Animal Behavior/Action:**
+
 The device targets hyenas hunting and collaboration behavior. Hyenas are known for taking down large prey like wildebeest and buffalo by hunting in groups and using their powerful jaw to bite down and hold onto the animal until it falls. The device encourages hyenas to engage their physical and problem-solving capabilities. It requires them to pull the different ropes to move around the box until it passes over a hole and releases food. Hyenas have to work together to succeed and acquire treats/food faster and more efficiently.
 
 **Problems:**
+
 Although this device is meant to create cooperation among hyena clans, based on previous research we found that it is not uncommon that zoos only have one solitary hyena. Although the device can function as feeding enrichment for one individual, it cannot encourage cooperation if there aren’t at least two participants involved.
 
 ![untitled 123](https://user-images.githubusercontent.com/43420227/54005685-66297100-4128-11e9-90bb-3c353341a7d4.jpg)
