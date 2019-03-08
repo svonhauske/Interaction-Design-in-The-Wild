@@ -490,7 +490,7 @@ We want to build a box that contains a smaller box inside where the food is hous
 
 The device targets hyenas hunting and collaboration behavior. Hyenas are known for taking down large prey like wildebeest and buffalo by hunting in groups and using their powerful jaw to bite down and hold onto the animal until it falls. The device encourages hyenas to engage their physical and problem-solving capabilities. It requires them to pull the different ropes to move around the box until it passes over a hole and releases food. Hyenas have to work together to succeed and acquire treats/food faster and more efficiently.
 
-**Problems:**
+**Things To Consider:**
 
 Although this device is meant to create cooperation among hyena clans, based on previous research we found that it is not uncommon that zoos only have one solitary hyena. Although the device can function as feeding enrichment for one individual, it cannot encourage cooperation if there aren’t at least two participants involved.
 
