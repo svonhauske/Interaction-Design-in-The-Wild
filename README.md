@@ -474,7 +474,7 @@ Overall it is a nice place, people seem to enjoy having their pets around and be
 
 * [Learning How To Keep a Hyena Happy](https://www.berkeley.edu/news/berkeleyan/1998/0408/hyena.html)
 
-* [Animal Enrichment - Spotter Hyenas](http://www.animalenrichment.org/spotted-heynas)
+* [Animal Enrichment - Spotted Hyenas](http://www.animalenrichment.org/spotted-heynas)
 
 ### Proposal
 
