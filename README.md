@@ -17,6 +17,8 @@
 
 1. [Boris & Horton Cafe](#pet-store-visit)
 
+2. [Group Enrichment Proposal](#group-enrichment-proposal)
+
 
 ## Designing for Humans
 01/28/2019
@@ -364,6 +366,8 @@ This machine is a preybot that tries to mimic the fleeing upward behavior of a f
 
 [Bodystorming Video](https://vimeo.com/319504079)
 
+[Go to top.](#design-in-safaris)
+
 --- 
 
 ## Zoo Visit
@@ -390,6 +394,8 @@ I was not a fan of the instantaneous sampling because I observed so many interes
 While I was obeserving the lemurs, the part of the body that I saw them use the most to interact with the world was their hands. They used them to hold their food, to hang from branches, to hold on to branches, and to scratch themselves. They also use their feet to do a lot of things, but not as much as their hands. The third thing I saw them use the most was their mouth and nose. Their tail mostly just hung, sometimtes they would grab it and groom it, but I did not observe the tail being used for anything. 
 
 ![lemurhomunculus](https://user-images.githubusercontent.com/43420227/53808306-e2049d00-3f1f-11e9-9344-7d1a44fa8e16.jpg)
+
+[Go to top.](#design-in-safaris)
 
 --- 
 
@@ -444,6 +450,23 @@ Overall it is a nice place, people seem to enjoy having their pets around and be
 
 ![posters](https://user-images.githubusercontent.com/43420227/53811699-f5b40180-3f27-11e9-9007-50339c482fed.jpg)
 
-
+[Go to top.](#design-in-safaris)
 
 --- 
+
+## Group Enrichment Proposal
+## Spotted Hyena
+03/07/2019
+
+### Environment Location
+Meant for spotted hyenas in captivity, zoo environments or rehabilitation centers.
+   
+### Form
+We want to build a box that contains a smaller box inside where the food is housed. Each side of the outer box has horizontal slits, and the inner box has ropes are attached to each side that slide through these slits. The bottom of the outer container slides in and out, allowing for different bottoms to be used, each one with a different hole pattern.
+
+### Targeted Animal Behavior/Action
+The device targets hyenas hunting and collaboration behavior. Hyenas are known for taking down large prey like wildebeest and buffalo by hunting in groups and using their powerful jaw to bite down and hold onto the animal until it falls. The device encourages hyenas to engage their physical and problem-solving capabilities. It requires them to pull the different ropes to move around the box until it passes over a hole and releases food. Hyenas have to work together to succeed and acquire treats/food faster and more efficiently.
+
+### Problems:
+Although this device is meant to create cooperation among hyena clans, based on previous research we found that it is not uncommon that zoos only have one solitary hyena. Although the device can function as feeding enrichment for one individual, it cannot encourage cooperation if there aren’t at least two participants involved.
+
