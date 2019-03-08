@@ -477,3 +477,5 @@ Although this device is meant to create cooperation among hyena clans, based on 
 ![untitled 125](https://user-images.githubusercontent.com/43420227/54005683-66297100-4128-11e9-83c0-8c8a855498f2.jpg)
 
 ![hyena 127](https://user-images.githubusercontent.com/43420227/54006335-df29c800-412a-11e9-9b68-3ba4c998e281.jpg)
+
+![box](https://user-images.githubusercontent.com/43420227/54007228-bacfea80-412e-11e9-9e08-9eb33da21366.jpg)
