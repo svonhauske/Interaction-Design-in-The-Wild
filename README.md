@@ -7,17 +7,19 @@
 
 1. [Empathy Machine](#empathy-machine)
 
-1. [Enrichment Proposal I](#enrichment-i)
+1. [Fox Enrichment Proposal I](#fox-enrichment-proposal-i)
 
-1. [Enrichment Proposal II](#enrichment-ii)
+1. [Fox Enrichment Proposal II](#fox-enrichment-proposal-ii)
 
-1. [Enrichment Prototype](#enrichment-prototype)
+1. [Fox Enrichment Prototype](#fox-enrichment-prototype)
 
 1. [Central Park Zoo](#zoo-visit)
 
 1. [Boris & Horton Cafe](#pet-store-visit)
 
-2. [Group Enrichment Proposal](#group-enrichment-proposal)
+1. [Group Enrichment Proposal](#group-enrichment-proposal)
+
+1. [Hyena Enrichment Prototype](#hynea-enrichment-prototype)
 
 
 ## Designing for Humans
@@ -252,7 +254,7 @@ Ideally, this would be made out of nylon or with bearings to reduce friction and
 
 ---  
 
-## Enrichment I
+## Fox Enrichment Proposal I
 ## Vulpes vulpes: Hunting
 02/18/2019
 
@@ -329,7 +331,7 @@ This second proposal comes from the hunting of arboreal prey. Foxes are usually 
 
 --- 
 
-## Enrichment II
+## Enrichment Proposal II
 ## Preybot
 02/21/2019
 
@@ -355,7 +357,7 @@ I want to build a device that hangs from the top mesh of the fox's habitat. Usin
 
 --- 
 
-## Enrichment Prototype
+## Fox Enrichment Prototype
 02/26/2019
 
 This machine is a preybot that tries to mimic the fleeing upward behavior of a fox's arboreal prey. These type of prey consists of birds and tree squirrels, which have high visual acuity. The idea with this machine is to encourage hunting behaviors in foxes. The device lowers food to the ground, making it seem attractive, like a bird or squirrel that is on the ground in a vulnerable position. The machine has a motion sensor that can detect when the fox is getting close, just like a bird can detect it with their eyes. When hunting this type of prey, foxes stalk their prey in a deeply crouched posture and then try to catch the animal in a dashing run. The fox needs to practice this technique to be able to avoid the motion sensor, and it has to be fast enough to catch the food before that happens. If the motion sensor senses the fox, it'll automatically pull the food up, like a bird fleeing upwards. 
@@ -517,3 +519,18 @@ Although this device is meant to create cooperation among hyena clans, based on 
 [Go to top.](#design-in-safaris) 
 
 --- 
+
+## Hyena Enrichment Prototype
+## Crocuta crocuta
+03/13/2019
+
+The Crocuta crocuta, more commonly known as spotted hyena, are the largest of three hyena species (striped hyena, brown hyena, and aardwolf). They appear to be similar to dogs, but more closely related to cats. They live throughout much of Africa,Arabia to India. Spotted hyenas are led by females and they live together in clans that may have up to 100 hyenas. Scientists have recorded over 11 different vocalizations made by spotted hyenas, making them the most vocal mammals in Africa.
+
+The length from head to tail is about 95 to 150 cm and the height is about 75 cm to 85cm. The tail is about 30 to 36 cm long and ends in a bushy black tip. Male weight ranges from 45 to 60 kg and females weigh 55 to over 70 kg.
+
+
+
+[Go to top.](#design-in-safaris) 
+
+--- 
+
