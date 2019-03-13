@@ -589,6 +589,28 @@ Sources: [Social intelligence in the spotted hyena (Crocuta crocuta)](https://ww
 
 • [Problem Solving and Social Learning In Spotted Hyenas (Crocuta crocuta)](https://krex.k-state.edu/dspace/bitstream/handle/2097/18258/LindsayKubina2014.pdf?sequence=1) - Lindsay M. Kubina
 
+Social Complexity Hypothesis: Same as social brain hypothesis, which proposes that the advanced social and cognitive skills
+of some species evolved due to the selection pressure of group living.  Spotted hyenas have advanced social cognitive
+abilities similar to primates, for example, being able to identify individuals within their clan, recognize kin, and learn about social ranks of other clan members. 
+
+
+The spotted hyenas problem solving was tested  by presenting six spotted hyenas with a series of puzzle boxes. All of the  test subjects were similar in size and had been in a zoo for about 3 years. 
+
+• Puzzle Box: The boxes' sides had gaps between the boards that allowed the animals to see and smell the food reward, but not reach it. The front had a door that could be raised to allow a food dish to slide in and out through an opening. 
+
+• Remove Bowl Puzzle:
+
+• Cable Puzzle:
+
+• Lazy Susan Puzzle:
+
+• Remove Lid Puzzle:
+
+• Plunger Puzzle:
+
+Sources: [Vocal recognition in the spotted hyaena and its possible implications regarding the evolution of intelligence](https://www.researchgate.net/publication/222923855_Vocal_recognition_in_the_spotted_hyaena_and_its_possible_implications_regarding_the_evolution_of_intelligence)
+
+
 [Go to top.](#design-in-safaris) 
 
 --- 
