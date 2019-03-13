@@ -5,7 +5,6 @@ date: 2019-02-10
 author: Sofia von Hauske Valtierra
 ---
 
-## Empathy Machine
 02/10/2019
 
 ### First Attempt: Researching Animals
