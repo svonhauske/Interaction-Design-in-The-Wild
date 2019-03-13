@@ -594,21 +594,21 @@ of some species evolved due to the selection pressure of group living.  Spotted 
 abilities similar to primates, for example, being able to identify individuals within their clan, recognize kin, and learn about social ranks of other clan members. 
 
 
-The spotted hyenas problem solving was tested  by presenting six spotted hyenas with a series of puzzle boxes. All of the  test subjects were similar in size and had been in a zoo for about 3 years. 
+The spotted hyenas problem solving was tested  by presenting six spotted hyenas with a series of puzzle boxes. All of the  test subjects were similar in size and had been in a zoo for about 3 years. The animals were given 30 to 40 minutes to solve each puzzle
+
+• **Remove Bowl Puzzle:** Solved by all hyenas. 
+
+<img width="750" alt="RemoveBowl" src="https://user-images.githubusercontent.com/43420227/54287334-d8141700-457b-11e9-9eab-a3ab34bf1190.png">
 
 • **Puzzle Box:**
 
 <img width="750" alt="PuzzleBox" src="https://user-images.githubusercontent.com/43420227/54287108-72278f80-457b-11e9-982d-f04d0095f6b1.png">
 
-• **Remove Bowl Puzzle:**
-
-<img width="750" alt="RemoveBowl" src="https://user-images.githubusercontent.com/43420227/54287334-d8141700-457b-11e9-9eab-a3ab34bf1190.png">
-
 • **Cable Puzzle:**
 
 <img width="750" alt="CablePuzzle" src="https://user-images.githubusercontent.com/43420227/54287112-72278f80-457b-11e9-8dad-7e30a3a8ceb4.png">
 
-• **Lazy Susan Puzzle:**
+• **Lazy Susan Puzzle:** Solved by all hyenas. 
 
 <img width="750" alt="LazySusanPuzzle" src="https://user-images.githubusercontent.com/43420227/54287111-72278f80-457b-11e9-9472-229f1c849139.png">
 
@@ -616,11 +616,14 @@ The spotted hyenas problem solving was tested  by presenting six spotted hyenas 
 
 <img width="750" alt="RemoveLidPuzzle" src="https://user-images.githubusercontent.com/43420227/54287110-72278f80-457b-11e9-89d6-5f83c1cb37f1.png">
 
-• **Plunger Puzzle:**
+• **Plunger Puzzle:** Solved by only one hyena.
 
 <img width="750" alt="PlungerPuzzle" src="https://user-images.githubusercontent.com/43420227/54287109-72278f80-457b-11e9-8bd7-bc081a0126d5.png">
 
-Sources: [Vocal recognition in the spotted hyaena and its possible implications regarding the evolution of intelligence](https://www.researchgate.net/publication/222923855_Vocal_recognition_in_the_spotted_hyaena_and_its_possible_implications_regarding_the_evolution_of_intelligence)
+Overall the spotted hyenas were capable of solving the majority of the puzzle boxes. All of the spotted hyenas solved puzzles with a low level of difficulty where they simply had to pull the bowl out of the front of the box with their paw or mouth. Success was more variable when it came to medium difficulty puzzles(Cable, Lazy Susan, and Remove Lid Puzzles)where the solution required manipulation involved a type of pulling motion either with the mouth or paws. They were generally unsuccessful at solving the high difficulty puzzle like the Plunger Puzzle that required the food to be pushed away from them in order to be accessed. 
+
+Sources: [Vocal recognition in the spotted hyaena and its possible implications regarding the evolution of intelligence](https://www.researchgate.net/publication/222923855_Vocal_recognition_in_the_spotted_hyaena_and_its_possible_implications_regarding_the_evolution_of_intelligence), [A comparison of innovative problem-solving abilities between wild and captive
+spotted hyaenas, Crocuta crocuta](http://animalcognitionlab.org/sites/default/files/bensonamrametal2012.pdf)
 
 
 [Go to top.](#design-in-safaris) 
