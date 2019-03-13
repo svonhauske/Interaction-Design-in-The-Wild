@@ -547,6 +547,12 @@ Hyenas do not kill their prey directly; the prey is captured and eaten while sti
 • Small Prey: When hunting weak or smaller prey, they hunt in a fox-like manner.
 [Video: Hyenas Hunting Buffalo](https://www.youtube.com/watch?v=6xh2YpA1JzE)
 
+![sx94a1f3rq401](https://user-images.githubusercontent.com/43420227/54271366-bef96f00-4557-11e9-8e0c-d0a5d593072f.jpg)
+
+![31505925018_59f73ea50f_b](https://user-images.githubusercontent.com/43420227/54271367-bef96f00-4557-11e9-9725-292491172d92.jpg)
+
+![90b3ca37c3b64d41361e34651e268d28](https://user-images.githubusercontent.com/43420227/54271368-bef96f00-4557-11e9-90fd-c1890c27733e.jpg)
+
 [SS](http://www.sheppardsoftware.com/content/animals/animals/mammals/hyena.htm)
 
 [AWD](https://www.africa-wildlife-detective.com/hyena.html)
