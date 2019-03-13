@@ -524,7 +524,7 @@ Although this device is meant to create cooperation among hyena clans, based on 
 ## Crocuta crocuta
 03/13/2019
 
-The Crocuta crocuta, more commonly known as spotted hyena, are the largest of three hyena species (striped hyena, brown hyena, and aardwolf). They appear to be similar to dogs, but more closely related to cats. They live throughout much of Africa,Arabia to India. Spotted hyenas are led by females and they live together in clans that may have up to 100 hyenas. Scientists have recorded over 11 different vocalizations made by spotted hyenas, making them the most vocal mammals in Africa. 
+The Crocuta crocuta, more commonly known as spotted hyena, is the largest of three hyena species (striped hyena, brown hyena, and aardwolf). They appear to be similar to dogs, but more closely related to cats. They live throughout much of Africa, Arabia to India. Females lead spotted hyenas, and they live together in clans that may have up to 100 hyenas. Scientists have recorded over 11 different vocalizations made by spotted hyenas, making them the most vocal mammals in Africa. 
 
 ![spotted-hyena-den ngsversion 1412643202452](https://user-images.githubusercontent.com/43420227/54270380-b2741700-4555-11e9-9394-1746f25c6e70.jpg)
 
@@ -536,7 +536,7 @@ Sources: [National Geographic](https://www.nationalgeographic.com/animals/mammal
 
 **Hunting Behavior:**
 
-Hyenas do not kill their prey directly; the prey is captured and eaten while still alive. The victim dies from shock and loss of blood as it is torn apart and pulled down. They have different hunting techniques bases on the size and type of prey. They get up to 75 per cent of their food from their own kills.
+Hyenas do not kill their prey directly; the prey is captured and eaten while still alive. The victim dies from shock and loss of blood as it is torn apart and pulled down. They have different hunting techniques based on the size and type of prey. They get up to 75% of their food from their own kills.
 
 • **Big Prey:** When hyenas hunt an animal that is bigger than themselves, they hunt more like a dog or wolf, hunting fown the prey as a group. They take down the prey by biting into it and pulling it into the ground. 
 
@@ -559,9 +559,9 @@ Sources: [SS](http://www.sheppardsoftware.com/content/animals/animals/mammals/hy
 
 • [Innovative Problem Solving by Wild Spotted Hyenas](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3427591/pdf/rspb20121450.pdf) - Sarah Benson-Amram and Kay E. Holekamp
 
-At the Department of Zoology of Michigan State University they wanted to test whether the Crocuta crocuta is an innovative animal, which is an animal able to solve new problems or find new solutions to existing problems.The study was conducted in their natural habitat in the Masai Mara National Reserve, Kenya. They built a steel puzzle box that was presented to the hyenas. It was big enough to allow for a hyena to put its head inside the box, and the spacing between the bars of the box was sufficient to allow hyenas to see and smell the meat inside. To be able to reach the meat, the hyena would have to slide a bolt latch laterally, and swing open the door; it could be opened using either the mouth or the forepaws.
+At the Department of Zoology of Michigan State University, they wanted to test whether the Crocuta crocuta is an innovative animal, which is an animal able to solve new problems or find new solutions to existing problems. The study was conducted in their natural habitat in the Masai Mara National Reserve, Kenya. They built a steel puzzle box that was presented to the hyenas. It was big enough to allow for a hyena to put its head inside the box, and the spacing between the bars of the box was sufficient to allow hyenas to see and smell the meat inside. To be able to reach the meat, the hyena would have to slide a bolt latch laterally, and swing open the door; it could be opened using either the mouth or the forepaws.
 
-Spotted hyenas are extremely adept at solving social problems, but only 15% of them managed to solve open the box. Those hyenas that were successful, became faster at opening the puzzle box over successive trials. This study showed that hyenas learn via trial and error. 
+Spotted hyenas are incredibly adept at solving social problems, but only 15% of them managed to solve open the box. Those successful hyenas became faster at opening the puzzle box over successive trials. This study showed that hyenas learn via trial and error. 
 
 Juveniles showed greater exploration diversity, spent more time working on the puzzle and were less neophobic than adults. Neither sex nor social rank affected exploration diversity, work time, or neophobia.
 
@@ -571,7 +571,7 @@ Juveniles showed greater exploration diversity, spent more time working on the p
 
 • [Hyena Project](http://lilyjohnsonulrich.weebly.com/my-research.html) - Lily Johnson-Ulrich
 
-Lily Johnson-Ulrich starts her research with thinking that because neural tissue is costly, people have agreed that big brains must be adaptive. One of the most conventional explanations for the evolution of intelligence is the Social Brain Hypothesis, which argues that intelligence did not evolve primarily as a means to solve ecological problems, but rather as a means of surviving and reproducing in large and complex social groups. This hypothesis has been strongly supported by work on primates where higher degrees of social complexity are correlated with enhanced social cognition. The cognitive buffer hypothesis suggests that big brains enhance general behavioral flexibility and allow individuals to respond effectively to rapidly changing or novel environments. Johnson-Ulrich is testing out predictions of the SBH and CBH hypotheses by testing two cognitive abilities: innovation and inhibitory control, in spotted hyenas.
+Lily Johnson-Ulrich starts her research with thinking that because neural tissue is costly, people have agreed that big brains must be adaptive. One of the most conventional explanations for the evolution of intelligence is the Social Brain Hypothesis, which argues that intelligence did not evolve primarily as a means to solve ecological problems, but rather as a means of surviving and reproducing in large and complex social groups. This hypothesis has been strongly supported by work on primates where higher degrees of social complexity are correlated with enhanced social cognition. The cognitive buffer hypothesis suggests that big brains enhance overall behavioral flexibility and allow individuals to respond effectively to rapidly changing or novel environments. Johnson-Ulrich is testing out predictions of the SBH and CBH hypotheses by testing two cognitive abilities: innovation and inhibitory control, in spotted hyenas.
 
 Hyenas exhibit larger overall brains and proportionally larger frontal cortex than those seen in other extant hyenas or other carnivores. The size of their frontal cortex and the similarity between hyena and primate societies predict that hyenas should do comparably well on cognitive tasks. 
 
