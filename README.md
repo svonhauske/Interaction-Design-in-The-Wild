@@ -538,7 +538,7 @@ Sources: [National Geographic](https://www.nationalgeographic.com/animals/mammal
 
 Hyenas do not kill their prey directly; the prey is captured and eaten while still alive. The victim dies from shock and loss of blood as it is torn apart and pulled down. They have different hunting techniques based on the size and type of prey. They get up to 75% of their food from their own kills.
 
-• **Big Prey:** When hyenas hunt an animal that is bigger than themselves, they hunt more like a dog or wolf, hunting fown the prey as a group. They take down the prey by biting into it and pulling it into the ground. 
+• **Big Prey:** When hyenas hunt an animal that is bigger than themselves, they hunt more like a dog or wolf, hunting down the prey as a group. They take down the prey by biting into it and pulling it into the ground. 
 
 [Video: Hyenas Hunting Antelope](https://www.youtube.com/watch?v=mrYZlsNAie0)
 
