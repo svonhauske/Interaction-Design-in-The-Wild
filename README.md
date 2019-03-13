@@ -598,11 +598,11 @@ The spotted hyenas problem solving was tested  by presenting six spotted hyenas 
 
 • **Puzzle Box:**
 
-<img width="706" alt="PuzzleBox" src="https://user-images.githubusercontent.com/43420227/54287108-72278f80-457b-11e9-982d-f04d0095f6b1.png">
+<img width="750" alt="PuzzleBox" src="https://user-images.githubusercontent.com/43420227/54287108-72278f80-457b-11e9-982d-f04d0095f6b1.png">
 
 • **Remove Bowl Puzzle:**
 
-<img width="749" alt="RemoveBowl" src="https://user-images.githubusercontent.com/43420227/54287107-72278f80-457b-11e9-8491-b6fd7f755a89.png">
+<img width="750" alt="RemoveBowl" src="https://user-images.githubusercontent.com/43420227/54287334-d8141700-457b-11e9-9eab-a3ab34bf1190.png">
 
 • **Cable Puzzle:**
 
@@ -610,15 +610,15 @@ The spotted hyenas problem solving was tested  by presenting six spotted hyenas 
 
 • **Lazy Susan Puzzle:**
 
-<img width="708" alt="LazySusanPuzzle" src="https://user-images.githubusercontent.com/43420227/54287111-72278f80-457b-11e9-9472-229f1c849139.png">
+<img width="750" alt="LazySusanPuzzle" src="https://user-images.githubusercontent.com/43420227/54287111-72278f80-457b-11e9-9472-229f1c849139.png">
 
 • **Remove Lid Puzzle:**
 
-<img width="708" alt="RemoveLidPuzzle" src="https://user-images.githubusercontent.com/43420227/54287110-72278f80-457b-11e9-89d6-5f83c1cb37f1.png">
+<img width="750" alt="RemoveLidPuzzle" src="https://user-images.githubusercontent.com/43420227/54287110-72278f80-457b-11e9-89d6-5f83c1cb37f1.png">
 
 • **Plunger Puzzle:**
 
-<img width="701" alt="PlungerPuzzle" src="https://user-images.githubusercontent.com/43420227/54287109-72278f80-457b-11e9-8bd7-bc081a0126d5.png">
+<img width="750" alt="PlungerPuzzle" src="https://user-images.githubusercontent.com/43420227/54287109-72278f80-457b-11e9-8bd7-bc081a0126d5.png">
 
 Sources: [Vocal recognition in the spotted hyaena and its possible implications regarding the evolution of intelligence](https://www.researchgate.net/publication/222923855_Vocal_recognition_in_the_spotted_hyaena_and_its_possible_implications_regarding_the_evolution_of_intelligence)
 
