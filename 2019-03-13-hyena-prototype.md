@@ -5,7 +5,6 @@ date: 2019-03-13
 author: Sofia
 ---
 
-## Hyena Enrichment Prototype
 ## Crocuta crocuta
 03/13/2019
 
@@ -109,5 +108,9 @@ Overall the spotted hyenas were capable of solving the majority of the puzzle bo
 
 Sources: [Vocal recognition in the spotted hyaena and its possible implications regarding the evolution of intelligence](https://www.researchgate.net/publication/222923855_Vocal_recognition_in_the_spotted_hyaena_and_its_possible_implications_regarding_the_evolution_of_intelligence), [A comparison of innovative problem-solving abilities between wild and captive
 spotted hyaenas, Crocuta crocuta](http://animalcognitionlab.org/sites/default/files/bensonamrametal2012.pdf)
+
+## Prototype
+
+Based on the previous findings, we wanted to design a device that would use a hyena's ability to bite down and pull, their cooperative behavior and their ability to problem solve. 
 
 [Go to main page.](https://svonhauske.github.io/Design-in-Safaris-19/)
