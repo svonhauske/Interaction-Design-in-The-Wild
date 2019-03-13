@@ -532,7 +532,7 @@ The length from head to tail is about 95 to 150 cm and the height is about 75 cm
 
 ![the_hyenas_size__fancat__by_bigfancat-dcawbi0](https://user-images.githubusercontent.com/43420227/54270394-b869f800-4555-11e9-872e-ee0ec04d72f3.jpg)
 
-[National Geographic](https://www.nationalgeographic.com/animals/mammals/s/spotted-hyena/), [San Diego Zoo](https://animals.sandiegozoo.org/animals/spotted-hyena), [AWD](https://animaldiversity.org/accounts/Crocuta_crocuta/)
+Sources: [National Geographic](https://www.nationalgeographic.com/animals/mammals/s/spotted-hyena/), [San Diego Zoo](https://animals.sandiegozoo.org/animals/spotted-hyena), [AWD](https://animaldiversity.org/accounts/Crocuta_crocuta/)
 
 **Hunting Behavior:**
 
@@ -553,12 +553,11 @@ Hyenas do not kill their prey directly; the prey is captured and eaten while sti
 
 ![90b3ca37c3b64d41361e34651e268d28](https://user-images.githubusercontent.com/43420227/54271368-bef96f00-4557-11e9-90fd-c1890c27733e.jpg)
 
-[SS](http://www.sheppardsoftware.com/content/animals/animals/mammals/hyena.htm), [AWD](https://www.africa-wildlife-detective.com/hyena.html)
+Sources: [SS](http://www.sheppardsoftware.com/content/animals/animals/mammals/hyena.htm), [AWD](https://www.africa-wildlife-detective.com/hyena.html)
 
 **Previous enrichment testing:**
 
-• [Innovative Problem Solving by Wild Spotted Hyenas](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3427591/pdf/rspb20121450.pdf)
-- Sarah Benson-Amram and Kay E. Holekamp
+• [Innovative Problem Solving by Wild Spotted Hyenas](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3427591/pdf/rspb20121450.pdf) - Sarah Benson-Amram and Kay E. Holekamp
 
 At the Department of Zoology of Michigan State University they wanted to test whether the Crocuta crocuta is an innovative animal, which is an animal able to solve new problems or find new solutions to existing problems.The study was conducted in their natural habitat in the Masai Mara National Reserve, Kenya. They built a steel puzzle box that was presented to the hyenas. It was big enough to allow for a hyena to put its head inside the box, and the spacing between the bars of the box was sufficient to allow hyenas to see and smell the meat inside. To be able to reach the meat, the hyena would have to slide a bolt latch laterally, and swing open the door; it could be opened using either the mouth or the forepaws.
 
@@ -570,15 +569,13 @@ Juveniles showed greater exploration diversity, spent more time working on the p
 
 ![studyshowsan](https://user-images.githubusercontent.com/43420227/54281758-d1cc6d80-4570-11e9-8fe9-cddf55e483d8.jpg)
 
-• [Hyena Project](http://lilyjohnsonulrich.weebly.com/my-research.html)
-- Lily Johnson-Ulrich
+• [Hyena Project](http://lilyjohnsonulrich.weebly.com/my-research.html) - Lily Johnson-Ulrich
 
 Hyenas exhibit larger overall brains and proportionally larger frontal cortex than those seen in other extant hyenas or other carnivores. The size of their frontal cortex and the similarity between hyena and primate societies predict that hyenas should do comparably well on cognitive tasks.
 
-[Social intelligence in the spotted hyena (Crocuta crocuta)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2346515/)
-[Brain size and social complexity: a computed tomography study in Hyaenidae.](https://www.ncbi.nlm.nih.gov/pubmed/21335942)
-[Brains, brawn and sociality: a hyaena’s tale](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4493912/)
-[Sex and the frontal cortex: A developmental CT study in the spotted hyena.](https://www.ncbi.nlm.nih.gov/pubmed/21088374)
+<img width="432" alt="Screen Shot 2019-03-13 at 9 37 48 AM" src="https://user-images.githubusercontent.com/43420227/54283140-c7f83980-4573-11e9-8c1c-81f36a3ac13d.png">
+
+Sources: [Social intelligence in the spotted hyena (Crocuta crocuta)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2346515/), [Brain size and social complexity: a computed tomography study in Hyaenidae.](https://www.ncbi.nlm.nih.gov/pubmed/21335942), [Brains, brawn and sociality: a hyaena’s tale](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4493912/), [Sex and the frontal cortex: A developmental CT study in the spotted hyena.](https://www.ncbi.nlm.nih.gov/pubmed/21088374)
 
 [Go to top.](#design-in-safaris) 
 
