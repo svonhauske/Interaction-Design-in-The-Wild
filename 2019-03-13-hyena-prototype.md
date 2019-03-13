@@ -142,6 +142,6 @@ Based on the previous findings, we wanted to design a device that would use a hy
 ![IMG_9375](https://user-images.githubusercontent.com/43420227/54309762-2be82580-45a7-11e9-97c7-fd8398e96d18.jpg)
 
 
-
+[VIDEO](https://www.youtube.com/watch?v=QuZULJXrIWc)
 
 [Go to main page.](https://svonhauske.github.io/Design-in-Safaris-19/)
