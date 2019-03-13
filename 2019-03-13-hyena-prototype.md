@@ -2,7 +2,7 @@
 layout: post
 title: "Hyena Enrichment Prototype"
 date: 2019-03-13
-author: Sofia
+author: Sofia von Hauske Valtierra
 ---
 
 ## Crocuta crocuta
