@@ -19,7 +19,7 @@
 
 1. [Group Enrichment Proposal](#group-enrichment-proposal)
 
-1. [Hyena Enrichment Prototype](https://github.com/svonhauske/Design-in-Safaris-19/blob/master/HyenaEnrichmentPrototype.md)
+1. [Hyena Enrichment Prototype](https://svonhauske.github.io/Design-in-Safaris-19/2019-03-13-hyena-prototype)
 
 
 ## Designing for Humans
