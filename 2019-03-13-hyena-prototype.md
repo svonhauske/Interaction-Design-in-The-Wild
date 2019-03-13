@@ -112,7 +112,7 @@ The spotted hyenas problem solving was tested  by presenting six spotted hyenas 
 
 • **Lazy Susan Puzzle:** Solved by all hyenas. 
 
-<img width="750" alt="LazySusanPuzzle" src="https://user-images.githubusercontent.com/43420227/54287111-72278f80-457b-11e9-9472-229f1c849139.png">
+<img width="300" alt="LazySusanPuzzle" src="https://user-images.githubusercontent.com/43420227/54287111-72278f80-457b-11e9-9472-229f1c849139.png">
 
 • **Remove Lid Puzzle:**
 
