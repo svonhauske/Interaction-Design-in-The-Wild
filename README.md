@@ -575,6 +575,8 @@ Lily Johnson-Ulrich starts her research with thinking that because neural tissue
 
 Hyenas exhibit larger overall brains and proportionally larger frontal cortex than those seen in other extant hyenas or other carnivores. The size of their frontal cortex and the similarity between hyena and primate societies predict that hyenas should do comparably well on cognitive tasks. 
 
+This is an ongoing research project that hasn't been published yet, but I have added some in the field photographs. 
+
 <img width="432" alt="Screen Shot 2019-03-13 at 9 37 48 AM" src="https://user-images.githubusercontent.com/43420227/54283140-c7f83980-4573-11e9-8c1c-81f36a3ac13d.png">
 
 ![img-6348_1_orig](https://user-images.githubusercontent.com/43420227/54284038-9f713f00-4575-11e9-8ced-f0a5229c9048.jpg)
