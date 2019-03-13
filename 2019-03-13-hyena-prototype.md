@@ -65,7 +65,7 @@ Juveniles showed greater exploration diversity, spent more time working on the p
 ![beacon-hyenas](https://user-images.githubusercontent.com/43420227/54281757-d1cc6d80-4570-11e9-9241-101001782478.jpg)
 
 ![studyshowsan](https://user-images.githubusercontent.com/43420227/54281758-d1cc6d80-4570-11e9-8fe9-cddf55e483d8.jpg)
-
+---
 **[Hyena Project](http://lilyjohnsonulrich.weebly.com/my-research.html) - Lily Johnson-Ulrich**
 
 Lily Johnson-Ulrich starts her research with thinking that because neural tissue is costly, people have agreed that big brains must be adaptive. One of the most conventional explanations for the evolution of intelligence is the Social Brain Hypothesis, which argues that intelligence did not evolve primarily as a means to solve ecological problems, but rather as a means of surviving and reproducing in large and complex social groups. This hypothesis has been strongly supported by work on primates where higher degrees of social complexity are correlated with enhanced social cognition. The cognitive buffer hypothesis suggests that big brains enhance overall behavioral flexibility and allow individuals to respond effectively to rapidly changing or novel environments. Johnson-Ulrich is testing out predictions of the SBH and CBH hypotheses by testing two cognitive abilities: innovation and inhibitory control, in spotted hyenas.
@@ -83,7 +83,7 @@ This is an ongoing research project that hasn't been published yet, but I have a
 ![img-1188_orig](https://user-images.githubusercontent.com/43420227/54284049-a435f300-4575-11e9-9436-5c4c1f1fc595.jpg)
 
 Sources: [Social intelligence in the spotted hyena (Crocuta crocuta)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2346515/), [Brain size and social complexity: a computed tomography study in Hyaenidae.](https://www.ncbi.nlm.nih.gov/pubmed/21335942), [Brains, brawn and sociality: a hyaena’s tale](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4493912/), [Sex and the frontal cortex: A developmental CT study in the spotted hyena.](https://www.ncbi.nlm.nih.gov/pubmed/21088374)
-
+---
 **[Problem Solving and Social Learning In Spotted Hyenas (Crocuta crocuta)](https://krex.k-state.edu/dspace/bitstream/handle/2097/18258/LindsayKubina2014.pdf?sequence=1) - Lindsay M. Kubina**
 
 Social Complexity Hypothesis: Same as social brain hypothesis, which proposes that the advanced social and cognitive skills
