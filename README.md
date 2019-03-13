@@ -19,7 +19,7 @@
 
 1. [Group Enrichment Proposal](#group-enrichment-proposal)
 
-1. [Hyena Enrichment Prototype](#hynea-enrichment-prototype)
+1. [Hyena Enrichment Prototype](#hyena-enrichment-prototype)
 
 
 ## Designing for Humans
