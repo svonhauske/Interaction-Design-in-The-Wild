@@ -5,8 +5,6 @@ date: 2019-03-04
 author: Sofia von Hauske Valtierra
 ---
 
-
-## Pet Store Visit
 ## Boris & Horton Cafe
 03/04/2019
 
