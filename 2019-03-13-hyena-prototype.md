@@ -21,14 +21,14 @@ Sources: [National Geographic](https://www.nationalgeographic.com/animals/mammal
 
 **Hunting Behavior:**
 
-Hyenas do not kill their prey directly; the prey is captured and eaten while still alive. The victim dies from shock and loss of blood as it is torn apart and pulled down. They have different hunting techniques based on the size and type of prey. They get up to 75% of their food from their own kills.
+Hyenas do not kill their prey directly; the prey is captured and eaten while still alive. The victim dies from shock and loss of blood as it is torn apart and pulled down. They have different hunting techniques based on the size and type of prey. They get up to 75% of their food from their own kills. The spotted hyena tracks live prey by sight, hearing and smell.
 
-• **Big Prey:** When hyenas hunt an animal that is bigger than themselves, they hunt more like a dog or wolf, hunting down the prey as a group. They take down the prey by biting into it and pulling it into the ground. 
+• **Big Prey:** When hyenas hunt an animal that is bigger than themselves, they hunt more like a dog or wolf, hunting down the prey as a group. They take down the prey by biting into it and pulling it into the ground. Examples: wildebeest, antelope, zebras and young hippos.
 
 [Video: Hyenas Hunting Antelope](https://www.youtube.com/watch?v=mrYZlsNAie0)
 
 
-• **Small Prey:** When hunting weak or smaller prey, they hunt in a fox-like manner.
+• **Small Prey:** When hunting weak or smaller prey, they hunt individually. Examples: birds, fish, snakes, lizards and insects.
 
 [Video: Hyenas Hunting Buffalo](https://www.youtube.com/watch?v=6xh2YpA1JzE)
 
