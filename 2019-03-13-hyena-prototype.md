@@ -134,7 +134,7 @@ Based on the previous findings, we wanted to design a device that would use a hy
 
 ![Hyena 132](https://user-images.githubusercontent.com/43420227/54310481-d745aa00-45a8-11e9-865c-abfa09f4687f.jpg)
 
-![Box_Medidas](https://user-images.githubusercontent.com/43420227/54310561-0b20cf80-45a9-11e9-9178-a321800e54c1.jpg)
+![Box_Medidas](https://user-images.githubusercontent.com/43420227/54311384-d9106d00-45aa-11e9-9242-88275c26e6ec.jpg)
 
 ![IMG_9710](https://user-images.githubusercontent.com/43420227/54309760-2be82580-45a7-11e9-9860-bdd21d95f2e0.jpg)
 
