@@ -557,12 +557,28 @@ Hyenas do not kill their prey directly; the prey is captured and eaten while sti
 
 **Previous enrichment testing:**
 
-[Innovative Problem Solving by Wild Spotted Hyenas](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3427591/pdf/rspb20121450.pdf)
+• [Innovative Problem Solving by Wild Spotted Hyenas](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3427591/pdf/rspb20121450.pdf)
 - Sarah Benson-Amram and Kay E. Holekamp
 
 At the Department of Zoology of Michigan State University they wanted to test whether the Crocuta crocuta is an innovative animal, which is an animal able to solve new problems or find new solutions to existing problems.The study was conducted in their natural habitat in the Masai Mara National Reserve, Kenya. They built a steel puzzle box that was presented to the hyenas. It was big enough to allow for a hyena to put its head inside the box, and the spacing between the bars of the box was sufficient to allow hyenas to see and smell the meat inside. To be able to reach the meat, the hyena would have to slide a bolt latch laterally, and swing open the door; it could be opened using either the mouth or the forepaws.
 
+Spotted hyenas are extremely adept at solving social problems, but only 15% of them managed to solve open the box. Those hyenas that were successful, became faster at opening the puzzle box over successive trials. This study showed that hyenas learn via trial and error. 
 
+Juveniles showed greater exploration diversity, spent more time working on the puzzle and were less neophobic than adults. Neither sex nor social rank affected exploration diversity, work time, or neophobia.
+
+![beacon-hyenas](https://user-images.githubusercontent.com/43420227/54281757-d1cc6d80-4570-11e9-9241-101001782478.jpg)
+
+![studyshowsan](https://user-images.githubusercontent.com/43420227/54281758-d1cc6d80-4570-11e9-8fe9-cddf55e483d8.jpg)
+
+• [Hyena Project](http://lilyjohnsonulrich.weebly.com/my-research.html)
+- Lily Johnson-Ulrich
+
+Hyenas exhibit larger overall brains and proportionally larger frontal cortex than those seen in other extant hyenas or other carnivores. The size of their frontal cortex and the similarity between hyena and primate societies predict that hyenas should do comparably well on cognitive tasks.
+
+[Social intelligence in the spotted hyena (Crocuta crocuta)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2346515/)
+[Brain size and social complexity: a computed tomography study in Hyaenidae.](https://www.ncbi.nlm.nih.gov/pubmed/21335942)
+[Brains, brawn and sociality: a hyaena’s tale](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4493912/)
+[Sex and the frontal cortex: A developmental CT study in the spotted hyena.](https://www.ncbi.nlm.nih.gov/pubmed/21088374)
 
 [Go to top.](#design-in-safaris) 
 
