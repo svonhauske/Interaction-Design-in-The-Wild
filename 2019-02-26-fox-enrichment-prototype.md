@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Fox Enrichment Prototype"
 date: 2019-02-26
