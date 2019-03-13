@@ -587,6 +587,8 @@ This is an ongoing research project that hasn't been published yet, but I have a
 
 Sources: [Social intelligence in the spotted hyena (Crocuta crocuta)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2346515/), [Brain size and social complexity: a computed tomography study in Hyaenidae.](https://www.ncbi.nlm.nih.gov/pubmed/21335942), [Brains, brawn and sociality: a hyaena’s tale](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4493912/), [Sex and the frontal cortex: A developmental CT study in the spotted hyena.](https://www.ncbi.nlm.nih.gov/pubmed/21088374)
 
+• [Problem Solving and Social Learning In Spotted Hyenas (Crocuta crocuta)](https://krex.k-state.edu/dspace/bitstream/handle/2097/18258/LindsayKubina2014.pdf?sequence=1) - Lindsay M. Kubina
+
 [Go to top.](#design-in-safaris) 
 
 --- 
