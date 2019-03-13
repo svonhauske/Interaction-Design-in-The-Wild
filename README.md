@@ -534,6 +534,8 @@ The length from head to tail is about 95 to 150 cm and the height is about 75 cm
 
 [National Geographic](https://www.nationalgeographic.com/animals/mammals/s/spotted-hyena/), [San Diego Zoo](https://animals.sandiegozoo.org/animals/spotted-hyena), [AWD](https://animaldiversity.org/accounts/Crocuta_crocuta/)
 
+**Hunting Behavior:**
+
 Hyenas do not kill their prey directly; the prey is captured and eaten while still alive. The victim dies from shock and loss of blood as it is torn apart and pulled down. They have different hunting techniques bases on the size and type of prey. They get up to 75 per cent of their food from their own kills.
 
 • **Big Prey:** When hyenas hunt an animal that is bigger than themselves, they hunt more like a dog or wolf, hunting fown the prey as a group. They take down the prey by biting into it and pulling it into the ground. 
@@ -552,6 +554,14 @@ Hyenas do not kill their prey directly; the prey is captured and eaten while sti
 ![90b3ca37c3b64d41361e34651e268d28](https://user-images.githubusercontent.com/43420227/54271368-bef96f00-4557-11e9-90fd-c1890c27733e.jpg)
 
 [SS](http://www.sheppardsoftware.com/content/animals/animals/mammals/hyena.htm), [AWD](https://www.africa-wildlife-detective.com/hyena.html)
+
+**Previous enrichment testing:**
+
+[Innovative Problem Solving by Wild Spotted Hyenas](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3427591/pdf/rspb20121450.pdf)
+- Sarah Benson-Amram and Kay E. Holekamp
+
+At the Department of Zoology of Michigan State University they wanted to test whether the Crocuta crocuta is an innovative animal, which is an animal able to solve new problems or find new solutions to existing problems.The study was conducted in their natural habitat in the Masai Mara National Reserve, Kenya. They built a steel puzzle box that was presented to the hyenas. It was big enough to allow for a hyena to put its head inside the box, and the spacing between the bars of the box was sufficient to allow hyenas to see and smell the meat inside. To be able to reach the meat, the hyena would have to slide a bolt latch laterally, and swing open the door; it could be opened using either the mouth or the forepaws.
+
 
 
 [Go to top.](#design-in-safaris) 
