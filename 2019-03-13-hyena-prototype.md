@@ -100,15 +100,15 @@ The spotted hyenas problem solving was tested  by presenting six spotted hyenas 
 
 • **Remove Bowl Puzzle:** Solved by all hyenas. 
 
-<img width="750" alt="RemoveBowl" src="https://user-images.githubusercontent.com/43420227/54287334-d8141700-457b-11e9-9eab-a3ab34bf1190.png">
+<img width="300" alt="RemoveBowl" src="https://user-images.githubusercontent.com/43420227/54287334-d8141700-457b-11e9-9eab-a3ab34bf1190.png">
 
 • **Puzzle Box:**
 
-<img width="750" alt="PuzzleBox" src="https://user-images.githubusercontent.com/43420227/54287108-72278f80-457b-11e9-982d-f04d0095f6b1.png">
+<img width="300" alt="PuzzleBox" src="https://user-images.githubusercontent.com/43420227/54287108-72278f80-457b-11e9-982d-f04d0095f6b1.png">
 
 • **Cable Puzzle:**
 
-<img width="750" alt="CablePuzzle" src="https://user-images.githubusercontent.com/43420227/54287112-72278f80-457b-11e9-8dad-7e30a3a8ceb4.png">
+<img width="300" alt="CablePuzzle" src="https://user-images.githubusercontent.com/43420227/54287112-72278f80-457b-11e9-8dad-7e30a3a8ceb4.png">
 
 • **Lazy Susan Puzzle:** Solved by all hyenas. 
 
@@ -116,11 +116,11 @@ The spotted hyenas problem solving was tested  by presenting six spotted hyenas 
 
 • **Remove Lid Puzzle:**
 
-<img width="750" alt="RemoveLidPuzzle" src="https://user-images.githubusercontent.com/43420227/54287110-72278f80-457b-11e9-89d6-5f83c1cb37f1.png">
+<img width="300" alt="RemoveLidPuzzle" src="https://user-images.githubusercontent.com/43420227/54287110-72278f80-457b-11e9-89d6-5f83c1cb37f1.png">
 
 • **Plunger Puzzle:** Solved by only one hyena.
 
-<img width="750" alt="PlungerPuzzle" src="https://user-images.githubusercontent.com/43420227/54287109-72278f80-457b-11e9-8bd7-bc081a0126d5.png">
+<img width="300" alt="PlungerPuzzle" src="https://user-images.githubusercontent.com/43420227/54287109-72278f80-457b-11e9-8bd7-bc081a0126d5.png">
 
 Overall the spotted hyenas were capable of solving the majority of the puzzle boxes. All of the spotted hyenas solved puzzles with a low level of difficulty where they simply had to pull the bowl out of the front of the box with their paw or mouth. Success was more variable when it came to medium difficulty puzzles where the solution involved a type of pulling motion either with the mouth or paws. They were generally unsuccessful at solving the high difficulty puzzle like the Plunger Puzzle that required the food to be pushed away from them to be accessed. 
 
