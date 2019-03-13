@@ -17,7 +17,7 @@
 
 1. [Boris & Horton Cafe](https://svonhauske.github.io/Design-in-Safaris-19/2019-03-04-pet-store-visit)
 
-1. [Group Enrichment Proposal](https://svonhauske.github.io/Design-in-Safaris-19/2019-03-07-group-enrichment-proposal)
+1. [Hyena Enrichment Proposal](https://svonhauske.github.io/Design-in-Safaris-19/2019-03-07-group-enrichment-proposal)
 
 1. Hyena Enrichment Prototype
 --- 
