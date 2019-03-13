@@ -596,17 +596,23 @@ abilities similar to primates, for example, being able to identify individuals w
 
 The spotted hyenas problem solving was tested  by presenting six spotted hyenas with a series of puzzle boxes. All of the  test subjects were similar in size and had been in a zoo for about 3 years. 
 
-• Puzzle Box: The boxes' sides had gaps between the boards that allowed the animals to see and smell the food reward, but not reach it. The front had a door that could be raised to allow a food dish to slide in and out through an opening. 
+• Puzzle Box:
+<img width="706" alt="PuzzleBox" src="https://user-images.githubusercontent.com/43420227/54287108-72278f80-457b-11e9-982d-f04d0095f6b1.png">
 
 • Remove Bowl Puzzle:
+<img width="749" alt="RemoveBowl" src="https://user-images.githubusercontent.com/43420227/54287107-72278f80-457b-11e9-8491-b6fd7f755a89.png">
 
 • Cable Puzzle:
+<img width="750" alt="CablePuzzle" src="https://user-images.githubusercontent.com/43420227/54287112-72278f80-457b-11e9-8dad-7e30a3a8ceb4.png">
 
 • Lazy Susan Puzzle:
+<img width="708" alt="LazySusanPuzzle" src="https://user-images.githubusercontent.com/43420227/54287111-72278f80-457b-11e9-9472-229f1c849139.png">
 
 • Remove Lid Puzzle:
+<img width="708" alt="RemoveLidPuzzle" src="https://user-images.githubusercontent.com/43420227/54287110-72278f80-457b-11e9-89d6-5f83c1cb37f1.png">
 
 • Plunger Puzzle:
+<img width="701" alt="PlungerPuzzle" src="https://user-images.githubusercontent.com/43420227/54287109-72278f80-457b-11e9-8bd7-bc081a0126d5.png">
 
 Sources: [Vocal recognition in the spotted hyaena and its possible implications regarding the evolution of intelligence](https://www.researchgate.net/publication/222923855_Vocal_recognition_in_the_spotted_hyaena_and_its_possible_implications_regarding_the_evolution_of_intelligence)
 
