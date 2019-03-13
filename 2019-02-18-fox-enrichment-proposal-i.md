@@ -5,8 +5,6 @@ date: 2019-02-18
 author: Sofia von Hauske Valtierra
 ---
 
-
-## Fox Enrichment Proposal I
 ## Vulpes vulpes: Hunting
 02/18/2019
 
