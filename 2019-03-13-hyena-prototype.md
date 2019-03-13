@@ -131,7 +131,14 @@ spotted hyaenas, Crocuta crocuta](http://animalcognitionlab.org/sites/default/fi
 
 ## Prototype
 
-Based on the previous findings, we wanted to design a device that would use a hyena's ability to bite down and pull, their cooperative behavior and their ability to problem solve. 
+Based on the previous findings, we wanted to design a device that would use a hyena's ability to bite down hard and pull, their cooperative behavior and their ability to problem solve. This prototype looks to create a food interaction but also a social interaction. 
+
+We designed a container that has a box on the inside where the hyena’s food is contained. The bottom of the container can be changed and each bottom can have a different number of holes, each one a different size, making it more or less challenging to get the food. The inner box is attached to ropes that hang from the sides of the container and they can slide left or right on every side of the container. These slits allow the ropes to move and pull the box around inside the container. There is a small door at the top, where food can be inserted by lining up the inner box with the container door. 
+
+The container could be hung, adding a little more difficulty to the hyenas by not being perfectly still as they pull, but it could also be placed on a platform that holds it slightly above the hyena's heads. Although this could be placed both in the wild and in a zoo environment, like some of the enrichment tests shown above, these tests have shown that captive animals engage with this type of enrichment more than wild animals do, so we believe it is more suitable for a zoo environment. 
+
+Hyenas have to pull the ropes on every side to move the box around and try to match the inside box with one of the bottom holes so that food starts coming out. The idea is that 2 or more hyenas cooperate by pulling from different ropes at the same time to get the food faster, but the same outcome can be achieved by a single hyena in case that there is only one found at the zoo, which is the case in some places.
+
 
 ![Hyena 130](https://user-images.githubusercontent.com/43420227/54309581-d3188d00-45a6-11e9-9144-242e69de578b.jpg)
 
