@@ -571,7 +571,9 @@ Juveniles showed greater exploration diversity, spent more time working on the p
 
 • [Hyena Project](http://lilyjohnsonulrich.weebly.com/my-research.html) - Lily Johnson-Ulrich
 
-Hyenas exhibit larger overall brains and proportionally larger frontal cortex than those seen in other extant hyenas or other carnivores. The size of their frontal cortex and the similarity between hyena and primate societies predict that hyenas should do comparably well on cognitive tasks.
+Lily Johnson-Ulrich starts her research with thinking that because neural tissue is costly, people have agreed that big brains must be adaptive. One of the most conventional explanations for the evolution of intelligence is the Social Brain Hypothesis, which argues that intelligence did not evolve primarily as a means to solve ecological problems, but rather as a means of surviving and reproducing in large and complex social groups. This hypothesis has been strongly supported by work on primates where higher degrees of social complexity are correlated with enhanced social cognition. The cognitive buffer hypothesis suggests that big brains enhance general behavioral flexibility and allow individuals to respond effectively to rapidly changing or novel environments. Johnson-Ulrich is testing out predictions of the SBH and CBH hypotheses by testing two cognitive abilities: innovation and inhibitory control, in spotted hyenas.
+
+Hyenas exhibit larger overall brains and proportionally larger frontal cortex than those seen in other extant hyenas or other carnivores. The size of their frontal cortex and the similarity between hyena and primate societies predict that hyenas should do comparably well on cognitive tasks. 
 
 <img width="432" alt="Screen Shot 2019-03-13 at 9 37 48 AM" src="https://user-images.githubusercontent.com/43420227/54283140-c7f83980-4573-11e9-8c1c-81f36a3ac13d.png">
 
