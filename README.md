@@ -541,13 +541,14 @@ The length from head to tail is about 95 to 150 cm and the height is about 75 cm
 Hyenas do not kill their prey directly; the prey is captured and eaten while still alive. The victim dies from shock and loss of blood as it is torn apart and pulled down. They have different hunting techniques bases on the size and type of prey. They get up to 75 per cent of their food from their own kills.
 
 • Big Prey: When hyenas hunt an animal that is bigger than themselves, they hunt more like a dog or wolf, hunting fown the prey as a group. They take down the prey by biting into it and dragging it into the ground. 
-[Hyenas Hunting Antelope](https://www.youtube.com/watch?v=mrYZlsNAie0)
+[Video: Hyenas Hunting Antelope](https://www.youtube.com/watch?v=mrYZlsNAie0)
 
 
 • Small Prey: When hunting weak or smaller prey, they hunt in a fox-like manner.
-[Hyenas Hunting Buffalo](https://www.youtube.com/watch?v=6xh2YpA1JzE)
+[Video: Hyenas Hunting Buffalo](https://www.youtube.com/watch?v=6xh2YpA1JzE)
 
 [SS](http://www.sheppardsoftware.com/content/animals/animals/mammals/hyena.htm)
+
 [AWD](https://www.africa-wildlife-detective.com/hyena.html)
 
 
