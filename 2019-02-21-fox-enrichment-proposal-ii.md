@@ -5,7 +5,6 @@ date: 2019-02-21
 author: Sofia von Hauske Valtierra
 ---
 
-## Fox Enrichment Proposal II
 ## Preybot
 02/21/2019
 
