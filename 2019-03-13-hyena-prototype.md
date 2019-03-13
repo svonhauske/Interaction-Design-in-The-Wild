@@ -65,6 +65,7 @@ Juveniles showed greater exploration diversity, spent more time working on the p
 ![beacon-hyenas](https://user-images.githubusercontent.com/43420227/54281757-d1cc6d80-4570-11e9-9241-101001782478.jpg)
 
 ![studyshowsan](https://user-images.githubusercontent.com/43420227/54281758-d1cc6d80-4570-11e9-8fe9-cddf55e483d8.jpg)
+
 ---
 **[Hyena Project](http://lilyjohnsonulrich.weebly.com/my-research.html) - Lily Johnson-Ulrich**
 
@@ -83,6 +84,7 @@ This is an ongoing research project that hasn't been published yet, but I have a
 ![img-1188_orig](https://user-images.githubusercontent.com/43420227/54284049-a435f300-4575-11e9-9436-5c4c1f1fc595.jpg)
 
 Sources: [Social intelligence in the spotted hyena (Crocuta crocuta)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2346515/), [Brain size and social complexity: a computed tomography study in Hyaenidae.](https://www.ncbi.nlm.nih.gov/pubmed/21335942), [Brains, brawn and sociality: a hyaena’s tale](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4493912/), [Sex and the frontal cortex: A developmental CT study in the spotted hyena.](https://www.ncbi.nlm.nih.gov/pubmed/21088374)
+
 ---
 **[Problem Solving and Social Learning In Spotted Hyenas (Crocuta crocuta)](https://krex.k-state.edu/dspace/bitstream/handle/2097/18258/LindsayKubina2014.pdf?sequence=1) - Lindsay M. Kubina**
 
