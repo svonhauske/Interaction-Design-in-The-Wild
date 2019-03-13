@@ -8,6 +8,15 @@ author: Sofia
 ## Crocuta crocuta
 03/13/2019
 
+1. [Introduction](#introduction)
+
+1. [Previous Enrichment Testing](Previous-enrichment-testing)
+
+1. [Prototype](#prototype)
+
+
+## Introduction
+
 The Crocuta crocuta, more commonly known as spotted hyena, is the largest of three hyena species (striped hyena, brown hyena, and aardwolf). They appear to be similar to dogs, but more closely related to cats. They live throughout much of Africa, Arabia to India. Females lead spotted hyenas, and they live together in clans that may have up to 100 hyenas. Scientists have recorded over 11 different vocalizations made by spotted hyenas, making them the most vocal mammals in Africa. 
 
 ![spotted-hyena-den ngsversion 1412643202452](https://user-images.githubusercontent.com/43420227/54270380-b2741700-4555-11e9-9394-1746f25c6e70.jpg)
@@ -43,7 +52,7 @@ Sources: [SS](http://www.sheppardsoftware.com/content/animals/animals/mammals/hy
 
 ---
 
-**Previous enrichment testing:**
+## Previous Enrichment Testing
 
 • [Innovative Problem Solving by Wild Spotted Hyenas](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3427591/pdf/rspb20121450.pdf) - Sarah Benson-Amram and Kay E. Holekamp
 
