@@ -10,7 +10,7 @@ author: Sofia
 
 1. [Introduction](#introduction)
 
-1. [Previous Enrichment Testing](Previous-enrichment-testing)
+1. [Previous Enrichment Testing](#previous-enrichment-testing)
 
 1. [Prototype](#prototype)
 
