@@ -524,13 +524,32 @@ Although this device is meant to create cooperation among hyena clans, based on 
 ## Crocuta crocuta
 03/13/2019
 
-The Crocuta crocuta, more commonly known as spotted hyena, are the largest of three hyena species (striped hyena, brown hyena, and aardwolf). They appear to be similar to dogs, but more closely related to cats. They live throughout much of Africa,Arabia to India. Spotted hyenas are led by females and they live together in clans that may have up to 100 hyenas. Scientists have recorded over 11 different vocalizations made by spotted hyenas, making them the most vocal mammals in Africa.
+The Crocuta crocuta, more commonly known as spotted hyena, are the largest of three hyena species (striped hyena, brown hyena, and aardwolf). They appear to be similar to dogs, but more closely related to cats. They live throughout much of Africa,Arabia to India. Spotted hyenas are led by females and they live together in clans that may have up to 100 hyenas. Scientists have recorded over 11 different vocalizations made by spotted hyenas, making them the most vocal mammals in Africa. 
 
 ![spotted-hyena-den ngsversion 1412643202452](https://user-images.githubusercontent.com/43420227/54270380-b2741700-4555-11e9-9394-1746f25c6e70.jpg)
 
 The length from head to tail is about 95 to 150 cm and the height is about 75 cm to 85cm. The tail is about 30 to 36 cm long and ends in a bushy black tip. Male weight ranges from 45 to 60 kg and females weigh 55 to over 70 kg.
 
 ![the_hyenas_size__fancat__by_bigfancat-dcawbi0](https://user-images.githubusercontent.com/43420227/54270394-b869f800-4555-11e9-872e-ee0ec04d72f3.jpg)
+
+[National Geographic](https://www.nationalgeographic.com/animals/mammals/s/spotted-hyena/)
+
+[San Diego Zoo](https://animals.sandiegozoo.org/animals/spotted-hyena)
+
+[AWD](https://animaldiversity.org/accounts/Crocuta_crocuta/)
+
+Hyenas do not kill their prey directly; the prey is captured and eaten while still alive. The victim dies from shock and loss of blood as it is torn apart and pulled down. They have different hunting techniques bases on the size and type of prey. They get up to 75 per cent of their food from their own kills.
+
+• Big Prey: When hyenas hunt an animal that is bigger than themselves, they hunt more like a dog or wolf, hunting fown the prey as a group. They take down the prey by biting into it and dragging it into the ground. 
+[Hyenas Hunting Antelope](https://www.youtube.com/watch?v=mrYZlsNAie0)
+
+
+• Small Prey: When hunting weak or smaller prey, they hunt in a fox-like manner.
+[Hyenas Hunting Buffalo](https://www.youtube.com/watch?v=6xh2YpA1JzE)
+
+[SS](http://www.sheppardsoftware.com/content/animals/animals/mammals/hyena.htm)
+[AWD](https://www.africa-wildlife-detective.com/hyena.html)
+
 
 
 
