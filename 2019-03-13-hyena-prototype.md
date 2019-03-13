@@ -128,4 +128,21 @@ spotted hyaenas, Crocuta crocuta](http://animalcognitionlab.org/sites/default/fi
 
 Based on the previous findings, we wanted to design a device that would use a hyena's ability to bite down and pull, their cooperative behavior and their ability to problem solve. 
 
+
+
+
+
+
+
+![Hyena 131](https://user-images.githubusercontent.com/43420227/54309580-d3188d00-45a6-11e9-97da-7e41015c99c8.jpg)
+
+![Hyena 130](https://user-images.githubusercontent.com/43420227/54309581-d3188d00-45a6-11e9-9144-242e69de578b.jpg)
+
+
+
+![Box_Medidas](https://user-images.githubusercontent.com/43420227/54309579-d3188d00-45a6-11e9-8492-962fff8b4dad.jpg)
+
+
+
+
 [Go to main page.](https://svonhauske.github.io/Design-in-Safaris-19/)
