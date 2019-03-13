@@ -577,6 +577,12 @@ Hyenas exhibit larger overall brains and proportionally larger frontal cortex th
 
 <img width="432" alt="Screen Shot 2019-03-13 at 9 37 48 AM" src="https://user-images.githubusercontent.com/43420227/54283140-c7f83980-4573-11e9-8c1c-81f36a3ac13d.png">
 
+![img-6348_1_orig](https://user-images.githubusercontent.com/43420227/54284038-9f713f00-4575-11e9-8ced-f0a5229c9048.jpg)
+ 
+![img-4242_orig](https://user-images.githubusercontent.com/43420227/54284046-a26c2f80-4575-11e9-9178-5ee33d2b0c6a.jpg)
+
+![img-1188_orig](https://user-images.githubusercontent.com/43420227/54284049-a435f300-4575-11e9-9436-5c4c1f1fc595.jpg)
+
 Sources: [Social intelligence in the spotted hyena (Crocuta crocuta)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2346515/), [Brain size and social complexity: a computed tomography study in Hyaenidae.](https://www.ncbi.nlm.nih.gov/pubmed/21335942), [Brains, brawn and sociality: a hyaena’s tale](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4493912/), [Sex and the frontal cortex: A developmental CT study in the spotted hyena.](https://www.ncbi.nlm.nih.gov/pubmed/21088374)
 
 [Go to top.](#design-in-safaris) 
