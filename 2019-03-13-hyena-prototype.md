@@ -18,6 +18,8 @@ The length from head to tail is about 95 to 150 cm and the height is about 75 cm
 
 Sources: [National Geographic](https://www.nationalgeographic.com/animals/mammals/s/spotted-hyena/), [San Diego Zoo](https://animals.sandiegozoo.org/animals/spotted-hyena), [AWD](https://animaldiversity.org/accounts/Crocuta_crocuta/)
 
+---
+
 **Hunting Behavior:**
 
 Hyenas do not kill their prey directly; the prey is captured and eaten while still alive. The victim dies from shock and loss of blood as it is torn apart and pulled down. They have different hunting techniques based on the size and type of prey. They get up to 75% of their food from their own kills. The spotted hyena tracks live prey by sight, hearing and smell.
@@ -38,6 +40,8 @@ Hyenas do not kill their prey directly; the prey is captured and eaten while sti
 ![90b3ca37c3b64d41361e34651e268d28](https://user-images.githubusercontent.com/43420227/54271368-bef96f00-4557-11e9-90fd-c1890c27733e.jpg)
 
 Sources: [SS](http://www.sheppardsoftware.com/content/animals/animals/mammals/hyena.htm), [AWD](https://www.africa-wildlife-detective.com/hyena.html)
+
+---
 
 **Previous enrichment testing:**
 
@@ -108,6 +112,8 @@ Overall the spotted hyenas were capable of solving the majority of the puzzle bo
 
 Sources: [Vocal recognition in the spotted hyaena and its possible implications regarding the evolution of intelligence](https://www.researchgate.net/publication/222923855_Vocal_recognition_in_the_spotted_hyaena_and_its_possible_implications_regarding_the_evolution_of_intelligence), [A comparison of innovative problem-solving abilities between wild and captive
 spotted hyaenas, Crocuta crocuta](http://animalcognitionlab.org/sites/default/files/bensonamrametal2012.pdf)
+
+---
 
 ## Prototype
 
