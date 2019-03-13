@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Designing for Humans"
+title: "Fox Enrichment Proposal II"
 date: 2019-02-21
 author: Sofia von Hauske Valtierra
 ---
