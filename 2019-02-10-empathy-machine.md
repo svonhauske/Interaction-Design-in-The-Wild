@@ -5,8 +5,6 @@ date: 2019-02-10
 author: Sofia von Hauske Valtierra
 ---
 
-02/10/2019
-
 ### First Attempt: Researching Animals
 
 First I started by researching animals; I started looking into interesting behaviors that they had, or exciting ways in which they sensed things. One of the things that I found really interesting and that I went a little more deeply into was Firefly communication. Fireflies have different flying and lighting patterns that lets them communicate with their species and attract females. I had a couple of ideas of physical and digital games that had to do with this, but I wasn't really convinced. Starting out with research was not really getting me to where I wanted.
