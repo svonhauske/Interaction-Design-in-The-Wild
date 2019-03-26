@@ -5,8 +5,6 @@ date: 2019-01-28
 author: Sofia von Hauske Valtierra
 ---
 
-01/28/2019
-
    Anthropomorphism is defined as the attribution of human characteristics or behavior to a god, animal, or object. As industrial designers, we often let anthropomorphism dictate the form of our products and the process we go through when designing them. We want people to buy our products and people like things that are familiar to them. We are taught to design with our user in mind, but it is rare that we ever have to design something that does not have a human attached to at least one side of a product. Although, it is beneficial to take into account how humans may interact with a product or system we must also look at designing through a wider lens by taking into account that not everything behaves like a human and not every user is human.  
   
    Industrial designers are taught to observe how humans interact with the environment around them and are encouraged to design objects that provide an optimal experience for them. Countless hours and money are spent during the research and development phase of a project to ensure that the end product will appeal to people and be comfortable for them to use. Anthropomorphism in industrial design helps the designer evoke feelings and emotions by giving the product something that mimics a smile or a frown; it makes the product more human and less object. Theoretically, this an ideal way of designing, but, how effective is it when we are not designing for humans?  
