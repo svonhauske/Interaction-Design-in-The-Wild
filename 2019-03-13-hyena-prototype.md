@@ -160,7 +160,7 @@ Hyenas have to pull the ropes on every side to move the box around and try to ma
 
 [Prototype Video](https://www.youtube.com/watch?v=QuZULJXrIWc)
 
-## Things to consider:
+## Things to Reassess:
 
 - Hanging or Standing: By having it hang it might be too difficult for the hyenas to pull because if the container doesn't slide properly inside the box, they could just be pulling the box instead of the container. The swinging of the box might also be dangerous because it could hit a hyena. A steel platform could be built so it holds the container above hte hyenas, but it sits perfectly still instead of swinging. 
 
