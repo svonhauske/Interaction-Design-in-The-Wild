@@ -135,7 +135,7 @@ Based on the previous findings, we wanted to design a device that would use a hy
 
 We designed a container that has a box on the inside where the hyena’s food is contained. The bottom of the container can be changed and each bottom can have a different number of holes, each one a different size, making it more or less challenging to get the food. The inner box is attached to ropes that hang from the sides of the container and they can slide left or right on every side of the container. These slits allow the ropes to move and pull the box around inside the container. There is a small door at the top, where food can be inserted by lining up the inner box with the container door. 
 
-The container could be hung, adding a little more difficulty to the hyenas by not being perfectly still as they pull, but it could also be placed on a platform that holds it slightly above the hyena's heads. Although this could be placed both in the wild and in a zoo environment, like some of the enrichment tests shown above, these tests have shown that captive animals engage with this type of enrichment more than wild animals do, so we believe it is more suitable for a zoo environment. 
+The container is hung slightly above the hyena's heads, adding a little more difficulty to the hyenas by not being perfectly still. Although this could be placed both in the wild and in a zoo environment, like some of the enrichment tests shown above, these tests have shown that captive animals engage with this type of enrichment more than wild animals do, so we believe it is more suitable for a zoo environment. 
 
 Hyenas have to pull the ropes on every side to move the box around and try to match the inside box with one of the bottom holes so that food starts coming out. The idea is that 2 or more hyenas cooperate by pulling from different ropes at the same time to get the food faster, but the same outcome can be achieved by a single hyena in case that there is only one found at the zoo, which is the case in some places.
 
@@ -157,5 +157,15 @@ Hyenas have to pull the ropes on every side to move the box around and try to ma
 [![](http://img.youtube.com/vi/QuZULJXrIWc/0.jpg)](http://www.youtube.com/watch?v=QuZULJXrIWc "HyenaPrototype")
 
 [Prototype Video](https://www.youtube.com/watch?v=QuZULJXrIWc)
+
+## Things to consider:
+
+- Hanging or Standing: By having it hang it might be too difficult for the hyenas to pull because if the container doesn't slide properly inside the box, they could just be pulling the box instead of the container. The swinging of the box might also be dangerous because it could hit a hyena. A steel platform could be built so it holds the container above hte hyenas, but it sits perfectly still instead of swinging. 
+
+- Materials: Since hyenas are so strong, it might be better to make the box and the container out of metal which would also help with the sliding because there would be no friction.
+
+- Tray cutouts: The different cutouts can change in size and location, changing the difficulty of the puzzle. 
+
+- Size: The size of the box and the container might need to change, depending on wether this is used for feeding or for treats. Hyenas are sometimes fed big animals which would require more room. 
 
 [Go to main page.](https://svonhauske.github.io/Design-in-Safaris-19/)
