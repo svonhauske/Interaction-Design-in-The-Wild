@@ -163,12 +163,12 @@ Hyenas have to pull the ropes on every side to move the box around and try to ma
 
 ## Things to Reassess
 
-- Hanging or Standing: By having it hang it might be too difficult for the hyenas to pull because if the container doesn't slide properly inside the box, they could just be pulling the box instead of the container. The swinging of the box might also be dangerous because it could hit a hyena. A steel platform could be built so it holds the container above hte hyenas, but it sits perfectly still instead of swinging. 
+- Hanging or Standing: By having it hang it might be too difficult for the hyenas to pull because if the container doesn't slide properly inside the box, they could just be pulling the box instead of the container. The swinging of the box might also be dangerous because it could hit a hyena. A steel platform could be built so it holds the container above the hyenas, but it sits perfectly still instead of swinging. 
 
-- Materials: Since hyenas are so strong, it might be better to make the box and the container out of metal which would also help with the sliding because there would be no friction.
+- Materials: Hyenas are so strong, that it might be better to make the box and the container out of metal which would also help with the sliding because there would be no friction.
 
 - Tray cutouts: The different cutouts can change in size and location, changing the difficulty of the puzzle. 
 
-- Size: The size of the box and the container might need to change, depending on wether this is used for feeding or for treats. Hyenas are sometimes fed big animals which would require more room. 
+- Size: The size of the box and the container might need to change, depending on whether this is used for feeding or treats. Hyenas are sometimes fed big animals which would require more room. 
 
 [Go to main page.](https://svonhauske.github.io/Design-in-Safaris-19/)
