@@ -6,7 +6,6 @@ author: Sofia von Hauske Valtierra
 ---
 
 ## Spotted Hyena
-03/07/2019
 
 ### Brainstorming
 
