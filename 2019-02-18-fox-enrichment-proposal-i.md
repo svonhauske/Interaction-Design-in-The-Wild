@@ -6,7 +6,6 @@ author: Sofia von Hauske Valtierra
 ---
 
 ## Vulpes vulpes: Hunting
-02/18/2019
 
 ![red-fox](https://user-images.githubusercontent.com/43420227/52987581-b20ab500-33c9-11e9-87a6-63c6d9e4936c.png)
 
