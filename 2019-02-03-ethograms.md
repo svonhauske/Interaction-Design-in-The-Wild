@@ -5,8 +5,6 @@ date: 2019-02-03
 author: Sofia von Hauske Valtierra
 ---
 
-02/03/2019
-
    My first go at ethograms was challenging. A lot of my time was spent watching different types of felines sleep; I hadn't realized that they slept so much, even during the day. Using live cams also made it difficult, because sometimes animals would walk out of range or the camera would focus on another animal, interrupting the observations I was writing down. I discovered that it is a lot easier when the live cam is recording few individuals, so for my ethograms, I chose two live feeds from the San Diego Zoo; Polar Bears and Elephants. 
 
    I used pen and paper for both my ethograms, as I was not able to get the Zoo Monitor App working. Luckily I had recorded the videos I was going to use because I tried doing a continuous sampling and it would have been impossible if I was doing it out on the field. It is tough to put down the behavior, the description, and the duration all at the same time. If I had not been able to pause the video, I would have missed many important behaviors and details. The pen and paper method was convenient because I was using my laptop to watch the animals, and this way, that was the only thing I needed to have on my screen. For my next try, I would like to go out to the field and do an all occurrences sampling. I am hoping that I can move around enough so that I am always able to see the animal and I think this type of sampling is simpler and more effective for this situation. 
