@@ -140,6 +140,8 @@ The container is hung slightly above the hyena's heads, adding a little more dif
 Hyenas have to pull the ropes on every side to move the box around and try to match the inside box with one of the bottom holes so that food starts coming out. The idea is that 2 or more hyenas cooperate by pulling from different ropes at the same time to get the food faster, but the same outcome can be achieved by a single hyena in case that there is only one found at the zoo, which is the case in some places.
 
 
+![Hyena 133](https://user-images.githubusercontent.com/43420227/54963646-d8c78880-4f3f-11e9-9a6e-f51af349ecbb.jpg)
+
 ![Hyena 130](https://user-images.githubusercontent.com/43420227/54309581-d3188d00-45a6-11e9-9144-242e69de578b.jpg)
 
 ![Hyena 131](https://user-images.githubusercontent.com/43420227/54309580-d3188d00-45a6-11e9-97da-7e41015c99c8.jpg)
