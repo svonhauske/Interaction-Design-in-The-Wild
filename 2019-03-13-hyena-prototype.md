@@ -6,7 +6,6 @@ author: Sofia von Hauske Valtierra
 ---
 
 ## Crocuta crocuta
-03/13/2019
 
 1. [Introduction](#introduction)
 
