@@ -61,3 +61,9 @@ Things that need to change:
 [!["screen shot 2019-02-12 at 9 55 46 am" src="https://user-images.githubusercontent.com/43420227/52644314-94f75300-2eac-11e9-87b3-b52ed9e94ac9.png"](http://img.youtube.com/vi/BB0bYADjauI/0.jpg)](http://www.youtube.com/watch?v=BB0bYADjauI "Empathy Machine")
 
 ## Idea III:
+
+For my third idea, I want to design a machine that is inspired by the way in which foxes hunt insects. Insects have weak escape behaviors, and they only provide the fox with a small amount of food. When insects hop or fly away, foxes use their muzzle to poke around, or they do something called foot stamping. The foot stomping causes insects to move, and then the fox is able to locate them by the sound of rustling or movement. 
+
+The idea I have in mind is a movable device that can be placed anywhere in the zoo, hidden amongst plants or grass. It will play a low-frequency sound, the same sound an insect would make, to try to attract the foxes. If the fox stamps close enough to the device, it will shoot a treat up, like a scared butterfly that is trying to escape. 
+
+The idea with this device is to have foxes use their hearing to locate the machine and then have them try to hunt it as an insect so they can receive a small treat. The fact that is movable add variability because it won't be fixed in the same place every time, so the fox will not memorize where it is. 
