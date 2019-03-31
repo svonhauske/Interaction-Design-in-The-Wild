@@ -36,6 +36,8 @@ My second idea is to further develop my empathy machine concept. This machine wa
 
 I decided to focus on an animal characteristic that is actually an advantage that they have over humans, but in this human-centered world, it has become a disadvantage. It is also something we often overlook or take for granted when we are thinking about hearing; the pinnae. What is Pinnae? Pinnae are the external parts of the ears in humans and other mammals. 
 
+![animals](https://user-images.githubusercontent.com/43420227/52544539-66c82500-2d7f-11e9-8a3a-cbe71294bc40.jpg)
+
 Some animals can swivel or rotate their pinnae in order to pinpoint where sounds are coming from. For predators, it is helpful while hunting, to find their prey, and for the animals being hunted, it helps them avoid predators.  
 
 Things that need to change:
@@ -49,8 +51,6 @@ Things that need to change:
 - Make the pinnae bigger or include an apmlifier so the difference in sound can be heard. 
 
 - Add noise pollution either in the room or inside the headset.
-
-![animals](https://user-images.githubusercontent.com/43420227/52544539-66c82500-2d7f-11e9-8a3a-cbe71294bc40.jpg)
 
 ![ear1](https://user-images.githubusercontent.com/43420227/52611345-381b7e80-2e53-11e9-9f50-0bd5ce787e3e.JPG)
 
