@@ -69,3 +69,6 @@ The idea I have in mind is a movable device that can be placed anywhere in the z
 The idea with this device is to have foxes use their hearing to locate the machine and then have them try to hunt it as an insect so they can receive a small treat. The fact that is movable add variability because it won't be fixed in the same place every time, so the fox will not memorize where it is. 
 
 This will require a speaker to be able to play the low frequency sound. Since zoos are noisy, a proximity sensor makes more sense thand a sound sensor to be able to detect how close the stamping occurs to the machine. Lastly, a small servo motor can be used to catapult the treat up. There has to be a container than can keep several treats inside, so it doesn't require reloading everytime it is used. 
+
+![Idea3](https://user-images.githubusercontent.com/43420227/55293858-fe81e100-53c8-11e9-9a48-7ead562cd174.jpg)
+
