@@ -30,3 +30,14 @@ To take this from prototype to final, there are several things that need to chan
 
 ## Idea II: Empathy Machine
 
+My second idea is to further develop my empathy machine concept. 
+
+![animals](https://user-images.githubusercontent.com/43420227/52544539-66c82500-2d7f-11e9-8a3a-cbe71294bc40.jpg)
+
+![ear1](https://user-images.githubusercontent.com/43420227/52611345-381b7e80-2e53-11e9-9f50-0bd5ce787e3e.JPG)
+
+![ear2](https://user-images.githubusercontent.com/43420227/52611346-381b7e80-2e53-11e9-8069-de30ddbe957f.JPG)
+
+[Empathy Machine Video](https://vimeo.com/316803913)
+ 
+[!["screen shot 2019-02-12 at 9 55 46 am" src="https://user-images.githubusercontent.com/43420227/52644314-94f75300-2eac-11e9-87b3-b52ed9e94ac9.png"](http://img.youtube.com/vi/BB0bYADjauI/0.jpg)](http://www.youtube.com/watch?v=BB0bYADjauI "Empathy Machine")
