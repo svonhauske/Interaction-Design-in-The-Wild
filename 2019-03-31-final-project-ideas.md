@@ -67,3 +67,5 @@ For my third idea, I want to design a machine that is inspired by the way in whi
 The idea I have in mind is a movable device that can be placed anywhere in the zoo, hidden amongst plants or grass. It will play a low-frequency sound, the same sound an insect would make, to try to attract the foxes. If the fox stamps close enough to the device, it will shoot a treat up, like a scared butterfly that is trying to escape. 
 
 The idea with this device is to have foxes use their hearing to locate the machine and then have them try to hunt it as an insect so they can receive a small treat. The fact that is movable add variability because it won't be fixed in the same place every time, so the fox will not memorize where it is. 
+
+This will require a speaker to be able to play the low frequency sound. Since zoos are noisy, a proximity sensor makes more sense thand a sound sensor to be able to detect how close the stamping occurs to the machine. Lastly, a small servo motor can be used to catapult the treat up. There has to be a container than can keep several treats inside, so it doesn't require reloading everytime it is used. 
