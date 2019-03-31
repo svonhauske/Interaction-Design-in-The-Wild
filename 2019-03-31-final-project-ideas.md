@@ -30,7 +30,10 @@ To take this from prototype to final, there are several things that need to chan
 
 ## Idea II: Empathy Machine
 
-My second idea is to further develop my empathy machine concept. 
+My second idea is to further develop my empathy machine concept. This machine was about creating empathy for animals that are affected by noise pollution. What is noise pollution? Noise is an unwanted or inappropriate sound. Noise pollution is noise that interferes with normal activities and disrupts or diminishes our quality of life.  We do not realize the impact that man-made noise has on nature, but it is pretty big.  
+
+(https://user-images.githubusercontent.com/43420227/52544882-9f68fe00-2d81-11e9-8205-5e219b9a1b24.jpg)
+
 
 ![animals](https://user-images.githubusercontent.com/43420227/52544539-66c82500-2d7f-11e9-8a3a-cbe71294bc40.jpg)
 
