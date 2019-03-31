@@ -5,9 +5,9 @@ date: 2019-03-31
 author: Sofia von Hauske Valtierra
 ---
 
-# Idea 1: Preybot
+## Idea I: Preybot
 
-For my first idea, I want to revisit my preybot project. The preybot was one of two feeding enrichment ideas that were inspired by how foxes hunt and the type of prey they hunt. The preybot prototype is a machine that lowers food to the ground for foxes to be attracted to it,  but it rapidly pulls it up if a motion sensor is able to sense the fox as it approaches the food. This happens like that because it is trying to mimic the fleeing upward behavior of a fox's arboreal prey. These type of prey consists of birds and tree squirrels, which have high visual acuity.  This is why the fox has to approach them very stealthily or they fly or run up where the fox can't reach them. When hunting this type of prey, foxes stalk their prey in a deeply crouched posture and then try to catch the animal in a dashing run.
+My first idea is to further develop the preybot prototype. The preybot was one of two feeding enrichment ideas that were inspired by how foxes hunt and the type of prey they hunt. The preybot prototype is a machine that lowers food to the ground for foxes to be attracted to it,  but it rapidly pulls it up if a motion sensor is able to sense the fox as it approaches the food. This happens like that because it is trying to mimic the fleeing upward behavior of a fox's arboreal prey. These type of prey consists of birds and tree squirrels, which have high visual acuity.  This is why the fox has to approach them very stealthily or they fly or run up where the fox can't reach them. When hunting this type of prey, foxes stalk their prey in a deeply crouched posture and then try to catch the animal in a dashing run.
 
 To take this from prototype to final, there are several things that need to change:
 
@@ -27,3 +27,6 @@ To take this from prototype to final, there are several things that need to chan
 [![](http://img.youtube.com/vi/WYKcjypKHa4/0.jpg)](http://www.youtube.com/watch?v=WYKcjypKHa4 "Bodystorming")
 
 [Bodystorming Video](https://vimeo.com/319504079)
+
+## Idea II: Empathy Machine
+
