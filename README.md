@@ -21,7 +21,9 @@
 
 1. [Hyena Enrichment Prototype](https://svonhauske.github.io/Design-in-Safaris-19/2019-03-13-hyena-prototype)
 
-1. [Final Propoals ](https://svonhauske.github.io/Design-in-Safaris-19/2019-03-31-final-project-ideas)
+1. [Final Propoals](https://svonhauske.github.io/Design-in-Safaris-19/2019-03-31-final-project-ideas)
+
+
 --- 
 
 
