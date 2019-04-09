@@ -47,3 +47,4 @@ Next Steps:
 - Connect arduino to phone through bluetooth.
 - Test out speaker insted of buzzer. 
 - Build external container. 
+- Add more sensors so it can detect movement all around it. 
