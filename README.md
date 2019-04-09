@@ -23,6 +23,8 @@
 
 1. [Final Propoals](https://svonhauske.github.io/Design-in-Safaris-19/2019-03-31-final-project-ideas)
 
+1. [Final Project: Week I](https://svonhauske.github.io/Design-in-Safaris-19/2019-04-08-final-project-week-i)
+
 
 --- 
 
