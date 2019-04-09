@@ -12,6 +12,13 @@ I started out by choosing my 1st proposal; the preybot that imitated a flying bi
 
 This is how it turned out:
 
+![IMG_3559](https://user-images.githubusercontent.com/43420227/55801329-d3238400-5aa3-11e9-8bf5-df4dddc22532.jpeg)
+
+![IMG_7099](https://user-images.githubusercontent.com/43420227/55801330-d3238400-5aa3-11e9-819a-4e87df1e3d2b.jpeg)
+
 
 After this, I wanted to tackle my second most significant challenge; finding a strong enough motor. I did some research, found a couple of different options, but with each one, new problem arrised. Due to time constraints and the fact that I do not have that much experience with motors, I decided to move on from my 1st proposal, and start working on my 3rd proposal. 
+
+### 3rd Proposal:
+
 
