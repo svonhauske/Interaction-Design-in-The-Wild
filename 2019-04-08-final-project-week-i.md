@@ -21,4 +21,5 @@ After this, I wanted to tackle my second most significant challenge; finding a s
 
 ### 3rd Proposal:
 
-My third proposal is inspired by the way in which foxes hunt insects. Foxes are able to detect very low frequencies, which is how they are able to detect insects. When the insect is hiding, foxes will 
+My third proposal is inspired by the way in which foxes hunt insects. Foxes are able to detect very low frequencies, which is how they are able to detect insects. When the insect is hiding, foxes will use their muzzle to poke around, or they do something called foot stamping. The foot stomping causes insects to try to flee, and then the fox is able to locate them  better by the sound of rustling or movement. This is the behavior that I want to generate with my prototype. 
+
