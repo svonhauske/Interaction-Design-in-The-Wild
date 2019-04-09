@@ -21,4 +21,4 @@ After this, I wanted to tackle my second most significant challenge; finding a s
 
 ### 3rd Proposal:
 
-
+My third proposal is inspired by the way in which foxes hunt insects. Foxes are able to detect very low frequencies, which is how they are able to detect insects. When the insect is hiding, foxes will 
