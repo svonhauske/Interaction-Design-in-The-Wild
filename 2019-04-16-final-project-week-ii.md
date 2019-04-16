@@ -38,14 +38,22 @@ author: Sofia von Hauske Valtierra
 ![d8az219-bb7d2299-d103-4b49-aa19-fd015ff51fd5](https://user-images.githubusercontent.com/43420227/56207225-379e9000-601c-11e9-8f9f-454b1ce8c92a.jpg)
 
 
-### Resources
+<img width="600" alt="Screen Shot 2019-04-16 at 7 52 28 AM" src="https://user-images.githubusercontent.com/43420227/56207420-aa0f7000-601c-11e9-93fa-3326d7956873.png">
 
-![51YBMrpOGgL _SX380_BO1,204,203,200_](https://user-images.githubusercontent.com/43420227/56206617-cdd1b680-601a-11e9-8b85-1e1d48db11da.jpg)
+![maxresdefault](https://user-images.githubusercontent.com/43420227/56207644-40dc2c80-601d-11e9-9129-831f8d2c8823.jpg)
+
+
+### Resources
 
 - Macdonald, David W. Running with the Fox. Unwin Hyman, 1989.
 
-![511pFArnI2L _SX258_BO1,204,203,200_](https://user-images.githubusercontent.com/43420227/56206618-cdd1b680-601a-11e9-87fe-77f88b9aa7d2.jpg)
+<img width="300" alt="51YBMrpOGgL _SX380_BO1,204,203,200_" src="https://user-images.githubusercontent.com/43420227/56206617-cdd1b680-601a-11e9-8b85-1e1d48db11da.jpg">
+
 - Henry, J. David. How to Spot a Fox. Chapters Pub., 1993.
 
-![A1fjz-4PdDL](https://user-images.githubusercontent.com/43420227/56206619-cdd1b680-601a-11e9-9537-7206f0eb8451.jpg)
+<img width="300" alt="511pFArnI2L _SX258_BO1,204,203,200_" src="https://user-images.githubusercontent.com/43420227/56206618-cdd1b680-601a-11e9-87fe-77f88b9aa7d2.jpg">
+
 - Henry, J. David. Red Fox: the Catlike Canine. Smithsonian Institution Press, 1996.
+
+<img width="300" alt="A1fjz-4PdDL" src="https://user-images.githubusercontent.com/43420227/56206619-cdd1b680-601a-11e9-9537-7206f0eb8451.jpg">
+
