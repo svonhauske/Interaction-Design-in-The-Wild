@@ -24,6 +24,10 @@ The techniques that foxes use to hunts these types of prey is also different, ea
 
 Hunting Insects: Hunting insects is something that foxes do more casually. Insects have weak escape behaviors, and they only provide the fox with a small amount of food. Usually, foxes are doing something else, and they hear an insect, and they simply walk over and bite down. When insects hop or fly away, they use their muzzle to poke around, or they do something called foot stamping. The foot stomping causes insects to move, and then the fox is able to locate them by the sound of rustling or movement.
 
+![ecddf7a133be423a89184f4675fe8a58](https://user-images.githubusercontent.com/43420227/56225160-d805ac00-603e-11e9-84b1-64c53317bc6c.jpg)
+
+![4631D4C1-D0F3-4C3A-8E17-236829AE1DD5-31237-000010F1B4AB17B5](https://user-images.githubusercontent.com/43420227/56225170-db009c80-603e-11e9-9d96-3167c9355f91.GIF)
+
 ### Renderings
 
 ![Final 151](https://user-images.githubusercontent.com/43420227/56206625-cdd1b680-601a-11e9-86d4-02cb9f2d73b8.jpg)
