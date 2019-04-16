@@ -26,7 +26,12 @@ The techniques that foxes use to hunts these types of prey is also different, ea
 
 Hunting Insects: Hunting insects is something that foxes do more casually. Insects have weak escape behaviors, and they only provide the fox with a small amount of food. Usually, foxes are doing something else, and they hear an insect, and they simply walk over and bite down. When insects hop or fly away, they use their muzzle to poke around, or they do something called foot stamping. The foot stomping causes insects to move, and then the fox is able to locate them by the sound of rustling or movement.
 
-Foxes are the smallest members of the dog family, but the largest species of Red fox may reach an adult weight of 3 – 11 kilograms. The average head and body length is 46 to 86 centimetres, with a tail length of 30.5 to 55 centimetres.
+Foxes are the smallest members of the dog family, but the largest species of Red Fox.
+
+- Weight: 3 to 11 Kg
+- Height: 10 to 51 cm
+- Body Length: 46 to 86 cm
+- Tail Length: 30.5 to 55 cm
 
 ![4631D4C1-D0F3-4C3A-8E17-236829AE1DD5-31237-000010F1B4AB17B5](https://user-images.githubusercontent.com/43420227/56225170-db009c80-603e-11e9-9d96-3167c9355f91.GIF)
 
