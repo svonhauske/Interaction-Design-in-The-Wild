@@ -18,7 +18,7 @@ Types of prey:
 
 - Small Burrowing Animals: They flee down a burrow or dash under objects like rocks or fallen trees.
 
-- Arboreal Prey: Birds and tree squirrels. T
+- Arboreal Prey: Birds and tree squirrels.
 
 The techniques that foxes use to hunts these types of prey is also different, each one unique to the circumstances.
 
