@@ -29,11 +29,18 @@ author: Sofia von Hauske Valtierra
 
 ### Other Enrichment
 
+- Puzzle feeders
+- Hanging toys
+- Squeaky toys
+
 ![ca0f799f9aeef02d9897a996d78dc6be2](https://user-images.githubusercontent.com/43420227/56207224-379e9000-601c-11e9-98f3-88c1dd27df8f.jpg)
 
 ![d8az219-bb7d2299-d103-4b49-aa19-fd015ff51fd5](https://user-images.githubusercontent.com/43420227/56207225-379e9000-601c-11e9-8f9f-454b1ce8c92a.jpg)
 
 ![maxresdefault](https://user-images.githubusercontent.com/43420227/56207226-379e9000-601c-11e9-9f43-9fd0d81fbc81.jpg)
+
+<img width="410" alt="Screen Shot 2019-04-16 at 7 52 28 AM" src="https://user-images.githubusercontent.com/43420227/56207420-aa0f7000-601c-11e9-93fa-3326d7956873.png">
+
 
 ### Resources
 
