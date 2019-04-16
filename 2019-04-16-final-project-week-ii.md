@@ -27,7 +27,9 @@ author: Sofia von Hauske Valtierra
 
 ![Catapulta2](https://user-images.githubusercontent.com/43420227/56206622-cdd1b680-601a-11e9-9b81-50d35ce1d7ec.jpg)
 
-### Resources:
+### Other Enrichment
+
+### Resources
 
 ![51YBMrpOGgL _SX380_BO1,204,203,200_](https://user-images.githubusercontent.com/43420227/56206617-cdd1b680-601a-11e9-8b85-1e1d48db11da.jpg)
 
