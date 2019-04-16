@@ -26,6 +26,8 @@ Hunting Insects: Hunting insects is something that foxes do more casually. Insec
 
 ![ecddf7a133be423a89184f4675fe8a58](https://user-images.githubusercontent.com/43420227/56225160-d805ac00-603e-11e9-84b1-64c53317bc6c.jpg)
 
+Foxes are the smallest members of the dog family, but the largest species of Red fox may reach an adult weight of 3 – 11 kilograms. The average head and body length is 46 to 86 centimetres, with a tail length of 30.5 to 55 centimetres.
+
 ![4631D4C1-D0F3-4C3A-8E17-236829AE1DD5-31237-000010F1B4AB17B5](https://user-images.githubusercontent.com/43420227/56225170-db009c80-603e-11e9-9d96-3167c9355f91.GIF)
 
 ### Renderings
