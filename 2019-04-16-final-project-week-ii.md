@@ -5,6 +5,25 @@ date: 2019-04-16
 author: Sofia von Hauske Valtierra
 ---
 
+### Research
+Vulpes vulpes, more commonly known as Red Foxes, are members of the Canidae family. They eat a variety of food, sometimes changing their diet from season to season. They are considered opportunistic feeders who will feed based on availability. Their diets usually include small rodents, rabbits, hare, insects, wild fruits and berries. Foxes are great at scavenging, hunting and caching. They carefully hide food for future us by burying it underground and disguising the spot with leaves and twigs. They will sometimes relocate their provisions.
+
+Red Foxes are predators of small pray, these animals are high-strung and have quick reactions, which means that foxes have to stalk their prey quietly to be able to catch them. A fox's hearing is very sensitive to lower noises, frequencies that correspond to rustling and gnawing sounds of small animals. They are capable of locating sounds within inches of their exact location.
+
+Types of prey:
+
+- Insects: Crickets, grasshoppers, and beetles. 
+
+- Lagomorphs: Rabbits and hares.
+
+- Small Burrowing Animals: They flee down a burrow or dash under objects like rocks or fallen trees.
+
+- Arboreal Prey: Birds and tree squirrels. T
+
+The techniques that foxes use to hunts these types of prey is also different, each one unique to the circumstances.
+
+Hunting Insects: Hunting insects is something that foxes do more casually. Insects have weak escape behaviors, and they only provide the fox with a small amount of food. Usually, foxes are doing something else, and they hear an insect, and they simply walk over and bite down. When insects hop or fly away, they use their muzzle to poke around, or they do something called foot stamping. The foot stomping causes insects to move, and then the fox is able to locate them by the sound of rustling or movement.
+
 ### Renderings
 
 ![Final 151](https://user-images.githubusercontent.com/43420227/56206625-cdd1b680-601a-11e9-86d4-02cb9f2d73b8.jpg)
