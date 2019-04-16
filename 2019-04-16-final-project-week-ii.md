@@ -29,6 +29,12 @@ author: Sofia von Hauske Valtierra
 
 ### Other Enrichment
 
+![ca0f799f9aeef02d9897a996d78dc6be2](https://user-images.githubusercontent.com/43420227/56207224-379e9000-601c-11e9-98f3-88c1dd27df8f.jpg)
+
+![d8az219-bb7d2299-d103-4b49-aa19-fd015ff51fd5](https://user-images.githubusercontent.com/43420227/56207225-379e9000-601c-11e9-8f9f-454b1ce8c92a.jpg)
+
+![maxresdefault](https://user-images.githubusercontent.com/43420227/56207226-379e9000-601c-11e9-9f43-9fd0d81fbc81.jpg)
+
 ### Resources
 
 ![51YBMrpOGgL _SX380_BO1,204,203,200_](https://user-images.githubusercontent.com/43420227/56206617-cdd1b680-601a-11e9-8b85-1e1d48db11da.jpg)
