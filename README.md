@@ -34,6 +34,8 @@ This class focuses on fundamentals of interaction by changing the traditional us
 
 1. [Final Project: Week I](https://svonhauske.github.io/Design-in-Safaris-19/2019-04-08-final-project-week-i)
 
+1. [Final Project: Week II](https://svonhauske.github.io/Design-in-Safaris-19/2019-04-16-final-project-week-ii)
+
 
 --- 
 
