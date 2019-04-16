@@ -30,6 +30,12 @@ Foxes are the smallest members of the dog family, but the largest species of Red
 
 ![4631D4C1-D0F3-4C3A-8E17-236829AE1DD5-31237-000010F1B4AB17B5](https://user-images.githubusercontent.com/43420227/56225170-db009c80-603e-11e9-9d96-3167c9355f91.GIF)
 
+### Final Idea
+
+The idea I have in mind is a movable device that can be placed anywhere in the zoo, hidden amongst plants or grass. It will play a low-frequency sound, the same sound an insect would make, to try to attract the foxes. If the fox stamps close enough to the device, it will shoot a treat up, like a scared butterfly that is trying to escape.
+
+The idea with this device is to have foxes use their hearing to locate the machine and then have them try to hunt it as an insect so they can receive a small treat. The fact that is movable add variability because it won't be fixed in the same place every time, so the fox will not memorize where it is.
+
 ### Renderings
 
 ![Final 151](https://user-images.githubusercontent.com/43420227/56206625-cdd1b680-601a-11e9-86d4-02cb9f2d73b8.jpg)
