@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Final Project: Week II"
+title: "Final Project: Week III"
 date: 2019-04-16
 author: Sofia von Hauske Valtierra
 ---
@@ -62,7 +62,7 @@ As I was testing out my electronic components, I discovered that having one PIR 
 
 My interaction flow stayed the same. 
 
-![Catapulta2](https://user-images.githubusercontent.com/43420227/56206622-cdd1b680-601a-11e9-9b81-50d35ce1d7ec.jpg)
+![Catapulta3](https://user-images.githubusercontent.com/43420227/56630813-a2555a00-6620-11e9-9d35-c6f8eeca6ced.jpg)
 
 **Zookeper:** Activates the low-frequency sound through bluetooth.
 
