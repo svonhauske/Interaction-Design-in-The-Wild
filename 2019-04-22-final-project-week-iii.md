@@ -15,6 +15,8 @@ I initially thought about making this out of wood, plywood specifically. Plywood
 
 The mechanism had to change completely for me to be able to shrink the whole thing. I decided to use a servo actuator that gives linear motion through rack and pinion movement.
 
+![b4a17783f01681ccc25858dcd89c555b_preview_featured](https://user-images.githubusercontent.com/43420227/56629985-94eaa080-661d-11e9-97a5-badc6de64a81.jpg)
+
 These are the dimensions I started out with:
 
 ![Catapulta](https://user-images.githubusercontent.com/43420227/56206621-cdd1b680-601a-11e9-904a-80c2d79b86b4.jpg)
