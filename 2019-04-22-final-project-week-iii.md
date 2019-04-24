@@ -7,11 +7,13 @@ author: Sofia von Hauske Valtierra
 
 ## Changes from last week
 
+![Final 152](https://user-images.githubusercontent.com/43420227/56206626-cdd1b680-601a-11e9-9b09-c81e54bd5bdc.jpg)
+
 I initially thought about making this out of wood, plywood specifically. Plywood is durable and has cross-graining, which reduces the tendency of wood to split, it reduces expansion and shrinkage, and it makes the strength of the panel consistent across all directions. Instead of wood, since this will be out in the open, I decided to go with plastic for the actual prototype, because it will make it more durable when subjected to bad weather.
 
 ![Final 151](https://user-images.githubusercontent.com/43420227/56206625-cdd1b680-601a-11e9-86d4-02cb9f2d73b8.jpg)
 
-They whole device was a lot bigger than I wanted, mostly becuase of the dispensing mechanism I had come up with: 
+They whole device was a lot bigger than I wanted, mostly becuase of the dispensing mechanism I came up with: 
 
 ![Final 153](https://user-images.githubusercontent.com/43420227/56206627-cdd1b680-601a-11e9-8589-e2a2f4780562.jpg)
 
@@ -22,10 +24,6 @@ The mechanism had to change completely for me to be able to shrink the whole thi
 These are the dimensions I started out with:
 
 ![Catapulta](https://user-images.githubusercontent.com/43420227/56206621-cdd1b680-601a-11e9-904a-80c2d79b86b4.jpg)
-
-They whole device was a lot bigger than I wanted, mostly becuase of the dispensing mechanism I had come up with: 
-
-![Final 152](https://user-images.githubusercontent.com/43420227/56206626-cdd1b680-601a-11e9-9b09-c81e54bd5bdc.jpg)
 
 This first ideation required:
 
@@ -41,6 +39,8 @@ As I was testing out my electronic components, I discovered that having one PIR 
 ## This week
 
 ### Dimensions
+
+### Renderings
 
 ### Prototype Pictures
 
@@ -70,7 +70,15 @@ My interaction flow stayed the same.
 
 ### Video
 
+[![](http://img.youtube.com/vi/k6kEeGP1h3k/0.jpg)](http://www.youtube.com/watch?v=k6kEeGP1h3k "Enrichment")
+
 ### Next Steps
+
+- I made a small measurement mistake while making the dispensing system, that needs to be redone so it works smoothly. 
+
+- The motion sensor needs to be tuned, because it is very sensitive.
+
+- The catapult arm needs to become longer so it launches it better, it is too short right now. 
 
 
 
