@@ -9,9 +9,11 @@ author: Sofia von Hauske Valtierra
 
 ![Final 151](https://user-images.githubusercontent.com/43420227/56206625-cdd1b680-601a-11e9-86d4-02cb9f2d73b8.jpg)
 
+I initially thought about making this out of wood, plywood specifically. Plywood is durable and has cross-graining, which reduces the tendency of wood to split, it reduces expansion and shrinkage, and it makes the strength of the panel consistent across all directions. Instead of wood, since this will be out in the open, I decided to go with plastic for the actual prototype, because it will make it more durable when subjected to bad weather.
+
 ![Final 153](https://user-images.githubusercontent.com/43420227/56206627-cdd1b680-601a-11e9-8589-e2a2f4780562.jpg)
 
-I initially thought about making this out of wood, plywood specifically. Plywood is durable and has cross-graining, which reduces the tendency of wood to split, it reduces expansion and shrinkage, and it makes the strength of the panel consistent across all directions. Instead of wood, since this will be out in the open, I decided to go with plastic for the actual prototype, because it will make it more durable when subjected to bad weather.
+The mechanism had to change completely for me to be able to shrink the whole thing. I decided to use a servo actuator that gives linear motion through rack and pinion movement.
 
 These are the dimensions I started out with:
 
