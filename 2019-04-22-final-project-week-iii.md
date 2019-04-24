@@ -40,6 +40,8 @@ As I was testing out my electronic components, I discovered that having one PIR 
 
 ### Dimensions
 
+![Catapulta4](https://user-images.githubusercontent.com/43420227/56631688-67edbc00-6624-11e9-9ec9-51f7f0ec63f6.jpg)
+
 ### Renderings
 
 ![Final 154](https://user-images.githubusercontent.com/43420227/56630687-2bb85c80-6620-11e9-8a70-642ccc922078.jpg)
