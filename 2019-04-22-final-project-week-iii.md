@@ -38,6 +38,12 @@ As I was testing out my electronic components, I discovered that having one PIR 
 
 ### Prototype Pictures
 
+![IMG_0474](https://user-images.githubusercontent.com/43420227/56629892-2d345580-661d-11e9-8023-923411da2ce8.jpeg)
+
+![IMG_2194](https://user-images.githubusercontent.com/43420227/56629893-2d345580-661d-11e9-8606-b254be8868ff.jpeg)
+
+![IMG_9380](https://user-images.githubusercontent.com/43420227/56629894-2d345580-661d-11e9-8cd1-03f483b63b46.jpeg)
+
 ### Interaction
 
 My interaction flow stayed the same. 
