@@ -8,10 +8,11 @@ author: Sofia von Hauske Valtierra
 
 ## Changes From Last Week
 
+My last week's launching mechanism was getting the treat to where I wanted. It was a 3.5" long arm attached to a servo that would catch the treat from the dispenser and then rotate 90 degrees to try to launch it, but because of the length of the arm and the speed of the servo, it didn't go too far.
+
 ![Final 154](https://user-images.githubusercontent.com/43420227/56630687-2bb85c80-6620-11e9-8a70-642ccc922078.jpg)
 
-![Final 155](https://user-images.githubusercontent.com/43420227/56630688-2bb85c80-6620-11e9-97b4-d9847e612fab.jpg)
+I tried elongating the arm, but without changing the dimensions of the device, I could only add about 1" to the lenght of it, and that did not have a big effect on how far the treat could be launched. I decided to try out a different mechanism that would work more like a slingshot. 
 
-![Final 156](https://user-images.githubusercontent.com/43420227/56630689-2bb85c80-6620-11e9-8a54-7f8743fe4d30.jpg)
 
-![Final 157](https://user-images.githubusercontent.com/43420227/56630690-2bb85c80-6620-11e9-8822-c5f5d566b397.jpg)
+
