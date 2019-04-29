@@ -34,7 +34,7 @@ Hunting insects is something that foxes do more casually. Insects have weak esca
 
 ![20180205_jennylynngolding_2216-2](https://user-images.githubusercontent.com/43420227/53015346-d93ca300-3418-11e9-8dc0-aadd084a8e3a.jpg)
 
-**Previous enrichment testing:**
+### Previous enrichment testing:
 
 [Feeding enrichment in an opportunistic carnivore: The red fox](https://www.researchgate.net/publication/228488070_Feeding_enrichment_in_an_opportunistic_carnivore_The_red_fox)
 
@@ -60,6 +60,8 @@ All four feeding enrichments significantly enhanced individual behavioral divers
 <img width="600" alt="Screen Shot 2019-04-16 at 7 52 28 AM" src="https://user-images.githubusercontent.com/43420227/56207420-aa0f7000-601c-11e9-93fa-3326d7956873.png">
 
 ![maxresdefault](https://user-images.githubusercontent.com/43420227/56207644-40dc2c80-601d-11e9-9129-831f8d2c8823.jpg)
+
+### Iterations
 
 
 ### Resources
