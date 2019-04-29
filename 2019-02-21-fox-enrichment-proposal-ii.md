@@ -25,4 +25,4 @@ I want to build a device that hangs from the top mesh of the fox's habitat. Usin
 
 ![untitled](https://user-images.githubusercontent.com/43420227/53209747-7827f180-3609-11e9-9007-046051caa2e0.JPG)
 
-[Go to main page.](https://svonhauske.github.io/Design-in-Safaris-19/)
+[Go to main page.](https://svonhauske.github.io/Interaction-Design-in-The-Wild)
