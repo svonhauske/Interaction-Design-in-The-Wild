@@ -51,6 +51,22 @@ All four feeding enrichments significantly enhanced individual behavioral divers
 
 [Go to main page.](https://svonhauske.github.io/Interaction-Design-in-The-Wild)
 
+### Other Enrichment Used at The Zoo
+
+- Puzzle feeders
+- Hanging toys
+- Squeaky toys
+
+![ca0f799f9aeef02d9897a996d78dc6be2](https://user-images.githubusercontent.com/43420227/56207224-379e9000-601c-11e9-98f3-88c1dd27df8f.jpg)
+
+![d8az219-bb7d2299-d103-4b49-aa19-fd015ff51fd5](https://user-images.githubusercontent.com/43420227/56207225-379e9000-601c-11e9-8f9f-454b1ce8c92a.jpg)
+
+
+<img width="600" alt="Screen Shot 2019-04-16 at 7 52 28 AM" src="https://user-images.githubusercontent.com/43420227/56207420-aa0f7000-601c-11e9-93fa-3326d7956873.png">
+
+![maxresdefault](https://user-images.githubusercontent.com/43420227/56207644-40dc2c80-601d-11e9-9129-831f8d2c8823.jpg)
+
+
 ### Resources
 
 - Macdonald, David W. Running with the Fox. Unwin Hyman, 1989.
@@ -64,5 +80,7 @@ All four feeding enrichments significantly enhanced individual behavioral divers
 - Henry, J. David. Red Fox: the Catlike Canine. Smithsonian Institution Press, 1996.
 
 <img width="300" alt="A1fjz-4PdDL" src="https://user-images.githubusercontent.com/43420227/56206619-cdd1b680-601a-11e9-9537-7206f0eb8451.jpg">
+
+- [Feeding enrichment in an opportunistic carnivore: The red fox](https://www.researchgate.net/publication/228488070_Feeding_enrichment_in_an_opportunistic_carnivore_The_red_fox)
 
 [Go to main page.](https://svonhauske.github.io/Interaction-Design-in-The-Wild)
