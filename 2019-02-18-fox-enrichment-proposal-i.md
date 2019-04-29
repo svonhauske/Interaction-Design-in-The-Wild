@@ -75,5 +75,4 @@ This second proposal comes from the hunting of arboreal prey. Foxes are usually 
 
 ![proposalii](https://user-images.githubusercontent.com/43420227/53026314-aacac200-3430-11e9-8fc6-1488cf07c57d.jpg)
 
-
-[Go to main page.](https://svonhauske.github.io/Design-in-Safaris-19/)
+[Go to main page.](https://svonhauske.github.io/Interaction-Design-in-The-Wild)
