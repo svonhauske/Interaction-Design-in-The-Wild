@@ -39,7 +39,7 @@ We want to build a box that contains a smaller box inside where the food is hous
 
 **Targeted Animal Behavior/Action:**
 
-The device targets hyenas hunting and collaboration behavior. Hyenas are known for taking down large prey like wildebeest and buffalo by hunting in groups and using their powerful jaw to bite down and hold onto the animal until it falls. The device encourages hyenas to engage their physical and problem-solving capabilities. It requires them to pull the different ropes to move around the box until it passes over a hole and releases food. Hyenas have to work together to succeed and acquire treats/food faster and more efficiently.
+The device targets hyenas' hunting and collaboration behavior. Hyenas are known for taking down large prey like wildebeest and buffalo by hunting in groups and using their powerful jaw to bite down and hold onto the animal until it falls. The device encourages hyenas to engage their physical and problem-solving capabilities. It requires them to pull the different ropes to move around the box until it passes over a hole and releases food. Hyenas have to work together to succeed and acquire treats/food faster and more efficiently.
 
 **Things To Consider:**
 
@@ -55,4 +55,4 @@ Although this device is meant to create cooperation among hyena clans, based on 
 
 ![box](https://user-images.githubusercontent.com/43420227/54007228-bacfea80-412e-11e9-9e08-9eb33da21366.jpg)
    
-[Go to main page.](https://svonhauske.github.io/Design-in-Safaris-19/)
+[Go to main page.](https://svonhauske.github.io/Interaction-Design-in-The-Wild)
