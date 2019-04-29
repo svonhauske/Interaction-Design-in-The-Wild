@@ -55,8 +55,6 @@ They compared four different methods of feeding enrichment that were based on na
 
 All four feeding enrichments significantly enhanced individual behavioral diversity and activity compared to a conventional feeding treatment. The proportion of food-related behaviors, such as food searching or food acquiring, increased the most during the feeding treatment with the highest spatial and temporal unpredictability. There was also an increase in exploratory behaviors, such as locomotion and monitoring behavior. The findings show that any temporal and/or spatial unpredictability in the presentation of food has a stimulating effect on the foxes’ behavior.
 
-[Go to main page.](https://svonhauske.github.io/Interaction-Design-in-The-Wild)
-
 ### Other Enrichment Used at The Zoo
 
 - Puzzle feeders
