@@ -5,7 +5,7 @@ date: 2019-02-10
 author: Sofia von Hauske Valtierra
 ---
 
-### Challenge: Empathy Machine
+## Challenge: Empathy Machine
 
 Using the information from today's lecture, create a technical working prototype that allows a human to experience animal senses/locomotion or other animal processes. 
 
@@ -16,7 +16,7 @@ Guiding Questions:
 
 3. What do other humans feel when testing your prototype? 
 
-### First Attempt: Researching Animals
+## First Attempt: Researching Animals
 
 First I started by researching animals; I started looking into interesting behaviors that they had, or exciting ways in which they sensed things. One of the things that I found really interesting and that I went a little more deeply into was Firefly communication. Fireflies have different flying and lighting patterns that lets them communicate with their species and attract females. I had a couple of ideas of physical and digital games that had to do with this, but I wasn't really convinced. Starting out with research was not really getting me to where I wanted.
 
@@ -26,7 +26,7 @@ First I started by researching animals; I started looking into interesting behav
 
  So I decided to start by thinking about empathy. 
 
-### Thinking About Empathy
+## Thinking About Empathy
 
 The first thing that came to my mind when I thought of empathy was something that happened back home in Mexico while I was visiting last year. I have two dogs back home, and I always travel with my dog from here; they are all rescues, so they already a little bit afraid of things. There is a church a couple of blocks away that celebrates several saints throughout the year, and they throw this big block party that goes on until 6 AM. There are fireworks all night long, and my dogs get really scared. They start shaking like crazy, they hide under the furniture and they won't come out, and there is nothing we can do about it. This time, my mom decided to call the church. It was about 2 AM when this happened. She managed to get in contact with the priest; he was in charge of the celebration. She explained why she was calling and politely asked him to stop lighting up fireworks, to which the priest responded: "Animals are replaceable." and hung up the phone. 
 
@@ -36,14 +36,14 @@ This is a picture of the Church:
 From here I decided to do more research on hearing, and the effect that loud noises and noise pollution, in general, has on wildlife. 
 
 
-### Hearing in Animals
+## Hearing in Animals
 
 As I started searching for more information on this, I kept coming across things like this:
 ![news](https://user-images.githubusercontent.com/43420227/52544882-9f68fe00-2d81-11e9-8205-5e219b9a1b24.jpg)
 
 News reports are mostly about marine life and the effect of noise pollution on them, but they aren't the only ones getting affected.
 
-### Noise Pollution
+## Noise Pollution
 
 What is noise pollution? A noise is an unwanted or inappropriate sound. Noise pollution is noise that interferes with normal activities, and disrupts or diminishes our quality of life. [PBS News Hour](https://www.pbs.org/newshour/nation/noise-pollution-humans-wreaking-havoc-u-s-wildlife)
 
@@ -72,7 +72,7 @@ What is noise pollution? A noise is an unwanted or inappropriate sound. Noise po
 - [IFL Science](https://www.iflscience.com/environment/how-noise-pollution-changing-animal-behaviour/)
 - [Australian Academy of Science](https://www.science.org.au/curious/earth-environment/noise-pollution-and-environment)
 
-### Animal Pinnae
+## Animal Pinnae
 
 What is Pinnae? Pinnae are the external part of the ears in humans and other mammals. I decided to focus on the pinnae because I think it is something we often overlook or take for granted when we are thinking about hearing.
 
@@ -91,7 +91,7 @@ Some animals can swivel or rotate their pinnae in order to pinpoint where sounds
 
 ![animals](https://user-images.githubusercontent.com/43420227/52544539-66c82500-2d7f-11e9-8a3a-cbe71294bc40.jpg)
 
-### How can I design something that let's humans experience an animal's ability to rotate their pinna and focus on a sound?
+## How can I design something that let's humans experience an animal's ability to rotate their pinna and focus on a sound?
 
 **First Step: Interior Mechanism**
 
