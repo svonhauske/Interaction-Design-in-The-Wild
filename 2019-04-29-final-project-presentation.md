@@ -112,6 +112,8 @@ All four feeding enrichments significantly enhanced individual behavioral divers
 - HM-10 Bluetooth 4.0 BLE Module
 - PCA9685 16 Channel 12 Bit PWM Servo Motor Driver
 
+![Catapulta5](https://user-images.githubusercontent.com/43420227/56920219-a5bd6b00-6a90-11e9-9cf7-88b44583c10c.jpg)
+
 ### Interaction
 
 ![Catapulta10](https://user-images.githubusercontent.com/43420227/56920220-a6560180-6a90-11e9-816e-7ce7191eb8f4.jpg)
@@ -222,10 +224,6 @@ void loop()
 
 }
 ```
-
-### Interaction
-
-![Catapulta5](https://user-images.githubusercontent.com/43420227/56920219-a5bd6b00-6a90-11e9-9cf7-88b44583c10c.jpg)
 
 ### Resources
 
