@@ -30,7 +30,7 @@ This class focuses on fundamentals of interaction by changing the traditional us
 
 1. [Hyena Enrichment Prototype](https://svonhauske.github.io/Interaction-Design-in-The-Wild/2019-03-13-hyena-prototype)
 
-1. [Final Propoals](https://svonhauske.github.io/Interaction-Design-in-The-Wild/2019-03-31-final-project-ideas)
+1. [Final Proposals](https://svonhauske.github.io/Interaction-Design-in-The-Wild/2019-03-31-final-project-ideas)
 
 1. [Final Project: Week I](https://svonhauske.github.io/Interaction-Design-in-The-Wild/2019-04-08-final-project-week-i)
 
