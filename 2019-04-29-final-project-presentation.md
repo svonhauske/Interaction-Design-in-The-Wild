@@ -26,6 +26,8 @@ Red foxes are the smallest members of the dog family, but the largest species of
 
 Red Foxes are predators of small pray; these animals are high-strung and have quick reactions, which means that foxes have to stalk their prey quietly to be able to catch them. A fox's hearing is very sensitive to lower noises, frequencies that correspond to rustling and gnawing sounds of small animals. They are capable of locating sounds within inches of their exact location.
 
+![curious-red-fox-Chris_StMichael-1024x768](https://user-images.githubusercontent.com/43420227/56925745-259e0200-6a9e-11e9-8d6b-ef47afe93cef.jpg)
+
 **Types of prey:**
 
 J. David Henry groups the types of animals Red Foxes eat, into 4 main groups:
@@ -45,6 +47,8 @@ The techniques that foxes use to hunts these types of prey is also different, ea
 **Insects:**
 
 Hunting insects is something that foxes do more casually because insects have weak escape behaviors, and they only provide the fox with a small amount of food. Usually, foxes are doing something else, and they hear an insect, and they simply walk over and bite down. When insects hop or fly away, they use their muzzle to poke around, stamp one of its forefeet, or do something called foot stamping. These movements causes insects to move, and then the fox is able to locate them by the sound of rustling or movement.
+
+![IMG_0362](https://user-images.githubusercontent.com/43420227/56925746-259e0200-6a9e-11e9-9d26-15e69d07b32d.jpg)
 
 ### Citations from Research
 
