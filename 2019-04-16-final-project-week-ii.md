@@ -8,7 +8,7 @@ author: Sofia von Hauske Valtierra
 ![ecddf7a133be423a89184f4675fe8a58](https://user-images.githubusercontent.com/43420227/56225160-d805ac00-603e-11e9-84b1-64c53317bc6c.jpg)
 
 ### Research
-Vulpes vulpes, more commonly known as Red Foxes, are members of the Canidae family. They eat a variety of food, sometimes changing their diet from season to season. They are considered opportunistic feeders who will feed based on availability. Their diets usually include small rodents, rabbits, hare, insects, wild fruits and berries. Foxes are great at scavenging, hunting and caching. They carefully hide food for future us by burying it underground and disguising the spot with leaves and twigs. They will sometimes relocate their provisions.
+Vulpes vulpes, more commonly known as Red Foxes, are members of the Canidae family. They eat a variety of food, sometimes changing their diet from season to season. They are considered opportunistic feeders who will feed based on availability. Their diets usually include small rodents, rabbits, hare, insects, wild fruits and berries. Foxes are great at scavenging, hunting and caching. They carefully hide food for future use by burying it underground and disguising the spot with leaves and twigs. They will sometimes relocate their provisions.
 
 Red Foxes are predators of small pray, these animals are high-strung and have quick reactions, which means that foxes have to stalk their prey quietly to be able to catch them. A fox's hearing is very sensitive to lower noises, frequencies that correspond to rustling and gnawing sounds of small animals. They are capable of locating sounds within inches of their exact location.
 
