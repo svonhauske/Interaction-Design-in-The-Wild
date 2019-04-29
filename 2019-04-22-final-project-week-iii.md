@@ -13,7 +13,7 @@ I initially thought about making this out of wood, plywood specifically. Plywood
 
 ![Final 151](https://user-images.githubusercontent.com/43420227/56206625-cdd1b680-601a-11e9-86d4-02cb9f2d73b8.jpg)
 
-They whole device was a lot bigger than I wanted, mostly becuase of the dispensing mechanism I came up with: 
+The whole device was a lot bigger than I wanted, mostly because of the dispensing mechanism I came up with: 
 
 ![Final 153](https://user-images.githubusercontent.com/43420227/56206627-cdd1b680-601a-11e9-8589-e2a2f4780562.jpg)
 
@@ -161,9 +161,9 @@ My interaction flow stayed the same.
 
 ![Catapulta3](https://user-images.githubusercontent.com/43420227/56630813-a2555a00-6620-11e9-9d35-c6f8eeca6ced.jpg)
 
-**Zookeper:** Activates the low-frequency sound through bluetooth.
+**Zookeper:** Activates the low-frequency sound through Bluetooth.
 
-**Fox:** Hears sound and tries to pin-point its location.
+**Fox:** Hears the sound and tries to pin-point its location.
 
 **Device:** Waits for movement.
 
@@ -181,9 +181,8 @@ My interaction flow stayed the same.
 
 - I made a small measurement mistake while making the dispensing system, that needs to be redone so it works smoothly. 
 
-- The motion sensor needs to be tuned, because it is very sensitive.
+- The motion sensor needs to be tuned because it is very sensitive.
 
 - The catapult arm needs to become longer so it launches it better, it is too short right now. 
 
-
-
+[Go to main page.](https://svonhauske.github.io/Interaction-Design-in-The-Wild)
