@@ -33,7 +33,7 @@ The techniques that foxes use to hunts these types of prey is also different, ea
 
 Hunting insects is something that foxes do more casually because insects have weak escape behaviors, and they only provide the fox with a small amount of food. Usually, foxes are doing something else, and they hear an insect, and they simply walk over and bite down. When insects hop or fly away, they use their muzzle to poke around, stamp one of its forefeet, or do something called foot stamping. These movements causes insects to move, and then the fox is able to locate them by the sound of rustling or movement.
 
-**Citations from Research**
+### Citations from Research
 
 _"It is interesting to compare how successful the foxes were at catching various prey. In the hunts I observed, the foxes [...] caught insects 82% of the time (77 out of 94 hunts). These differences in success rate are explained by the effectiveness with which the prey escaped. For example, grasshoppers and crickets, the insects hunted most by the foxes, showed feckless escape behaviors. If the foxed missed one of these prey, the insect often hopped only one or two strides away; the fox watched where it landed and was often able to relocate and capture it."_ (Henry, Page 63)
  
@@ -138,6 +138,10 @@ All four feeding enrichments significantly enhanced individual behavioral divers
 **- Device:** Detects movement, dispenses treat and launches it into the air like a flying insect.
 
 **- Fox:** Catches treat.
+
+### Final Prototype
+
+### Video
 
 ### Code
 ```C++
