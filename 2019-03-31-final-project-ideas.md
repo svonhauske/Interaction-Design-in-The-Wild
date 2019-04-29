@@ -15,7 +15,7 @@ To take this from prototype to final, there are several things that need to chan
 
 - The materials need to change so it is sturdier and more durable.
 
-- A motor with a higher torque is required so it can pull heavier items.
+- A motor with higher torque is required so it can pull heavier items.
 
 - The fishing wire might have to be replaced by steel wires. 
 
@@ -42,13 +42,13 @@ Some animals can swivel or rotate their pinnae in order to pinpoint where sounds
 
 Things that need to change:
 
-- Become a headset, rather than a one ear thing.
+- Become a headset, rather than a one ear device.
 
 - Different material that has less friction so it isn't noisy when they rotate.
 
 - Make the rotation automatic instead of done with a flex sensor.
 
-- Make the pinnae bigger or include an apmlifier so the difference in sound can be heard. 
+- Make the pinnae bigger or include an amplifier so the difference in sound can be heard. 
 
 - Add noise pollution either in the room or inside the headset.
 
@@ -68,7 +68,7 @@ The idea I have in mind is a movable device that can be placed anywhere in the z
 
 The idea with this device is to have foxes use their hearing to locate the machine and then have them try to hunt it as an insect so they can receive a small treat. The fact that is movable add variability because it won't be fixed in the same place every time, so the fox will not memorize where it is. 
 
-This will require a speaker to be able to play the low frequency sound. Since zoos are noisy, a proximity sensor makes more sense thand a sound sensor to be able to detect how close the stamping occurs to the machine. Lastly, a small servo motor can be used to catapult the treat up. There has to be a container than can keep several treats inside, so it doesn't require reloading everytime it is used. 
+This will require a speaker to be able to play the low-frequency sound. Since zoos are noisy, a proximity sensor makes more sense than a sound sensor to be able to detect how close the stamping occurs to the machine. Lastly, a small servo motor can be used to catapult the treat up. There has to be a container that can keep several treats inside, so it doesn't require reloading every time it is used. 
 
 ![Idea3](https://user-images.githubusercontent.com/43420227/55293858-fe81e100-53c8-11e9-9a48-7ead562cd174.jpg)
 
