@@ -14,5 +14,5 @@ author: Sofia von Hauske Valtierra
    Traditional methods of research such as interviews and questionnaires are great resources to gather user based information. However, these cannot be conducted in the conventional sense when we are designing for a nonhuman user. We must then make sure to conduct interviews with experts to gather information and carry out observations that will provide us with nuanced behavior.   
   
    We tend to think that everything else in the world functions like a human, so we are ultimately making incorrect assumptions when we are designing a product. We are not the only living beings in our environment, we are surrounded by others, that whether they like it or not, have to interact with what we design. We have birds flying through are buildings, rats running through our sewers, trees spreading their roots under our concrete, pets cohabitating in our homes. It is our duty as designers to create an optimum experience for our end user whether that is human or non-human, so we need to gain a new perspective. To be able to achieve this we must step out of this anthropomorphic approach, leave all of our assumptions at the door, observe with an open mind, and learn from those who have more experience than us in the field.
-   
-[Go to main page.](https://svonhauske.github.io/Design-in-Safaris-19/)
+
+[Go to main page.](https://svonhauske.github.io/Interaction-Design-in-The-Wild)
