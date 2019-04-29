@@ -11,6 +11,7 @@ author: Sofia von Hauske Valtierra
 
 Vulpes vulpes, more commonly known as Red Foxes, are members of the Canidae family. 
 
+![d2owr6v-baeaf224-a309-4813-9c72-16dc2e20f409](https://user-images.githubusercontent.com/43420227/56925521-a27cac00-6a9d-11e9-94ff-908f0a311b29.jpg)
 
 They eat a variety of food, sometimes changing their diet from season to season. They are considered opportunistic feeders who will feed based on availability. Their diets usually include small rodents, rabbits, hare, insects, wild fruits and berries. Foxes are great at scavenging, hunting and caching. They carefully hide food for future use by burying it underground and disguising the spot with leaves and twigs. They will sometimes relocate their provisions.
 
