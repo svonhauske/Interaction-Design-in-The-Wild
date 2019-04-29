@@ -101,6 +101,104 @@ All four feeding enrichments significantly enhanced individual behavioral divers
 
 **Third Iteration**
 
+
+### Code
+```C++
+#include <SoftwareSerial.h>
+
+#include "pitches.h"
+
+//SERVO
+#include <Wire.h>
+#include <Adafruit_PWMServoDriver.h>
+Adafruit_PWMServoDriver pwm = Adafruit_PWMServoDriver();
+
+#define SERVOMIN  120 // this is the 'minimum' pulse length count (out of 4096)
+#define SERVOMAX  620 
+int push = map(150, 0, 180, SERVOMIN, SERVOMAX);
+int pull = map(0, 0, 180, SERVOMIN, SERVOMAX);
+  
+int launch = map(0, 0, 180, SERVOMIN, SERVOMAX);
+int rest = map(90, 0, 180, SERVOMIN, SERVOMAX);
+
+//SENSOR
+const int sensor = 9;
+int state = 0;
+int val;
+
+int ledPin = 13;
+
+String readString;
+
+void setup() 
+{
+  Serial.begin(9600);
+    
+  pinMode(sensor, INPUT); 
+  pinMode(ledPin, OUTPUT); 
+  
+  pwm.begin();
+  pwm.setPWMFreq(60);
+  pwm.setPWM(0, 0, pull); 
+  pwm.setPWM(1, 0, rest); 
+  delay(500);
+}
+void loop() 
+{ 
+  //BLUETOOTH
+  while (Serial.available()) 
+  {
+      delay(3);  
+      char c = Serial.read();
+      readString += c; 
+  }
+  
+  if (readString.length() > 0) 
+  {
+      Serial.println(readString);
+      
+      if (readString == "on")     
+      { 
+          tone(8, NOTE_C4, 1000);
+          state = 1;
+          delay(500);
+      }
+      
+      if (readString == "off")
+      {
+          digitalWrite(ledPin, LOW);
+          state = 0;
+      }
+      
+      readString = "";
+  } 
+
+//CATAPULT
+  if (state == 1)
+  {
+     val = digitalRead(sensor);
+     Serial.println(val);
+     if (val == 1)
+     {
+          digitalWrite(ledPin, HIGH);
+          pwm.setPWM(0, 0, push); 
+          delay(500);
+          pwm.setPWM(0, 0, pull); 
+          delay(2000);
+          pwm.setPWM(1, 0, launch); 
+          delay(500);
+          pwm.setPWM(1, 0, rest); 
+          delay(500);
+          state = 0;
+     }
+     delay(100);   
+  }
+
+}
+```
+
+### Interaction
+
 ### Resources
 
 - Macdonald, David W. Running with the Fox. Unwin Hyman, 1989.
