@@ -50,3 +50,19 @@ They compared four different methods of feeding enrichment that were based on na
 All four feeding enrichments significantly enhanced individual behavioral diversity and activity compared to a conventional feeding treatment. The proportion of food-related behaviors, such as food searching or food acquiring, increased the most during the feeding treatment with the highest spatial and temporal unpredictability. There was also an increase in exploratory behaviors, such as locomotion and monitoring behavior. The findings show that any temporal and/or spatial unpredictability in the presentation of food has a stimulating effect on the foxes’ behavior.
 
 [Go to main page.](https://svonhauske.github.io/Interaction-Design-in-The-Wild)
+
+### Resources
+
+- Macdonald, David W. Running with the Fox. Unwin Hyman, 1989.
+
+<img width="300" alt="51YBMrpOGgL _SX380_BO1,204,203,200_" src="https://user-images.githubusercontent.com/43420227/56206617-cdd1b680-601a-11e9-8b85-1e1d48db11da.jpg">
+
+- Henry, J. David. How to Spot a Fox. Chapters Pub., 1993.
+
+<img width="300" alt="511pFArnI2L _SX258_BO1,204,203,200_" src="https://user-images.githubusercontent.com/43420227/56206618-cdd1b680-601a-11e9-87fe-77f88b9aa7d2.jpg">
+
+- Henry, J. David. Red Fox: the Catlike Canine. Smithsonian Institution Press, 1996.
+
+<img width="300" alt="A1fjz-4PdDL" src="https://user-images.githubusercontent.com/43420227/56206619-cdd1b680-601a-11e9-9537-7206f0eb8451.jpg">
+
+[Go to main page.](https://svonhauske.github.io/Interaction-Design-in-The-Wild)
