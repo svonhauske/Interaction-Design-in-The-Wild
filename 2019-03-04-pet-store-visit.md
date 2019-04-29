@@ -54,5 +54,4 @@ Overall it is a nice place, people seem to enjoy having their pets around and be
 
 ![posters](https://user-images.githubusercontent.com/43420227/53811699-f5b40180-3f27-11e9-9007-50339c482fed.jpg)
    
-[Go to main page.](https://svonhauske.github.io/Design-in-Safaris-19/)
-
+[Go to main page.](https://svonhauske.github.io/Interaction-Design-in-The-Wild)
