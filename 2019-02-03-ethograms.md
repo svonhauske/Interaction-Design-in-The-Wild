@@ -41,4 +41,4 @@ The ethogram exercise was very useful because I watched several behaviors that i
 
 - Dr. Nicholas J. Lunn: Studies dynamics and general ecology of polar bears,and the effects of climatic change on the ecology of polar bears in western Hudson Bay.
 
-[Go to main page.](https://svonhauske.github.io/Design-in-Safaris-19/)
+[Go to main page.](https://svonhauske.github.io/Interaction-Design-in-The-Wild)
