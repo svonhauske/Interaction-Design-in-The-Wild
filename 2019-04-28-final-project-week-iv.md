@@ -18,3 +18,4 @@ I tried elongating the arm, but without changing the dimensions of the device, I
 
 ![Final 161](https://user-images.githubusercontent.com/43420227/56871472-7bb26d00-69ec-11e9-8e26-6f08eca9d3c5.jpg)
 
+[Go to main page.](https://svonhauske.github.io/Interaction-Design-in-The-Wild)
