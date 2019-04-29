@@ -34,11 +34,6 @@ Hunting insects is something that foxes do more casually. Insects have weak esca
 
 ![20180205_jennylynngolding_2216-2](https://user-images.githubusercontent.com/43420227/53015346-d93ca300-3418-11e9-8dc0-aadd084a8e3a.jpg)
 
-[Red fox: The Catlike Canine](https://www.amazon.com/Red-fox-Catlike-Canine-Smithsonian/dp/1560986352)
-
-![51jijjc4ufl _sx328_bo1 204 203 200_](https://user-images.githubusercontent.com/43420227/53024537-3b9f9e80-342d-11e9-8a64-f32f2a9a98ae.jpg)
-
-
 **Previous enrichment testing:**
 
 [Feeding enrichment in an opportunistic carnivore: The red fox](https://www.researchgate.net/publication/228488070_Feeding_enrichment_in_an_opportunistic_carnivore_The_red_fox)
