@@ -5,17 +5,6 @@ date: 2019-02-10
 author: Sofia von Hauske Valtierra
 ---
 
-## Challenge: Empathy Machine
-
-Using the information from today's lecture, create a technical working prototype that allows a human to experience animal senses/locomotion or other animal processes. 
-
-Guiding Questions: 
-1. When including such sensory/locomotion/cognitive aspects etc., think about what could affect empathy. In cinema or narrative techniques for example, aspirations, vulnerabilities, conflict scenarios are normally pulled together to create sensitive moments.
-
-2. What are the experiential aspects you can build on to relate/feel like an animal? How can you amplify those? Why did you choose these animal senses or actions specifically? 
-
-3. What do other humans feel when testing your prototype? 
-
 ## First Attempt: Researching Animals
 
 First I started by researching animals; I started looking into interesting behaviors that they had, or exciting ways in which they sensed things. One of the things that I found really interesting and that I went a little more deeply into was Firefly communication. Fireflies have different flying and lighting patterns that lets them communicate with their species and attract females. I had a couple of ideas of physical and digital games that had to do with this, but I wasn't really convinced. Starting out with research was not really getting me to where I wanted.
