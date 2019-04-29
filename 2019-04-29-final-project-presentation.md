@@ -24,7 +24,7 @@ Red foxes are the smallest members of the dog family, but the largest species of
 
 ![4631D4C1-D0F3-4C3A-8E17-236829AE1DD5-31237-000010F1B4AB17B5](https://user-images.githubusercontent.com/43420227/56225170-db009c80-603e-11e9-9d96-3167c9355f91.GIF)
 
-Red Foxes are predators of small pray; these animals are high-strung and have quick reactions, which means that foxes have to stalk their prey quietly to be able to catch them. A fox's hearing is very sensitive to lower noises, frequencies that correspond to rustling and gnawing sounds of small animals. They are capable of locating sounds within inches of their exact location.
+Red Foxes are predators of small prey; these animals are high-strung and have quick reactions, which means that foxes have to stalk their prey quietly to be able to catch them. A fox's hearing is very sensitive to lower noises, frequencies that correspond to rustling and gnawing sounds of small animals. They are capable of locating sounds within inches of their exact location.
 
 ![curious-red-fox-Chris_StMichael-1024x768](https://user-images.githubusercontent.com/43420227/56925745-259e0200-6a9e-11e9-8d6b-ef47afe93cef.jpg)
 
