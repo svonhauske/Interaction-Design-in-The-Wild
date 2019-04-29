@@ -1,4 +1,4 @@
-# Design in Safaris 
+# Interaction Design in The Wild 
 ### by Sofia von Hauske Valtierra
 
 ---
