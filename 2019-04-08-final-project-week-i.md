@@ -8,7 +8,7 @@ author: Sofia von Hauske Valtierra
 
 ## Final
 
-My third proposal is inspired by the way in which foxes hunt insects. Foxes are able to detect very low frequencies, which is how they are able to detect insects. When the insect is hiding, foxes will use their muzzle to poke around, or they do something called foot stamping. The foot stomping causes insects to try to flee, and then the fox is able to locate them  better by the sound of rustling or movement. This is the behavior that I want to generate with my prototype. 
+My third proposal is inspired by the way in which foxes hunt insects. Foxes are able to detect very low frequencies, which is how they are able to detect insects. When the insect is hiding, foxes will use their muzzle to poke around, or they do something called foot stamping. The foot stomping causes insects to try to flee, and then the fox is able to locate them better by the sound of rustling or movement. This is the behavior that I want to generate with my prototype. 
 
 This is the drawing that I started out with:
 
@@ -19,19 +19,22 @@ The idea is that this box can be placed anywhere in their zoo habitats, hidden f
 Parts:
 
 - Launching mechanism
-- Low Frequency Sound
+- Low-frequency Sound
 - Treat/Kibble Container
 - Motion Sensors
 
-I started out by building the buzzing,the launching mechanism, and the motion detection. Right now ther buzzer gets activated through a button, but for my next iteration, it will be through a phone using bluetooth. The launching mechanism gets activated when the motion sensor is approached and it catapults something into the air. 
+I started out by building the buzzing, the launching mechanism, and motion detection. Right now the buzzer gets activated through a button, but for my next iteration, it will be through a phone using Bluetooth. The launching mechanism gets activated when the motion sensor is approached and it catapults something into the air. 
 
 [![](http://img.youtube.com/vi/OQnEQBiAwJ0/0.jpg)](http://www.youtube.com/watch?v=OQnEQBiAwJ0 "Week I")
 
 Next Steps:
 
-- Create a container similar to a gumball machine so it doesn't have to be reloaded everytime, it does it automatically.
-- Build an automated door for the container, so the kibble or treat only comes out when the buzzer gets activated.
-- Connect arduino to phone through bluetooth.
-- Test out speaker insted of buzzer. 
-- Build external container. 
+- Create a container similar to a gumball machine so it doesn't have to be reloaded every time, it does it automatically.
+- Build an automatic door for the container, so the kibble or treat only comes out when the buzzer gets activated.
+- Connect Arduino to phone through Bluetooth.
+- Test out speaker instead of buzzer. 
+- Build an external container. 
 - Add more sensors so it can detect movement all around it. 
+
+[Go to main page.](https://svonhauske.github.io/Interaction-Design-in-The-Wild)
+
