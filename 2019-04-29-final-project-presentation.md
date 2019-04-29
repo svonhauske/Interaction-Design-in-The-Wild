@@ -61,7 +61,12 @@ All four feeding enrichments significantly enhanced individual behavioral divers
 
 ![maxresdefault](https://user-images.githubusercontent.com/43420227/56207644-40dc2c80-601d-11e9-9129-831f8d2c8823.jpg)
 
-### Iterations
+### Process
+
+**Initial Sketch**
+
+![Idea3](https://user-images.githubusercontent.com/43420227/55293858-fe81e100-53c8-11e9-9a48-7ead562cd174.jpg)
+
 
 
 ### Resources
