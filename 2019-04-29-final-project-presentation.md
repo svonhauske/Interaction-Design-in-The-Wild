@@ -7,7 +7,7 @@ author: Sofia von Hauske Valtierra
 
 ## Vulpes vulpes:
 
-![red-fox-vulpes-vulpes](https://user-images.githubusercontent.com/43420227/56925492-8e38af00-6a9d-11e9-951c-cb88434f54f9.jpg)
+![Red-fox-kit-Randy-2](https://user-images.githubusercontent.com/43420227/56925988-a52bd100-6a9e-11e9-9b92-0f04fb6c000c.jpg)
 
 Vulpes vulpes, more commonly known as Red Foxes, are members of the Canidae family. 
 
