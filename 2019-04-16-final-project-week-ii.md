@@ -22,7 +22,7 @@ Types of prey:
 
 - Arboreal Prey: Birds and tree squirrels.
 
-The techniques that foxes use to hunts these types of prey is also different, each one unique to the circumstances.
+The techniques that foxes use to hunts these types of prey are also different; each one unique to the circumstances.
 
 Hunting Insects: Hunting insects is something that foxes do more casually. Insects have weak escape behaviors, and they only provide the fox with a small amount of food. Usually, foxes are doing something else, and they hear an insect, and they simply walk over and bite down. When insects hop or fly away, they use their muzzle to poke around, or they do something called foot stamping. The foot stomping causes insects to move, and then the fox is able to locate them by the sound of rustling or movement.
 
@@ -93,3 +93,4 @@ The idea with this device is to have foxes use their hearing to locate the machi
 
 <img width="300" alt="A1fjz-4PdDL" src="https://user-images.githubusercontent.com/43420227/56206619-cdd1b680-601a-11e9-9537-7206f0eb8451.jpg">
 
+[Go to main page.](https://svonhauske.github.io/Interaction-Design-in-The-Wild)
