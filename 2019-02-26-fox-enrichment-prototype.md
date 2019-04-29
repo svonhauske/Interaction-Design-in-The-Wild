@@ -13,4 +13,4 @@ This machine is a preybot that tries to mimic the fleeing upward behavior of a f
 
 [Bodystorming Video](https://vimeo.com/319504079)
 
-[Go to main page.](https://svonhauske.github.io/Design-in-Safaris-19/)
+[Go to main page.](https://svonhauske.github.io/Interaction-Design-in-The-Wild)
