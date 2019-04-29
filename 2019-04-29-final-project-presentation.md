@@ -25,12 +25,24 @@ J. David Henry groups the types of animals Red Foxes eat, into 4 main groups:
 
 * **Arboreal Prey:** Birds and tree squirrels. These animals have high visual acuity, they flee upwards, and they keep a watch for predators from high perches.
 
-The techniques that foxes use to hunts these types of prey is also different, each one unique to the circumstances. 
+The techniques that foxes use to hunts these types of prey is also different, each one unique to the prey and the circumstances. 
 
 **Hunting Techniques:**
 
-* **Insects:**
-Hunting insects is something that foxes do more casually. Insects have weak escape behaviors, and they only provide the fox with a small amount of food. Usually, foxes are doing something else, and they hear an insect, and they simply walk over and bite down. When insects hop or fly away, they use their muzzle to poke around, or they do something called foot stamping. The foot stomping causes insects to move, and then the fox is able to locate them by the sound of rustling or movement.
+**Insects:**
+
+Hunting insects is something that foxes do more casually because insects have weak escape behaviors, and they only provide the fox with a small amount of food. Usually, foxes are doing something else, and they hear an insect, and they simply walk over and bite down. When insects hop or fly away, they use their muzzle to poke around, stamp one of its forefeet, or do something called foot stamping. These movements causes insects to move, and then the fox is able to locate them by the sound of rustling or movement.
+
+ "It is interesting to compare how successful the foxes were at catching various prey. In the hunts I observed, the foxes [...] caught insects 82% of the time (77 out of 94 hunts). These differences in success rate are explained by the effectiveness with which the prey escaped. For example, grasshoppers and crickets, the insects hunted most by the foxes, showed feckless escape behaviors. If the foxed missed one of these prey, the insect often hopped only one or two strides away; the fox watched where it landed and was often able to relocate and capture it." (Page 63)
+ 
+ "[...] foxes ususally hunt insects during another activity; that is, they seldom show searching behavior specifically toward insects. In my study area, insects seem to represent snack foor that foxes capture along the way. [...] When this opportunity knocks, the fox stops the activity it is engaged in, walks over, bites down, and chews up the grasshoppers, cricket or beetle. [...] Sometimes the fox misses in its initial capture attempt, watches where the insect lands, and searches for it by poking its muzzle into shrubs or stamping one of its forefeet on the forest floor where it expects the insect to be." (Page 65)
+ 
+ " Usually a fox is traveling along, scavenging, cleaning out a den, or doing some other activity when it happens to detect an insect in nearby grasses or in the leaves on the forest floor. Then the fox stops what it is doing, walks over, bites down and chews up the prey. Many times it is as simple as that. On other occasions, however, the insect hops or flies away, and the fox must search for it by poking its muzzle into shrubs or stamping one of its forefeet on the forest floor where it suspects the insect might be. After prodding the insect to move, the fox tries to locate it from small movements or rustling sounds. DaviD Macdoonald in Great Britain reports red foxes using foot stamping when they are hunting earthworms [...]." (Page 65)
+ 
+ "Insect remains were found in one hundred and fifty-one, or 64.8 percent of the den droppings, a much higher frequency than in those in the trail during May or June. It seems likely that the fox pups supply the insect portion of the diet by their own efforts. The beetles probably furnish both play and food to the pups as well as good hunting experience. Catching beetles no doubt develops in the young foxes judgment of distance, pouncing precision, sound localization, and other hunting qualities of value to a fox." (Page 32) 
+ 
+ 
+ 
 
 ![20180205_jennylynngolding_2216-2](https://user-images.githubusercontent.com/43420227/53015346-d93ca300-3418-11e9-8dc0-aadd084a8e3a.jpg)
 
@@ -239,6 +251,8 @@ void loop()
 
 <img width="300" alt="A1fjz-4PdDL" src="https://user-images.githubusercontent.com/43420227/56206619-cdd1b680-601a-11e9-9537-7206f0eb8451.jpg">
 
-- [Feeding enrichment in an opportunistic carnivore: The red fox](https://www.researchgate.net/publication/228488070_Feeding_enrichment_in_an_opportunistic_carnivore_The_red_fox)
+- [Kistler, Claudia & Hegglin, Daniel & Wü Rbel, Hanno & Kö Nig, Barbara. (2009). Feeding enrichment in an opportunistic carnivore: The red fox. Applied Animal Behaviour Science - APPL ANIM BEHAV SCI. 116. 10.1016/j.applanim.2008.09.004.](https://www.researchgate.net/publication/228488070_Feeding_enrichment_in_an_opportunistic_carnivore_The_red_fox)
+
+- [Murie, Adolph. Following Fox Trails. University of Michigan - Museum of Zoology, deepblue.lib.umich.edu/bitstream/handle/2027.42/56277/MP032.pdf;sequence=1](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/56277/MP032.pdf;sequence=1)
 
 [Go to main page.](https://svonhauske.github.io/Interaction-Design-in-The-Wild)
