@@ -10,35 +10,35 @@ The fundamentals of Human-Centered Design provide us with a framework to develop
 This class focuses on fundamentals of interaction by changing the traditional users of our technologies. There will be weekly lectures from zoologists and animal experts. The class will have weekly readings, assignments and projects for students to support their hypothesis. The students are expected to have prior prototyping abilities to rapidly iterate their solutions in this intensive course. A select number of students from the class will be chosen to deploy and test their final projects at the San Diego Zoo’s naturalistic setting. 
 
 ---
-1. [Designing for Humans](https://svonhauske.github.io/Design-in-Safaris-19/2019-01-28-designing-for-humans)
+1. [Designing for Humans](https://svonhauske.github.io/Interaction-Design-in-The-Wild/2019-01-28-designing-for-humans)
 
-1. [Ethograms](https://svonhauske.github.io/Design-in-Safaris-19/2019-02-03-ethograms)
+1. [Ethograms](https://svonhauske.github.io/Interaction-Design-in-The-Wild/2019-02-03-ethograms)
 
-1. [Empathy Machine](https://svonhauske.github.io/Design-in-Safaris-19/2019-02-10-empathy-machine)
+1. [Empathy Machine](https://svonhauske.github.io/Interaction-Design-in-The-Wild/2019-02-10-empathy-machine)
 
-1. [Fox Enrichment Proposal I](https://svonhauske.github.io/Design-in-Safaris-19/2019-02-18-fox-enrichment-proposal-i)
+1. [Fox Enrichment Proposal I](https://svonhauske.github.io/Interaction-Design-in-The-Wild/2019-02-18-fox-enrichment-proposal-i)
 
-1. [Fox Enrichment Proposal II](https://svonhauske.github.io/Design-in-Safaris-19/2019-02-21-fox-enrichment-proposal-ii)
+1. [Fox Enrichment Proposal II](https://svonhauske.github.io/Interaction-Design-in-The-Wild/2019-02-21-fox-enrichment-proposal-ii)
 
-1. [Fox Enrichment Prototype](https://svonhauske.github.io/Design-in-Safaris-19/2019-02-26-fox-enrichment-prototype)
+1. [Fox Enrichment Prototype](https://svonhauske.github.io/Interaction-Design-in-The-Wild/2019-02-26-fox-enrichment-prototype)
 
-1. [Central Park Zoo](https://svonhauske.github.io/Design-in-Safaris-19/2019-03-04-zoo-visit)
+1. [Central Park Zoo](https://svonhauske.github.io/Interaction-Design-in-The-Wild/2019-03-04-zoo-visit)
 
-1. [Boris & Horton Cafe](https://svonhauske.github.io/Design-in-Safaris-19/2019-03-04-pet-store-visit)
+1. [Boris & Horton Cafe](https://svonhauske.github.io/Interaction-Design-in-The-Wild/2019-03-04-pet-store-visit)
 
-1. [Hyena Enrichment Proposal](https://svonhauske.github.io/Design-in-Safaris-19/2019-03-07-group-enrichment-proposal)
+1. [Hyena Enrichment Proposal](https://svonhauske.github.io/Interaction-Design-in-The-Wild/2019-03-07-group-enrichment-proposal)
 
-1. [Hyena Enrichment Prototype](https://svonhauske.github.io/Design-in-Safaris-19/2019-03-13-hyena-prototype)
+1. [Hyena Enrichment Prototype](https://svonhauske.github.io/Interaction-Design-in-The-Wild/2019-03-13-hyena-prototype)
 
-1. [Final Propoals](https://svonhauske.github.io/Design-in-Safaris-19/2019-03-31-final-project-ideas)
+1. [Final Propoals](https://svonhauske.github.io/Interaction-Design-in-The-Wild/2019-03-31-final-project-ideas)
 
-1. [Final Project: Week I](https://svonhauske.github.io/Design-in-Safaris-19/2019-04-08-final-project-week-i)
+1. [Final Project: Week I](https://svonhauske.github.io/Interaction-Design-in-The-Wild/2019-04-08-final-project-week-i)
 
-1. [Final Project: Week II](https://svonhauske.github.io/Design-in-Safaris-19/2019-04-16-final-project-week-ii)
+1. [Final Project: Week II](https://svonhauske.github.io/Interaction-Design-in-The-Wild/2019-04-16-final-project-week-ii)
 
-1. [Final Project: Week III](https://svonhauske.github.io/Design-in-Safaris-19/2019-04-22-final-project-week-iii)
+1. [Final Project: Week III](https://svonhauske.github.io/Interaction-Design-in-The-Wild/2019-04-22-final-project-week-iii)
 
-1. [Final Project: Week IV](https://svonhauske.github.io/Design-in-Safaris-19/2019-04-28-final-project-week-iv)
+1. [Final Project: Week IV](https://svonhauske.github.io/Interaction-Design-in-The-Wild/2019-04-28-final-project-week-iv)
 
 
 --- 
