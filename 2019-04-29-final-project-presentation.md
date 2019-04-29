@@ -15,6 +15,15 @@ Vulpes vulpes, more commonly known as Red Foxes, are members of the Canidae fami
 
 They eat a variety of food, sometimes changing their diet from season to season. They are considered opportunistic feeders who will feed based on availability. Their diets usually include small rodents, rabbits, hare, insects, wild fruits and berries. Foxes are great at scavenging, hunting and caching. They carefully hide food for future use by burying it underground and disguising the spot with leaves and twigs. They will sometimes relocate their provisions.
 
+Red foxes are the smallest members of the dog family, but the largest species of foxes.
+
+- Weight: 3 to 11 Kg
+- Height: 10 to 51 cm
+- Body Length: 46 to 86 cm
+- Tail Length: 30.5 to 55 cm
+
+![4631D4C1-D0F3-4C3A-8E17-236829AE1DD5-31237-000010F1B4AB17B5](https://user-images.githubusercontent.com/43420227/56225170-db009c80-603e-11e9-9d96-3167c9355f91.GIF)
+
 Red Foxes are predators of small pray; these animals are high-strung and have quick reactions, which means that foxes have to stalk their prey quietly to be able to catch them. A fox's hearing is very sensitive to lower noises, frequencies that correspond to rustling and gnawing sounds of small animals. They are capable of locating sounds within inches of their exact location.
 
 **Types of prey:**
