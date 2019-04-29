@@ -75,6 +75,8 @@ All four feeding enrichments significantly enhanced individual behavioral divers
 
 ![Final 153](https://user-images.githubusercontent.com/43420227/56206627-cdd1b680-601a-11e9-8589-e2a2f4780562.jpg)
 
+![Catapulta](https://user-images.githubusercontent.com/43420227/56206621-cdd1b680-601a-11e9-904a-80c2d79b86b4.jpg)
+
 **Second Iteration**
 
 ![Final 154](https://user-images.githubusercontent.com/43420227/56630687-2bb85c80-6620-11e9-8a70-642ccc922078.jpg)
@@ -84,6 +86,8 @@ All four feeding enrichments significantly enhanced individual behavioral divers
 ![Final 156](https://user-images.githubusercontent.com/43420227/56630689-2bb85c80-6620-11e9-8a54-7f8743fe4d30.jpg)
 
 ![Final 157](https://user-images.githubusercontent.com/43420227/56630690-2bb85c80-6620-11e9-8822-c5f5d566b397.jpg)
+
+![Catapulta4](https://user-images.githubusercontent.com/43420227/56631688-67edbc00-6624-11e9-9ec9-51f7f0ec63f6.jpg)
 
 **First Prototype**
 
@@ -96,8 +100,6 @@ All four feeding enrichments significantly enhanced individual behavioral divers
 [![](http://img.youtube.com/vi/k6kEeGP1h3k/0.jpg)](http://www.youtube.com/watch?v=k6kEeGP1h3k "Enrichment")
 
 **Third Iteration**
-
-
 
 ### Resources
 
