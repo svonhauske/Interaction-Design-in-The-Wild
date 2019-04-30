@@ -68,7 +68,7 @@ _"It is interesting to compare how successful the foxes were at catching various
 
 Claudia Kistler,  Daniel Hegglin, Hanno Würbel, Barbara König
 
-They compared four different methods of feeding enrichment that were based on natural foraging strategies of opportunistic carnivores, red foxes. The feeding enrichments consisted of electronic feeders delivering food unpredictable in time which were successively combined with one of the three additional treatments: a self-service food box, manually scattering food (unpredictable in space), and an electronic dispenser delivering food unpredictably both in space and time.
+They compared four different methods of feeding enrichment that were based on natural foraging strategies of opportunistic carnivores, red foxes. The feeding enrichments consisted of electronic feeders delivering food (unpredictable in time); these were successively combined with one of the three additional treatments: a self-service food box, manually scattering food (unpredictable in space), and an electronic dispenser delivering food unpredictably both in space and time.
 
 All four feeding enrichments significantly enhanced individual behavioral diversity and activity compared to a conventional feeding treatment. The proportion of food-related behaviors, such as food searching or food acquiring, increased the most during the feeding treatment with the highest spatial and temporal unpredictability. There was also an increase in exploratory behaviors, such as locomotion and monitoring behavior. The findings show that any temporal and/or spatial unpredictability in the presentation of food has a stimulating effect on the foxes’ behavior.
 
