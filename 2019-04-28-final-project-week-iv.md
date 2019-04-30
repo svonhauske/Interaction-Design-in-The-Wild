@@ -14,6 +14,11 @@ My last week's launching mechanism was getting the treat to where I wanted. It w
 
 I tried elongating the arm, but without changing the dimensions of the device, I could only add about 1" to the lenght of it, and that did not have a big effect on how far the treat could be launched. 
 
+![IMG_2813](https://user-images.githubusercontent.com/43420227/56968064-76f6d180-6b30-11e9-9f04-f1d25d837e6d.jpeg)
+
+![IMG_5002](https://user-images.githubusercontent.com/43420227/56968065-76f6d180-6b30-11e9-8022-93479e2dcf64.jpeg)
+
+![IMG_6715](https://user-images.githubusercontent.com/43420227/56968066-778f6800-6b30-11e9-8f06-5721029ce132.jpeg)
 
 I decided to try out a different mechanism that would work more like a slingshot. 
 
