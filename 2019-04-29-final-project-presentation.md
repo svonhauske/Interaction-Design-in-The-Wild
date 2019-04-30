@@ -138,11 +138,11 @@ All four feeding enrichments significantly enhanced individual behavioral divers
 - HM-10 Bluetooth 4.0 BLE Module
 - PCA9685 16 Channel 12 Bit PWM Servo Motor Driver
 
-![Catapulta5](https://user-images.githubusercontent.com/43420227/56920219-a5bd6b00-6a90-11e9-9cf7-88b44583c10c.jpg)
+![Catapulta5](https://user-images.githubusercontent.com/43420227/56960442-c3d1ac80-6b1e-11e9-8653-8e9affd71723.jpg)
 
 ### Interaction
 
-![Catapulta10](https://user-images.githubusercontent.com/43420227/56920220-a6560180-6a90-11e9-816e-7ce7191eb8f4.jpg)
+![Catapulta10](https://user-images.githubusercontent.com/43420227/56960443-c3d1ac80-6b1e-11e9-9925-9732d90fb99d.jpg)
 
 **- Zookeper:** Activates the low-frequency sound through Bluetooth.
 
