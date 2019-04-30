@@ -22,9 +22,15 @@ I tried elongating the arm, but without changing the dimensions of the device, I
 
 I decided to try out a different mechanism that would work more like a slingshot. 
 
-![Final 160](https://user-images.githubusercontent.com/43420227/56871471-7bb26d00-69ec-11e9-8559-290a2372c752.jpg)
+![Final 500](https://user-images.githubusercontent.com/43420227/56968345-0308f900-6b31-11e9-8b8a-fec889481585.jpg)
 
-![Final 161](https://user-images.githubusercontent.com/43420227/56871472-7bb26d00-69ec-11e9-8e26-6f08eca9d3c5.jpg)
+![Final 501](https://user-images.githubusercontent.com/43420227/56968346-0308f900-6b31-11e9-9f35-49bb4ae1dd34.jpg)
+
+![Final 504](https://user-images.githubusercontent.com/43420227/56970127-7a8c5780-6b34-11e9-818d-460dcd884920.jpg)
+
+![Final 502](https://user-images.githubusercontent.com/43420227/56970124-79f3c100-6b34-11e9-9d36-bd665284ceaf.jpg)
+
+![Final 503](https://user-images.githubusercontent.com/43420227/56970126-79f3c100-6b34-11e9-8bd4-5e48a2a7a639.jpg)
 
 ### Preliminary Video
 
