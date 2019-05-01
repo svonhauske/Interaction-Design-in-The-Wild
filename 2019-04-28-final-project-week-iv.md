@@ -34,6 +34,6 @@ I decided to try out a different mechanism that would work more like a slingshot
 
 ### Preliminary Video
 
-[![](http://img.youtube.com/vi/CDLuaqafLIo/0.jpg)](http://www.youtube.com/watch?v=CDLuaqafLIo "")
+[![](http://img.youtube.com/vi/CDLuaqafLIo/0.jpg)](http://www.youtube.com/watch?v=CDLuaqafLIo "FoxFinalEnrichment")
 
 [Go to main page.](https://svonhauske.github.io/Interaction-Design-in-The-Wild)
