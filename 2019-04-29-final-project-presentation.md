@@ -70,15 +70,23 @@ _"It is interesting to compare how successful the foxes were at catching various
 
 **First Iteration**
 
+Renderings:
+
 ![Final 151](https://user-images.githubusercontent.com/43420227/56206625-cdd1b680-601a-11e9-86d4-02cb9f2d73b8.jpg)
 
 ![Final 152](https://user-images.githubusercontent.com/43420227/56206626-cdd1b680-601a-11e9-9b09-c81e54bd5bdc.jpg)
 
+Dispensing Mechanism:
+
 ![Final 153](https://user-images.githubusercontent.com/43420227/56206627-cdd1b680-601a-11e9-8589-e2a2f4780562.jpg)
+
+Dimensions:
 
 ![Catapulta](https://user-images.githubusercontent.com/43420227/56206621-cdd1b680-601a-11e9-904a-80c2d79b86b4.jpg)
 
 **Second Iteration**
+
+Renderings:
 
 ![Final 154](https://user-images.githubusercontent.com/43420227/56630687-2bb85c80-6620-11e9-8a70-642ccc922078.jpg)
 
@@ -87,6 +95,8 @@ _"It is interesting to compare how successful the foxes were at catching various
 ![Final 156](https://user-images.githubusercontent.com/43420227/56630689-2bb85c80-6620-11e9-8a54-7f8743fe4d30.jpg)
 
 ![Final 157](https://user-images.githubusercontent.com/43420227/56630690-2bb85c80-6620-11e9-8822-c5f5d566b397.jpg)
+
+Dimensions:
 
 ![Catapulta4](https://user-images.githubusercontent.com/43420227/56631688-67edbc00-6624-11e9-9ec9-51f7f0ec63f6.jpg)
 
@@ -110,6 +120,8 @@ _"It is interesting to compare how successful the foxes were at catching various
 
 **Third Iteration**
 
+Renderings:
+
 ![Final 500](https://user-images.githubusercontent.com/43420227/56968345-0308f900-6b31-11e9-8b8a-fec889481585.jpg)
 
 ![Final 501](https://user-images.githubusercontent.com/43420227/56968346-0308f900-6b31-11e9-9f35-49bb4ae1dd34.jpg)
@@ -117,6 +129,8 @@ _"It is interesting to compare how successful the foxes were at catching various
 ![Final 504](https://user-images.githubusercontent.com/43420227/56970127-7a8c5780-6b34-11e9-818d-460dcd884920.jpg)
 
 ![Final 502](https://user-images.githubusercontent.com/43420227/56970124-79f3c100-6b34-11e9-9d36-bd665284ceaf.jpg)
+
+Dimensions:
 
 ![Final 503](https://user-images.githubusercontent.com/43420227/56970126-79f3c100-6b34-11e9-8bd4-5e48a2a7a639.jpg)
 
