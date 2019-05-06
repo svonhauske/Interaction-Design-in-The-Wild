@@ -137,9 +137,17 @@ Renderings:
 
 ![Final 503](https://user-images.githubusercontent.com/43420227/56970126-79f3c100-6b34-11e9-8bd4-5e48a2a7a639.jpg)
 
+Dispensing Mechanism:
+
+![Final 506](https://user-images.githubusercontent.com/43420227/57227800-45728000-6fe0-11e9-9514-76962a942d47.jpg)
+
 Dimensions:
 
 ![CatapultaFinal](https://user-images.githubusercontent.com/43420227/57226074-19ed9680-6fdc-11e9-9205-6531a14b977d.jpg)
+
+**Fourth Iteration**
+
+Renderings:
 
 **Third Prototype** 
 
