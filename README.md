@@ -40,7 +40,7 @@ This class focuses on fundamentals of interaction by changing the traditional us
 
 1. [Final Project: Week IV](https://svonhauske.github.io/Interaction-Design-in-The-Wild/2019-04-28-final-project-week-iv)
 
-1. [Final Project: Final Presentation (In Progress)](https://svonhauske.github.io/Interaction-Design-in-The-Wild/2019-04-29-final-project-presentation)
+1. [Luncher: Final Project](https://svonhauske.github.io/Interaction-Design-in-The-Wild/2019-04-29-final-project-presentation)
 
 --- 
 
