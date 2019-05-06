@@ -62,31 +62,6 @@ _"It is interesting to compare how successful the foxes were at catching various
 
 ![20180205_jennylynngolding_2216-2](https://user-images.githubusercontent.com/43420227/53015346-d93ca300-3418-11e9-8dc0-aadd084a8e3a.jpg)
 
-### Previous enrichment testing:
-
-[Feeding enrichment in an opportunistic carnivore: The red fox](https://www.researchgate.net/publication/228488070_Feeding_enrichment_in_an_opportunistic_carnivore_The_red_fox)
-
-Claudia Kistler,  Daniel Hegglin, Hanno Würbel, Barbara König
-
-They compared four different methods of feeding enrichment that were based on natural foraging strategies of opportunistic carnivores, red foxes. The feeding enrichments consisted of electronic feeders delivering food (unpredictable in time); these were successively combined with one of the three additional treatments: a self-service food box, manually scattering food (unpredictable in space), and an electronic dispenser delivering food unpredictably both in space and time.
-
-All four feeding enrichments significantly enhanced individual behavioral diversity and activity compared to a conventional feeding treatment. The proportion of food-related behaviors, such as food searching or food acquiring, increased the most during the feeding treatment with the highest spatial and temporal unpredictability. There was also an increase in exploratory behaviors, such as locomotion and monitoring behavior. The findings show that any temporal and/or spatial unpredictability in the presentation of food has a stimulating effect on the foxes’ behavior.
-
-### Other Enrichment Used at The Zoo
-
-- Puzzle feeders
-- Hanging toys
-- Squeaky toys
-
-![ca0f799f9aeef02d9897a996d78dc6be2](https://user-images.githubusercontent.com/43420227/56207224-379e9000-601c-11e9-98f3-88c1dd27df8f.jpg)
-
-![d8az219-bb7d2299-d103-4b49-aa19-fd015ff51fd5](https://user-images.githubusercontent.com/43420227/56207225-379e9000-601c-11e9-8f9f-454b1ce8c92a.jpg)
-
-
-<img width="600" alt="Screen Shot 2019-04-16 at 7 52 28 AM" src="https://user-images.githubusercontent.com/43420227/56207420-aa0f7000-601c-11e9-93fa-3326d7956873.png">
-
-![maxresdefault](https://user-images.githubusercontent.com/43420227/56207644-40dc2c80-601d-11e9-9129-831f8d2c8823.jpg)
-
 ### Process
 
 **Initial Sketch**
@@ -145,12 +120,15 @@ All four feeding enrichments significantly enhanced individual behavioral divers
 
 ![Final 503](https://user-images.githubusercontent.com/43420227/56970126-79f3c100-6b34-11e9-8bd4-5e48a2a7a639.jpg)
 
+**Third Prototype** 
+
 ### Components
 
 - Arduino
 - Breadboard
 - PIR Sensor
 - 8 Ohm Speaker
+- DFPlayer Mini MP3 Player
 - 2 Micro Servos
 - 1 Standard Servo
 - HM-10 Bluetooth 4.0 BLE Module
@@ -183,6 +161,9 @@ All four feeding enrichments significantly enhanced individual behavioral divers
 
 ### Code
 ```C++
+
+// Final Final Final
+
 #include <SoftwareSerial.h>
 
 #include "pitches.h"
@@ -193,17 +174,25 @@ All four feeding enrichments significantly enhanced individual behavioral divers
 Adafruit_PWMServoDriver pwm = Adafruit_PWMServoDriver();
 
 #define SERVOMIN  120 // this is the 'minimum' pulse length count (out of 4096)
-#define SERVOMAX  620 
+#define SERVOMAX  610 
+
+const int dispenser = 0;
 int push = map(150, 0, 180, SERVOMIN, SERVOMAX);
 int pull = map(0, 0, 180, SERVOMIN, SERVOMAX);
-  
-int launch = map(0, 0, 180, SERVOMIN, SERVOMAX);
-int rest = map(90, 0, 180, SERVOMIN, SERVOMAX);
+
+const int arm = 1;
+int stretch = map(115, 0, 180, SERVOMIN, SERVOMAX);
+int relax = map(160, 0, 180, SERVOMIN, SERVOMAX);
+
+const int latch = 2;  
+int lock = map(100, 0, 180, SERVOMIN, SERVOMAX);
+int unlock = map(160, 0, 180, SERVOMIN, SERVOMAX);
 
 //SENSOR
 const int sensor = 9;
 int state = 0;
 int val;
+
 
 int ledPin = 13;
 
@@ -218,8 +207,10 @@ void setup()
   
   pwm.begin();
   pwm.setPWMFreq(60);
-  pwm.setPWM(0, 0, pull); 
-  pwm.setPWM(1, 0, rest); 
+  pwm.setPWM(dispenser, 0, pull); 
+  pwm.setPWM(arm, 0, relax);
+  delay(500);
+  pwm.setPWM(latch, 0, lock); 
   delay(500);
 }
 void loop() 
@@ -260,14 +251,18 @@ void loop()
      if (val == 1)
      {
           digitalWrite(ledPin, HIGH);
-          pwm.setPWM(0, 0, push); 
+          pwm.setPWM(latch, 0, lock); 
+          pwm.setPWM(dispenser, 0, push); 
           delay(500);
-          pwm.setPWM(0, 0, pull); 
+          pwm.setPWM(dispenser, 0, pull); 
+          delay(1000);
+          pwm.setPWM(arm, 0, stretch); 
           delay(2000);
-          pwm.setPWM(1, 0, launch); 
+          pwm.setPWM(latch, 0, unlock); 
+          delay(5000);
+          pwm.setPWM(arm, 0, relax);
           delay(500);
-          pwm.setPWM(1, 0, rest); 
-          delay(500);
+          pwm.setPWM(latch, 0, lock); 
           state = 0;
      }
      delay(100);   
@@ -275,8 +270,36 @@ void loop()
 
 }
 ```
+### Previous enrichment testing:
 
-### Resources
+[Feeding enrichment in an opportunistic carnivore: The red fox](https://www.researchgate.net/publication/228488070_Feeding_enrichment_in_an_opportunistic_carnivore_The_red_fox)
+
+Claudia Kistler,  Daniel Hegglin, Hanno Würbel, Barbara König
+
+They compared four different methods of feeding enrichment that were based on natural foraging strategies of opportunistic carnivores, red foxes. The feeding enrichments consisted of electronic feeders delivering food (unpredictable in time); these were successively combined with one of the three additional treatments: a self-service food box, manually scattering food (unpredictable in space), and an electronic dispenser delivering food unpredictably both in space and time.
+
+All four feeding enrichments significantly enhanced individual behavioral diversity and activity compared to a conventional feeding treatment. The proportion of food-related behaviors, such as food searching or food acquiring, increased the most during the feeding treatment with the highest spatial and temporal unpredictability. There was also an increase in exploratory behaviors, such as locomotion and monitoring behavior. The findings show that any temporal and/or spatial unpredictability in the presentation of food has a stimulating effect on the foxes’ behavior.
+
+### Other Enrichment Used at The Zoo
+
+- Puzzle feeders
+- Hanging toys
+- Squeaky toys
+
+![ca0f799f9aeef02d9897a996d78dc6be2](https://user-images.githubusercontent.com/43420227/56207224-379e9000-601c-11e9-98f3-88c1dd27df8f.jpg)
+
+![d8az219-bb7d2299-d103-4b49-aa19-fd015ff51fd5](https://user-images.githubusercontent.com/43420227/56207225-379e9000-601c-11e9-8f9f-454b1ce8c92a.jpg)
+
+
+<img width="600" alt="Screen Shot 2019-04-16 at 7 52 28 AM" src="https://user-images.githubusercontent.com/43420227/56207420-aa0f7000-601c-11e9-93fa-3326d7956873.png">
+
+![maxresdefault](https://user-images.githubusercontent.com/43420227/56207644-40dc2c80-601d-11e9-9129-831f8d2c8823.jpg)
+
+
+### Next Steps
+
+
+### References
 
 - Henry, J. David. How to Spot a Fox. Chapters Pub., 1993.
 
