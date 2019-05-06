@@ -149,6 +149,14 @@ Dimensions:
 
 Renderings:
 
+![Final 511](https://user-images.githubusercontent.com/43420227/57231813-4b209380-6fe9-11e9-9607-f7eb90b4b559.jpg)
+
+![Final 512](https://user-images.githubusercontent.com/43420227/57231814-4bb92a00-6fe9-11e9-815a-cdfbb9438272.jpg)
+
+![Final 513](https://user-images.githubusercontent.com/43420227/57231815-4bb92a00-6fe9-11e9-9e8d-bb98dfa75098.jpg)
+
+![Final 514](https://user-images.githubusercontent.com/43420227/57231816-4bb92a00-6fe9-11e9-8be2-4215c891c8d8.jpg)
+
 **Third Prototype** 
 
 ### Components
@@ -163,11 +171,11 @@ Renderings:
 - HM-10 Bluetooth 4.0 BLE Module
 - PCA9685 16 Channel 12 Bit PWM Servo Motor Driver
 
-![Catapulta5](https://user-images.githubusercontent.com/43420227/56960442-c3d1ac80-6b1e-11e9-8653-8e9affd71723.jpg)
+![Catapulta5](https://user-images.githubusercontent.com/43420227/57231804-45c34900-6fe9-11e9-947b-e00f590278d0.jpg)
 
 ### Interaction
 
-![Catapulta10](https://user-images.githubusercontent.com/43420227/56960443-c3d1ac80-6b1e-11e9-9925-9732d90fb99d.jpg)
+![Catapulta10](https://user-images.githubusercontent.com/43420227/57231807-46f47600-6fe9-11e9-860d-66a25a6c9f29.jpg)
 
 **- Zookeper:** Activates the low-frequency sound through Bluetooth.
 
