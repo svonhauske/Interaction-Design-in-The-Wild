@@ -139,6 +139,8 @@ Renderings:
 
 Dimensions:
 
+![CatapultaFinal](https://user-images.githubusercontent.com/43420227/57226074-19ed9680-6fdc-11e9-9205-6531a14b977d.jpg)
+
 **Third Prototype** 
 
 ### Components
