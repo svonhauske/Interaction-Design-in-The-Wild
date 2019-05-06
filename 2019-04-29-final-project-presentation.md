@@ -135,9 +135,9 @@ Renderings:
 
 ![Final 502](https://user-images.githubusercontent.com/43420227/56970124-79f3c100-6b34-11e9-9d36-bd665284ceaf.jpg)
 
-Dimensions:
-
 ![Final 503](https://user-images.githubusercontent.com/43420227/56970126-79f3c100-6b34-11e9-8bd4-5e48a2a7a639.jpg)
+
+Dimensions:
 
 **Third Prototype** 
 
