@@ -69,6 +69,30 @@ _"It is interesting to compare how successful the foxes were at catching various
 
 ![20180205_jennylynngolding_2216-2](https://user-images.githubusercontent.com/43420227/53015346-d93ca300-3418-11e9-8dc0-aadd084a8e3a.jpg)
 
+### Previous enrichment testing:
+
+[Feeding enrichment in an opportunistic carnivore: The red fox](https://www.researchgate.net/publication/228488070_Feeding_enrichment_in_an_opportunistic_carnivore_The_red_fox)
+
+Claudia Kistler,  Daniel Hegglin, Hanno Würbel, Barbara König
+
+They compared four different methods of feeding enrichment that were based on natural foraging strategies of opportunistic carnivores, red foxes. The feeding enrichments consisted of electronic feeders delivering food (unpredictable in time); these were successively combined with one of the three additional treatments: a self-service food box, manually scattering food (unpredictable in space), and an electronic dispenser delivering food unpredictably both in space and time.
+
+All four feeding enrichments significantly enhanced individual behavioral diversity and activity compared to a conventional feeding treatment. The proportion of food-related behaviors, such as food searching or food acquiring, increased the most during the feeding treatment with the highest spatial and temporal unpredictability. There was also an increase in exploratory behaviors, such as locomotion and monitoring behavior. The findings show that any temporal and/or spatial unpredictability in the presentation of food has a stimulating effect on the foxes’ behavior.
+
+### Other Enrichment Used at The Zoo
+
+- Puzzle feeders
+- Hanging toys
+- Squeaky toys
+
+![ca0f799f9aeef02d9897a996d78dc6be2](https://user-images.githubusercontent.com/43420227/56207224-379e9000-601c-11e9-98f3-88c1dd27df8f.jpg)
+
+![d8az219-bb7d2299-d103-4b49-aa19-fd015ff51fd5](https://user-images.githubusercontent.com/43420227/56207225-379e9000-601c-11e9-8f9f-454b1ce8c92a.jpg)
+
+<img width="600" alt="Screen Shot 2019-04-16 at 7 52 28 AM" src="https://user-images.githubusercontent.com/43420227/56207420-aa0f7000-601c-11e9-93fa-3326d7956873.png">
+
+![maxresdefault](https://user-images.githubusercontent.com/43420227/56207644-40dc2c80-601d-11e9-9129-831f8d2c8823.jpg)
+
 ### Process
 
 **Initial Sketch**
@@ -332,30 +356,6 @@ void loop()
 
 }
 ```
-### Previous enrichment testing:
-
-[Feeding enrichment in an opportunistic carnivore: The red fox](https://www.researchgate.net/publication/228488070_Feeding_enrichment_in_an_opportunistic_carnivore_The_red_fox)
-
-Claudia Kistler,  Daniel Hegglin, Hanno Würbel, Barbara König
-
-They compared four different methods of feeding enrichment that were based on natural foraging strategies of opportunistic carnivores, red foxes. The feeding enrichments consisted of electronic feeders delivering food (unpredictable in time); these were successively combined with one of the three additional treatments: a self-service food box, manually scattering food (unpredictable in space), and an electronic dispenser delivering food unpredictably both in space and time.
-
-All four feeding enrichments significantly enhanced individual behavioral diversity and activity compared to a conventional feeding treatment. The proportion of food-related behaviors, such as food searching or food acquiring, increased the most during the feeding treatment with the highest spatial and temporal unpredictability. There was also an increase in exploratory behaviors, such as locomotion and monitoring behavior. The findings show that any temporal and/or spatial unpredictability in the presentation of food has a stimulating effect on the foxes’ behavior.
-
-### Other Enrichment Used at The Zoo
-
-- Puzzle feeders
-- Hanging toys
-- Squeaky toys
-
-![ca0f799f9aeef02d9897a996d78dc6be2](https://user-images.githubusercontent.com/43420227/56207224-379e9000-601c-11e9-98f3-88c1dd27df8f.jpg)
-
-![d8az219-bb7d2299-d103-4b49-aa19-fd015ff51fd5](https://user-images.githubusercontent.com/43420227/56207225-379e9000-601c-11e9-8f9f-454b1ce8c92a.jpg)
-
-<img width="600" alt="Screen Shot 2019-04-16 at 7 52 28 AM" src="https://user-images.githubusercontent.com/43420227/56207420-aa0f7000-601c-11e9-93fa-3326d7956873.png">
-
-![maxresdefault](https://user-images.githubusercontent.com/43420227/56207644-40dc2c80-601d-11e9-9129-831f8d2c8823.jpg)
-
 
 ### Next Steps
 
