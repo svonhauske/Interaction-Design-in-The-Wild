@@ -181,6 +181,8 @@ HDPE - High-Density Polyethylene:
 
 Different shades of brown or green so it blends in with the environment. 
 
+![InContext](https://user-images.githubusercontent.com/43420227/57263165-c2801280-703d-11e9-9844-e626b00553d0.jpg)
+
 ### Components
 
 - Arduino
