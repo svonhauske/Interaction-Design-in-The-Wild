@@ -179,7 +179,7 @@ HDPE - High-Density Polyethylene:
 
 ### Color:
 
-Could be different shades of green so it blends in with the grass. 
+Different shades of brown or green so it blends in with the environment. 
 
 ### Components
 
