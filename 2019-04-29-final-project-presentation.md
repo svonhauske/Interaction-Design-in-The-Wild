@@ -159,6 +159,22 @@ Renderings:
 
 **Third Prototype** 
 
+### Materials
+
+HDPE - High-Density Polyethylene:
+
+- High strength-to-density ratio
+
+- Resistant to mildew, mold, and rotting
+
+- Resistant to corrosion, cracking, and weathering
+
+- Food-safe
+
+### Color:
+
+Could be different shades of green so it blends in with the grass. 
+
 ### Components
 
 - Arduino
@@ -334,6 +350,14 @@ All four feeding enrichments significantly enhanced individual behavioral divers
 
 
 ### Next Steps
+
+- Test different sounds and different frequencies.
+
+- Test launching height and distance.
+
+- Build multiple devices to create a system around the enclosure.
+
+- Adjust treat dispenser to fit different treats.
 
 
 ### References
