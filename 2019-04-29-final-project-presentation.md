@@ -161,11 +161,11 @@ Renderings:
 
 **Third Prototype** 
 
-![IMG_2381](https://user-images.githubusercontent.com/43420227/57263072-4dacd880-703d-11e9-81ee-704706e79e48.jpg)
-
 ![IMG_3166](https://user-images.githubusercontent.com/43420227/57263073-4dacd880-703d-11e9-8c55-14b793b3ddc4.jpg)
 
 ![IMG_9873](https://user-images.githubusercontent.com/43420227/57263074-4dacd880-703d-11e9-8929-e37b15765b3b.jpg)
+
+![IMG_2381](https://user-images.githubusercontent.com/43420227/57263072-4dacd880-703d-11e9-81ee-704706e79e48.jpg)
 
 ### Materials
 
@@ -351,7 +351,6 @@ All four feeding enrichments significantly enhanced individual behavioral divers
 ![ca0f799f9aeef02d9897a996d78dc6be2](https://user-images.githubusercontent.com/43420227/56207224-379e9000-601c-11e9-98f3-88c1dd27df8f.jpg)
 
 ![d8az219-bb7d2299-d103-4b49-aa19-fd015ff51fd5](https://user-images.githubusercontent.com/43420227/56207225-379e9000-601c-11e9-8f9f-454b1ce8c92a.jpg)
-
 
 <img width="600" alt="Screen Shot 2019-04-16 at 7 52 28 AM" src="https://user-images.githubusercontent.com/43420227/56207420-aa0f7000-601c-11e9-93fa-3326d7956873.png">
 
