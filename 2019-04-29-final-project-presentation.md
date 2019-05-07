@@ -159,6 +159,12 @@ Renderings:
 
 **Third Prototype** 
 
+![IMG_2381](https://user-images.githubusercontent.com/43420227/57263072-4dacd880-703d-11e9-81ee-704706e79e48.jpg)
+
+![IMG_3166](https://user-images.githubusercontent.com/43420227/57263073-4dacd880-703d-11e9-8c55-14b793b3ddc4.jpg)
+
+![IMG_9873](https://user-images.githubusercontent.com/43420227/57263074-4dacd880-703d-11e9-8929-e37b15765b3b.jpg)
+
 ### Materials
 
 HDPE - High-Density Polyethylene:
@@ -209,8 +215,7 @@ Could be different shades of green so it blends in with the grass.
 
 ### Video
 
-[![](http://img.youtube.com/vi/CDLuaqafLIo/0.jpg)](http://www.youtube.com/watch?v=CDLuaqafLIo "FoxFinalEnrichment")
-
+[![](http://img.youtube.com/vi/dthN6itNGHo/0.jpg)](http://www.youtube.com/watch?v=dthN6itNGHo "FoxFinal")
 
 ### Code
 ```C++
