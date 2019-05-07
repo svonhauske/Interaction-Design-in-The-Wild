@@ -6,6 +6,8 @@ author: Sofia von Hauske Valtierra
 ---
 # Luncher: An Enrichment Device
 
+![Final 512](https://user-images.githubusercontent.com/43420227/57231814-4bb92a00-6fe9-11e9-815a-cdfbb9438272.jpg)
+
 Luncher is inspired by the way in which foxes hunt insects. It plays a low-frequency sound to try to attract the fox. If the fox is able to pinpoint its location and gets close enough to the device, it shoots a treat up into the air, imitating an insect trying to fly away.
 
 Luncher is a portable device that can be placed anywhere in the zoo, hidden amongst plants or grass.
