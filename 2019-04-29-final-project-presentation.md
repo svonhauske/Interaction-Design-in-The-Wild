@@ -360,6 +360,8 @@ All four feeding enrichments significantly enhanced individual behavioral divers
 
 ### Next Steps
 
+- Tune motion sensor
+
 - Test different sounds and different frequencies.
 
 - Test launching height and distance.
