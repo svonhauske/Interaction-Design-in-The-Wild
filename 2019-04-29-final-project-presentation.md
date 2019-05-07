@@ -219,7 +219,7 @@ Different shades of brown or green so it blends in with the environment.
 
 ### Video
 
-[![](http://img.youtube.com/vi/dthN6itNGHo/0.jpg)](http://www.youtube.com/watch?v=dthN6itNGHo "FoxFinal")
+[!["Screen Shot 2019-05-06 at 9 19 27 PM" src="https://user-images.githubusercontent.com/43420227/57265245-adf34880-7044-11e9-8017-c2bb3d3040fd.png"](http://img.youtube.com/vi/dthN6itNGHo/0.jpg)](http://www.youtube.com/watch?v=dthN6itNGHo "FinalEnrichmentProject")
 
 ### Code
 ```C++
