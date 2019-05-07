@@ -9,7 +9,7 @@ The fundamentals of Human-Centered Design provide us with a framework to develop
  
 This class focuses on fundamentals of interaction by changing the traditional users of our technologies. There will be weekly lectures from zoologists and animal experts. The class will have weekly readings, assignments and projects for students to support their hypothesis. The students are expected to have prior prototyping abilities to rapidly iterate their solutions in this intensive course. A select number of students from the class will be chosen to deploy and test their final projects at the San Diego Zoo’s naturalistic setting. 
 
-[!["Screen Shot 2019-05-06 at 9 15 41 PM" src="https://user-images.githubusercontent.com/43420227/57265189-6967ad00-7044-11e9-95e8-3c1ff0ec0fbf.png"](http://img.youtube.com/vi/-urC29Lh8ig/0.jpg)](http://www.youtube.com/watch?v=-urC29Lh8ig "SemesterProjects")
+[![](http://img.youtube.com/vi/KNKD4UbiACA/0.jpg)](http://www.youtube.com/watch?v=KNKD4UbiACA "")
 
 ---
 1. [Designing for Humans](https://svonhauske.github.io/Interaction-Design-in-The-Wild/2019-01-28-designing-for-humans)
