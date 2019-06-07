@@ -21,10 +21,6 @@ This class focuses on fundamentals of interaction by changing the traditional us
 
 1. [Fox Enrichment Prototype](https://svonhauske.github.io/Interaction-Design-in-The-Wild/2019-02-26-fox-enrichment-prototype)
 
-1. [Central Park Zoo](https://svonhauske.github.io/Interaction-Design-in-The-Wild/2019-03-04-zoo-visit)
-
-1. [Boris & Horton Cafe](https://svonhauske.github.io/Interaction-Design-in-The-Wild/2019-03-04-pet-store-visit)
-
 1. [Hyena Enrichment Proposal](https://svonhauske.github.io/Interaction-Design-in-The-Wild/2019-03-07-group-enrichment-proposal)
 
 1. [Hyena Enrichment Prototype](https://svonhauske.github.io/Interaction-Design-in-The-Wild/2019-03-13-hyena-prototype)
