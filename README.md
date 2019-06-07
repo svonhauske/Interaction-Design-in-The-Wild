@@ -12,9 +12,6 @@ This class focuses on fundamentals of interaction by changing the traditional us
 [![](http://img.youtube.com/vi/KNKD4UbiACA/0.jpg)](http://www.youtube.com/watch?v=KNKD4UbiACA "Semester")
 
 ---
-1. [Designing for Humans](https://svonhauske.github.io/Interaction-Design-in-The-Wild/2019-01-28-designing-for-humans)
-
-1. [Ethograms](https://svonhauske.github.io/Interaction-Design-in-The-Wild/2019-02-03-ethograms)
 
 1. [Empathy Machine](https://svonhauske.github.io/Interaction-Design-in-The-Wild/2019-02-10-empathy-machine)
 
