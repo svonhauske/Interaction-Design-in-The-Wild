@@ -164,10 +164,5 @@ Technical Drawings:
  
 [![](http://img.youtube.com/vi/BB0bYADjauI/0.jpg)](http://www.youtube.com/watch?v=BB0bYADjauI "")
 
-**Results:**
-
-People found this fun and interesting. They really liked being able to control it with their finger. It did make them realize how hard it is to focus and pinpoint a sound in general, but even more when several things were happening around them.In terms of the volume, they could hear a slight change when rotating the ear towards a sound, but the motor and friction produced too much noise.
-
-Ideally, this would be made out of nylon or with bearings to reduce friction and noise. The ear pinna is modeled after a small sized red fox ear, but maybe testing out larger sizes would make the effect greater.
 
 [Go to main page.](https://svonhauske.github.io/Interaction-Design-in-The-Wild)
