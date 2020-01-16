@@ -5,7 +5,7 @@ date: 2019-02-10
 author: Sofia von Hauske Valtierra
 ---
 
-### Creating an Empathy Machine:
+# Creating an Empathy Machine:
 
 ## First Attempt: Researching Animals
 
