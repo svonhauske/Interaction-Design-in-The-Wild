@@ -2,6 +2,7 @@
 ### by Sofia von Hauske
 ---
 [ back to www.sofiavonhauske.com](http://www.sofiavonhauske.com/work)
+
 ---
 
 ‘Interaction Design in The Wild’ is an Interaction Design (IxD) course from the lens of wildlife and their sensory phenomena. Throughout the course, we look at sensory systems of various animals ranging from bats, bees, sharks and more. What would it be like to experience magnetic fields like a migratory bird, or to find your way like a bat? What if, like the polar bear, you could smell something that was 20 miles away? We draw a parallel in the human world and build devices with two primary aims: i) to understand and connect with wildlife, ii) to augment and build new dimensional experiences for humans
