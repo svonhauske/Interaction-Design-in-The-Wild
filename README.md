@@ -1,7 +1,7 @@
 # Interaction Design in The Wild 
 ### by Sofia von Hauske
 ---
-[ back to www.vonhauske.design](https://www.vonhauske.design/product-design)
+[back to www.vonhauske.design](https://www.vonhauske.design/product-design)
 
 ---
 
@@ -32,6 +32,6 @@ The fundamentals of Human-Centered Design provide us with a framework to develop
 1. [Luncher: Final Project](https://svonhauske.github.io/Interaction-Design-in-The-Wild/2019-04-29-final-project-presentation)
 
 --- 
-[back to www.sofiavonhauske.com](http://www.sofiavonhauske.com/work)
+[back to www.vonhauske.design](https://www.vonhauske.design/product-design)
 
 
