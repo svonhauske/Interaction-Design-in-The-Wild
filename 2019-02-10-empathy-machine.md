@@ -9,7 +9,9 @@ author: Sofia von Hauske Valtierra
 
 ## First Attempt: Researching Animals
 
-I first started by researching animals; I started looking into interesting behaviors that they had, or exciting ways in which they sensed things. One of the things that I found really interesting and that I went a little more deeply into was Firefly communication. Fireflies have different flying and lighting patterns that lets them communicate with their species and attract females. I had a couple of ideas of physical and digital games that had to do with this, but I wasn't really convinced. Starting out with research was not really getting me to where I wanted.
+I began my journey by studying animals and their interesting behaviors and sensory abilities. One particular area that caught my attention was Firefly communication. I was fascinated by the various flying and lighting patterns these creatures use to communicate with their own species and attract mates.
+
+I explored different possibilities for incorporating this concept into physical and digital games. However, none of the ideas I came up with felt quite right. Despite conducting extensive research, I realized that I had not yet reached the desired outcome.
 
 ![firefly](https://user-images.githubusercontent.com/43420227/52544532-6039ad80-2d7f-11e9-9998-c70df796e1ec.jpg)
 - [Science Friday](https://www.sciencefriday.com/educational-resources/talk-like-a-firefly/)
@@ -19,12 +21,18 @@ I first started by researching animals; I started looking into interesting behav
 
 ## Thinking About Empathy
 
-The first thing that came to my mind when I thought of empathy was something that happened back home in Mexico while I was visiting last year. I have two dogs back home, and I always travel with my dog from here; they are all rescues, so they already a little bit afraid of things. There is a church a couple of blocks away that celebrates several saints throughout the year, and they throw this big block party that goes on until 6 AM. There are fireworks all night long, and my dogs get really scared. They start shaking like crazy, they hide under the furniture and they won't come out, and there is nothing we can do about it. This time, my mom decided to call the church. It was about 2 AM when this happened. She managed to get in contact with the priest; he was in charge of the celebration. She explained why she was calling and politely asked him to stop lighting up fireworks, to which the priest responded: "Animals are replaceable." and hung up the phone. 
+When I think about empathy, I immediately recall something that happened back home in Mexico last year. I have two dogs, and whenever I visit, I bring one of them along. They're both rescues, so they tend to be a bit skittish.
+
+There's this church a few blocks away that throws these massive block parties to celebrate different saints throughout the year. The parties go on all night, and fireworks are a big part of the celebration. The problem is, my dogs get really scared of the loud noises. They start shaking like crazy, hiding under furniture, and they won't budge. It's tough to see them so terrified, and we feel helpless in those situations.
+
+During my last visit, around 2 AM, my mom took matters into her own hands. She decided to call the church and talk to the priest in charge of the celebration. She explained why she was calling and politely asked him to stop lighting up fireworks, to which the priest responded: "Animals are replaceable." and hung up the phone. 
 
 This is a picture of the Church:
 ![3350843466_80204db618_b](https://user-images.githubusercontent.com/43420227/52544673-1d2c0a00-2d80-11e9-86c1-15d243a5237b.jpg)
 
-From here I decided to do more research on hearing, and the effect that loud noises and noise pollution, in general, has on wildlife. 
+After that incident, it sparked my curiosity to dig deeper into the subject of hearing and how loud noises, like noise pollution, affect wildlife. I wanted to learn more and get a better grasp of the broader impact these things can have.
+
+So, I started doing some research, delving into the connection between animals and sound. I wanted to understand how those loud noises can mess with their habitats, communication, and overall happiness. It became my mission to uncover the effects of noise pollution on wildlife and really get to the bottom of it.
 
 
 ## Hearing in Animals
@@ -32,7 +40,8 @@ From here I decided to do more research on hearing, and the effect that loud noi
 As I started searching for more information on this, I kept coming across things like this:
 ![news](https://user-images.githubusercontent.com/43420227/52544882-9f68fe00-2d81-11e9-8205-5e219b9a1b24.jpg)
 
-News reports are mostly about marine life and the effect of noise pollution on them, but they aren't the only ones getting affected.
+
+News reports tend to focus heavily on marine life and how noise pollution impacts them, but it's essential to remember that they're not the only ones facing the consequences.
 
 ## Noise Pollution
 
@@ -67,7 +76,9 @@ What is noise pollution? A noise is an unwanted or inappropriate sound. Noise po
 
 What is Pinnae? Pinnae are the external part of the ears in humans and other mammals. I decided to focus on the pinnae because I think it is something we often overlook or take for granted when we are thinking about hearing.
 
-Some animals can swivel or rotate their pinnae in order to pinpoint where sounds are coming from. For predators, it is helpful while hunting, to find their prey, and for the animals being hunted, it helps them avoid predators.  
+Here's the interesting part: some animals can actually move their pinnae. They can rotate or swivel them around to figure out where sounds are coming from. It's like having a built-in sound detector! This skill is super useful for predators when they're hunting because it helps them locate their prey accurately. And for animals that are being hunted, it's a survival tool that helps them detect and avoid potential predators.
+
+So, pinnae may seem like just an ordinary part of our ears, but they play a vital role in helping animals hear and survive in their environments.
 
 **Examples:**
 * Foxes: Foxes can rotate pinnae up to 150 degrees.
@@ -86,7 +97,9 @@ Some animals can swivel or rotate their pinnae in order to pinpoint where sounds
 
 **First Step: Interior Mechanism**
 
-I started out by building out the mechanism I would need. I was going to use a servo motor to make the pinna rotate and since I wanted to somehow tie it back to muscle control, I decided to use a flex sensor. Bending the sensor with your finger would control the degrees of rotation of the servo.
+I decided to use a servo motor as the core component to achieve the pinna rotation. The servo motor would be responsible for moving the pinna-like structure. In order to make the rotation feel more interactive and connected to the user's body, I incorporated a flex sensor into the design. This sensor detects the bending motion and translates it into degrees of rotation for the servo motor.
+
+By bending the flex sensor with your finger, you would be able to control the extent of rotation of the pinna-like structure through the servo motor. This would simulate the experience of having control over the direction and focus of the sound, similar to how animals with rotating pinnae can adjust their hearing.
 
 This is what my circuit looks like:
 
