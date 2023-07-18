@@ -1,7 +1,7 @@
 # Interaction Design in The Wild 
 ### by Sofia von Hauske
 ---
-[ back to www.sofiavonhauske.com](http://www.sofiavonhauske.com/work)
+[ back to www.vonhauske.design](https://www.vonhauske.design/product-design)
 
 ---
 
